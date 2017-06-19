@@ -1,0 +1,457 @@
+             Final Fantasy VII Playstation Version
+
+      Fort Condor In-Depth FAQ version 2.0 Written By: Master Epyon on
+            August 26th, 2002. Last updated on: March 1, 2012
+                                COMPLETE!
+
+                   E-mail: Master_Epyon@gundamwing.net
+
+---------------------------------------------------------------------------
+TABLE OF CONTENTS
+---------------------------------------------------------------------------
+
+1. Legal Stuff
+2. Revision History
+3. What and Where is Fort Condor?
+4. What is the Mini-Game? (And General Tips)
+5. Advanced Tips (Or, the lazy guide)
+6. When do the Battles take place and what is the prize?
+7. What if they reach the shack?
+8. What can I buy at Fort Condor? (The Shop List)
+9. Credits
+
+---------------------------------------------------------------------------
+LEGAL STUFF
+---------------------------------------------------------------------------
+
+This is a comprehensive guide written to help out with the Fort Condor
+mini-game. It is not to be reproduced, changed, or altered in any form, and
+can only be found at http://www.gamefaqs.com Anyone else who wants to use it
+must mail me and cannot change the contents within without my permission.
+
+---------------------------------------------------------------------------
+REVISION HISTORY
+---------------------------------------------------------------------------
+
+My revision history works like this; if I add a new section, it'll be updated
+by 1. (I.e, from 2.0 to 3.0) Each little update I put in that section will be
+.1. (I.e, from 2.0 to 2.3, because there are three things I updated in the
+sections)
+
+Version 2.0 (Made on August 31, 2002)
+
+-Added revision history :D
+-Fixed some mistakes
+-Found out what CMD. Grand Horn actually uses.
+-Found out when you can get Fire Catapults and Tri-Stoners.
+-Found out that when you win five "Potions", you actually receive nothing.
+-Found out that you MUST have 4,000 gil or more before each battle or you can't
+play it.
+
+Version 2.5 (Made on September 1, 2002)
+
+-Found out you can't choose the option "Let them handle it" if the man has less
+than 3,000 gil.
+-Found out that CMD. Grand Horn (3) only uses Grand Attack when he dies.
+-Added a note beside the Commander's stats.
+-Re-arranged Tri-Stoner in the Advanced Tips for easier reference.
+-Added an ASCII Art Chart for the enemies and allies and fixed the ASCII Art
+for the Damage Done/Taken Section.
+
+Version 3.0 (Made on March 1, 2012)
+
+-Listed the remaining missing battles and their prizes!
+
+---------------------------------------------------------------------------
+WHAT AND WHERE IS FORT CONDOR?
+---------------------------------------------------------------------------
+
+Fort Condor is a reactor where a Condor is resting. Shinra wants to chase the
+Condor away and (Later)also want to get the Huge Materia. A resistance group
+wants to protect the Condor because it's laying it's eggs. Your job is to help
+them. Fort Condor is located South-East of Junon, it's surrounded by a canyon
+and has a giant Condor on top of it. Inside you can buy Materia and other
+items, and rest at an inn. There is a man guarding the door though. Tell him
+you want to help. Then go up the ladder and talk to the man at the table, and
+tell him you'll help! All set? Go up the left-most ladder, talk to the person,
+and you're all set to play the mini-game!
+
+---------------------------------------------------------------------------
+WHAT'S THE MINI-GAME? (AND GENERAL TIPS)
+---------------------------------------------------------------------------
+
+After talking to the guy at the top, you are presented with some options. You
+can find out about the soldiers you can hire, and the enemies which you will
+fight. You can also pick some other options.
+
+Contribute Gil - Give the man some gil. Every time you skip/lose a battle,
+he'll lose 3,000 gil. In all honesty, it doesn't seem to make any difference
+whether he runs out or not, but just to be safe, you should max out his gil.
+(30,000 gil). Definitely let him have 15,000 gil prior to battle #14.
+
+Let them handle it - The battle will automatically be over and the man will
+lose 3,000 gil. You will not win a prize. Not a very smart choice. Note that
+you CANNOT pick this choice if the man has less than 3,000 gil.
+
+Okay, Ready - Start the Mini-Game
+
+To play the game you must hire soldiers with your money (Not the other guy's)
+and set up soldiers. You may place up to twenty soldiers, and if you defeat all
+the enemies on screen, you'll win and you will receive 1/2 the gil of all the
+soldiers you hired that lived. (I.e, if you built a Tri-Stoner for 1000 gil
+you'll get back 500 gil if its still standing)You may set them about half-way
+down the mountain. When you're ready, press the X button and start the game!
+
+Now, there are some simple things you must know.
+
+-Like it or not, you must have 4,000 gil or more before he'll let you play the
+game. With this in mind, always keep spare change...
+
+-Press Circle over an ally to give him/her a command. Usually, you can only
+move to a different location, or attack an enemy. However, certain troops can
+do special things. A Worker, for example, can set a bomb which will explode on
+contact with an enemy, doing some damage. Usually, allies with special
+abilities should not be sent to attack.
+
+-Moving the Cursor over an enemy/ally will let you see their current HP/Max HP
+and you can see whether they're moving, set to attack, or healing.
+
+-When you need to pick between a group of huddled soldiers, you will be given
+an option of which one to pick. For example, I have three Defenders all huddled
+together. An enemy is making his/her way up the mountain, and two of my
+Defenders are badly injured. When I press Circle in the group, I can choose
+which soldier I wish to command. Same goes for when you're attacking a huddled
+group. (Although you'll usually end up hitting the enemy closest to you)
+
+-You can set down Stationary Units such as Stoners and Catapults to attack the
+enemy while another troop finishes them off. However, the land-based Stoners
+are not effective against flying enemies. Take note, also, that these machines
+can be destroyed very easily when an enemy reaches them. One more thing: The
+moment a Stationary Unit is set, it will fire. Then it needs to take some time
+(Usually about 5 seconds) to reload. To use this to your advantage, build one
+in front of an enemy troop and when it is destroyed, build another one...etc.
+
+-You may hire soldiers during battle, but ONLY if you have less than twenty
+soldiers left.
+
+-If a soldier is strong against a certain enemy, it will do nearly 2x damage
+and receive about 1/2 damage.
+
+-Likewise, if they're weak against a certain enemy, they will perform poorly,
+doing around 1/2 damage and receiving around 2x damage.
+
+-Attackers are best against Beast enemies, but fall quickly to Barbarians.
+
+-Defenders are best against Barbarians, but fall quickly to Wyverns.
+
+-Shooters are best against Wyverns, but fall quickly (And I mean quickly) to
+beasts.
+
+-With the three above statements, you should realize that you need to be
+diverse. An entire team of Shooters will not win the game for you easily.
+
+-All other troops are weak against nothing and strong against nothing(although
+Stoners and Tri-Stoners do low damage to Wyverns).
+
+-If an enemy reaches the shack, you must fight CMD. Grand Horn with your actual
+party. Don't worry, he isn't that hard, but you won't receive the normal prize
+for winning. (You can get a rare prize from him, though, see below)
+
+-Use your money wisely. If you waste it you may end up being unprepared for
+the next battle.
+
+-Workers can only place one bomb at a time until it explodes. Repairers can
+heal your troops by 10 each turs, but CANNOT heal troops while they are in
+battle.
+
+-Stationary units can be dismantled. The only time you should really do this is
+when you want to hire another troop, or if all the enemies have passed this
+unit. You may also change a Stationary unit's firing direction.
+
+-Attackers have high speed but have short range, Shooters have long range but
+weak power, and Defenders have high power but low speed.
+
+-The last enemy to climb the mountain is the Commander. He is very tough and
+suffers half damage (Rounded down) by all of your soldiers. I recommend using
+Shooters, because they have long range, or Defenders, because of their high
+attack power. A good choice is to send three Defender's with full HP all at
+once to attack the Commander. That way you won't lose anyone to him.
+
+-You can raise the game speed by pressing R1. You can lower it with L1. Raise
+it when you want troops to get to where they're going, but slow it down when
+you need to look around.
+
+-You cannot damage your own troops with your own traps.
+
+With that in mind, you should be able to win. However, if you want straight
+details, see below...
+
+---------------------------------------------------------------------------
+ADVANCED TIPS
+---------------------------------------------------------------------------
+
+In this section, I will tell you what soldiers you can hire, how much they
+cost, their HP's, attack power, range, the enemies, their stats, how much
+damage they each do, and how much damage they take.
+
+Units you may hire -
+
+|-------------------------------------------------------------------------|
+|           |    |        |       |      |                |               |
+|   ALLIES  | HP | ATTACK | RANGE | COST | STRONG AGAINST | WEAK AGAINST  |
+|-----------|----|--------|-------|------|----------------|---------------|
+|    Fighter| 200|   30   |   1   |  400 |     NONE       |     NONE      |
+|   Attacker| 180|   25   |   1   |  420 |     BEAST      |   BARBARIAN   |
+|   Defender| 220|   35   |   1   |  440 |   BARBARIAN    |     WYVERN    |
+|    Shooter| 160|   20   |  1~3  |  520 |    WYVERN      |     BEAST     |
+|   Repairer| 160|   10   |   1   |  480 |     NONE       |     NONE      |
+|     Worker| 160|   15   |   1   |  400 |     NONE       |     NONE      |
+|     Stoner| 100|   20   |  1~4  |  480 |     NONE       |     NONE      |
+|Tri-Stoner*| 150|   35   |  1~5  | 1000 |     NONE       |     NONE      |
+|   Catapult| 100|   18   |  1~5  |  480 |     NONE       |     NONE      |
+|F.Catapult*| 120|   25   |  1~6  |  600 |     NONE       |     NONE      |
+|Worker Bomb|NONE|   15   |  1~3  | NONE |     NONE       |     NONE      |
+|-------------------------------------------------------------------------|
+
+* (1)= Tri-Stoners do not become available until battle number 8 and onwards.
+
+* (2) = Fire Catapult's do not become available until battle number 5 and
+onwards. BTW, F.Catapult stands for Fire Catapult.
+
+Note that Worker Bomb is the Bomb laid down by the Worker, which explodes on
+contact with an enemy.
+
+Here is a list of all the enemies- (Note that there's no "Cost" section because
+you can't buy enemies!)
+
+|----------------------------------------------------------------|
+|  ENEMIES | HP | ATTACK | RANGE | STRONG AGAINST | WEAK AGAINST |
+|----------|----|--------|-------|----------------|--------------|
+|    BEAST | 180|   25   |   1   |    SHOOTER     |   ATTACKER   |
+|BARBARIAN | 130|   15   |  1~3  |    ATTACKER    |   DEFENDER   |
+|   WYVERN | 140|   20   |   1   |    DEFENDER    |   SHOOTER    |
+|COMMANDER*| 230|   50   |   1   |      NONE      |     NONE     |
+|----------------------------------------------------------------|
+
+* = There is only one commander, and he always appears last.
+
+The following is a chart detailing how much damage the units do and take. The
+first number is the damage given by your soldier, the second number is damage
+given to that soldier by the specific enemy. (With the exception of Worker's
+Bomb, which has only the damage given number) Also, the Repairer can heal 10 HP
+at a time.
+
+|-----------------------------------------------|
+|    ALLIES   |            ENEMIES              |
+| ------------|-----|---------|------|----------|
+|             |Beast|Barbarian|Wyvern|Commander |
+|      Fighter|30,25|  30, 15 |27, 20| 15, 50   |
+|     Attacker|40,12|  17, 22 |20, 22| 12, 50   |
+|     Defender|35,25|  52,  7 |24, 30| 17, 50   |
+|      Shooter|10,37|  16, 15 |30, 10|  6, 50   |
+|     Repairer|10,25|  10, 15 | 9, 20|  5, 50   |
+|       Worker|15,25|  15, 15 |13, 20|  7, 50   |
+|       Stoner|20,25|  16, 15 | 6, 20| 10, 50   |
+|   Tri-Stoner|30,25|  24, 15 | 9, 20| 15, 50   |
+|     Catapult|18,25|  14, 15 |14, 20|  9, 50   |
+|Fire Catapult|25,25|  20, 15 |20, 20| 12, 50   |
+|Worker's Bomb| 15  |    15   |  13  |    7     |
+|-----------------------------------------------|
+
+Next, I'll detail when all the battles take place.
+
+---------------------------------------------------------------------------
+WHEN DO ALL THE BATTLES TAKE PLACE AND WHAT IS THE PRIZE?
+---------------------------------------------------------------------------
+
+The battles take place at certain times during the story.
+
+NOTE: If you skip a battle, you cannot go back to it. If you skip a battle, you
+will receive the item you would have won from the previous one except x3. (With
+the exception of rare items) For example, if I skip battle #3 and do battle #4,
+I'll win 3 Ethers instead of a Megalixir. If I skip #3 and #4, I'll still win
+3x Ethers. From then on, you'll get the prize you would have got from the
+battle after the one you skipped. (I.e, you'll win a megalixir in battle #5 
+for the first example)
+
+Try to do all of these battles as early as possible!
+
+Thanks to SHiroshige's FAQ and Absolute Steve for listing certain battles.
+
+Battle #1: Takes place before resting at the house in Junon. You'll win a Magic
+Comb. (A weapon for Red XIII)
+
+Battle #2: After resting at the house in Junon and defeating Bottomswell, 
+before obtaining the Shiva materia. You'll win a Peace Ring.
+
+Battle #3: After getting in the water with Mr. Dolphin, before you use the 
+Dolphin Whistle. You'll win 3 Ethers. (HUGE thanks to the FF7 message board for
+this one! The game also mistranslates them into Tinctures)
+
+Battle #4: After getting the Buggy, before going to Cosmo Canyon. 
+You'll win a Megalixir.
+
+Battle #5: After choosing your party for the Cave of the Gi, before getting 
+the Tiny Bronco. It "Says" you win 5 potions, but these are actually 5 
+Hi-Potions.
+
+Battle #6: After you complete the Cave of the Gi, before talking to Shera 
+in Rocket Town. It "says" you win five potions once again, but once again 
+these are 5 Hi-Potions.
+
+Battle #7: After talking to Shera in Rocket Town, before Rufus shows up. 
+You'll win a Superball (a weapon for Yuffie).
+
+Battle #8: After you can use the Tiny Bronco, before you obtain the Keystone. 
+You'll win 3 Turbo Ethers.
+
+Battle #9: After going on the date, before going to the Temple of the 
+Ancients. You'll win 3 Turbo Ethers.
+
+Battle #10: After getting through the Temple of the Ancients, before using 
+the Lunar Harp. You'll win 5 X-Potions, though the game seems to indicate 
+you win nothing.
+
+Battle #11: After using the Lunar Harp, before resting in the Forgotten 
+Capital. You'll win 5 X-Potions, though the game seems to indicate you win 
+nothing.
+
+Battle #12: After sleeping in the Forgotten Capital, before the end of 
+disc one. You'll win 5 X-Potions, though the game seems to indicate 
+you win nothing.
+
+Battle #13: After disc two starts, before you obtain the Highwind airship. 
+You'll win 3 Elixirs.
+
+Battle #14: It takes place during the seven days you're captured in Junon. 
+You cannot go to it. Shinra attacks five times during the seven days 
+you're asleep.
+
+Battle #15: Same as #14.
+
+Battle #16: Same as #14.
+
+Battle #17: Same as #14.
+
+Battle #18: Same as #14.
+
+Battle #19: After getting the Highwind, before going to Mideel. 
+You'll win 3 Elixirs.
+
+Battle #20: Shinra attacks while you're visiting Cloud at Mideel. 
+You cannot go to it. Another wasted opportunity.
+
+Battle #21: After visiting Cloud at Mideel. Take note that this battle is
+MANDATORY. Before doing the battle, the man will give you all the money he has.
+If you win, go outside to get the Phoenix Materia and talk to the guy at the
+table to get the Huge Materia. If you lose to CMD. Grand Horn here, you're
+kicked out of Fort Condor FOR GOOD.
+
+There, that's all of them.
+
+---------------------------------------------------------------------------
+WHAT IF THEY REACH THE SHACK?
+---------------------------------------------------------------------------
+
+If they reach the shack, you'll fight CMD. Grand Horn. He isn't tough, and you
+can win a good prize for beating him. If you lose to him, you won't get the
+prize but you won't get game over. Note though that if you lose to him in
+battle 21, you're kicked out of Fort Condor forever. Also, his stats can 
+sometimes stay lowered if your party level is low and few enemies are left.
+
+Here are his stats...(Thanks to Kao Megura's FAQ for this info)
+
+CMD. Grand Horn
+  LV - 19          EXP - 200
+  HP - 2000        AP - 20
+  MP - 100         Gil - 2400
+ Attacks: Punch, Grand Attack
+ NOTE: You fight this version in battles 1-3
+
+
+CMD. Grand Horn
+  LV - 25          EXP - 400
+  HP - 4000        AP - 40
+  MP - 200         Gil - 4800
+ Attacks: Poison Breath
+ NOTE: You fight this version in battles 4-20
+
+
+CMD. Grand Horn
+  LV - 37          EXP - 800
+  HP - 8000        AP -  80
+  MP - 300         Gil - 9600
+ Attacks: Punch, Poison Breath, Grand Attack*
+ NOTE: You fight this version in battle 21.
+* = The ONLY time he uses Grand Attack this time is when you kill him, and
+he'll ALWAYS do it.
+
+Battles 1-3: Vagyrisk Claw. Note that this Claw can be stolen before all your 
+characters are level 78 from Bagrisk enemies on the world map at the Cosmo 
+Area as a rare steal.
+
+Battles 4-20: NOTHING!
+
+Battle 21: Imperial Guard. Let them reach the shack this time so you can win
+this. (Don't worry, you can still get Phoenix and the Huge Materia, providing
+you don't lose to him)
+
+---------------------------------------------------------------------------
+WHAT CAN I BUY AT FORT CONDOR? (THE SHOP LIST)
+---------------------------------------------------------------------------
+
+You can buy the following things at Fort Condor...
+
+BIG thanks to Kao Megura's FAQ for this info.
+
+THE ITEM SHOP - DISC 1
+
+Potion - 50 GIL
+Phoenix Down - 300 GIL
+Hyper - 100 GIL
+Tranquilizer - 100 GIL
+Tent - 500 GIL
+
+THE ITEM SHOP - DISC 2 AND 3
+
+Hi-Potion - 300 GIL
+Phoenix Down - 300 GIL
+Ether - 1,500 GIL
+Hyper - 100 GIL
+Tranquilizer - 100 GIL
+Tent - 500 GIL
+S-Mine - 1,000 GIL
+
+THE MATERIA SHOP - DISC 1
+
+Fire - 600 GIL
+Lightning - 600 GIL
+Ice - 600 GIL
+Restore - 750 GIL
+
+THE MATERIA SHOP - DISC 2 AND 3
+
+Throw - 10,000 GIL
+Manipulate - 10,000 GIL
+Deathblow - 10,000 GIL
+Destruct - 9,000 GIL
+All - 20,000 GIL
+
+---------------------------------------------------------------------------
+CREDITS
+---------------------------------------------------------------------------
+
+Thanks to www.gamefaqs.com for its great FAQ's.
+
+Thanks to the FFVII message board for the info on battle #3.
+
+Thanks to Kao Megura for his EXCELLENT FF7 FAQ.
+
+Thanks to Absolute Steve for some updated information!
+
+Thanks to CJayC for a great job on the site.
+
+And...to my parents, otherwise I couldn't have brought to you this FAQ.
+
+
+                                Copyright 2002
