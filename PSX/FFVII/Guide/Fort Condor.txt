@@ -294,6 +294,10 @@ You'll win a Megalixir.
 Battle #5: After choosing your party for the Cave of the Gi, before getting 
 the Tiny Bronco. It "Says" you win 5 potions, but these are actually 5 
 Hi-Potions.
+---------------------------------------------------------------------------
+*** Battle 5 Masih Skip (20170630)
+---------------------------------------------------------------------------
+
 
 Battle #6: After you complete the Cave of the Gi, before talking to Shera 
 in Rocket Town. It "says" you win five potions once again, but once again 
@@ -315,6 +319,8 @@ you win nothing.
 Battle #11: After using the Lunar Harp, before resting in the Forgotten 
 Capital. You'll win 5 X-Potions, though the game seems to indicate you win 
 nothing.
+
+20170702
 
 Battle #12: After sleeping in the Forgotten Capital, before the end of 
 disc one. You'll win 5 X-Potions, though the game seems to indicate 
