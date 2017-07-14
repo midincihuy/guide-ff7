@@ -1,0 +1,613 @@
+=================================
+GUIDE INFORMATION
+Game: Final Fantasy VII
+Format: PSX/PC
+Guide: Aeris Disc 2-3 guide
+Started: 14th May 2005
+Last Update: 3rd August 2005
+Finished: Not yet 
+By: Niai_Mitch 
+<niai_mitch@hotmail.com>
+www.gamefaqs.com
+=================================
+
+
+------------
+ABOUT E-MAIL
+------------
+
+If you notice any errors in my guide or have any additional information you
+would like to send in, then please e-mail me at the address provided at the 
+top of the guide. Please leave a name you would like to go by, for if I add
+any info you send in to the next version then I’ll have to give you credit!
+
+----------
+DISCLAIMER
+----------
+
+Please do not copy or reproduce this document without my consent. I would be 
+more than happy for you to put this on your website, as long as I am being 
+given full credit for it, but please e-mail me at niai_mitch@hotmail.com 
+before doing so. Thank you. 
+
+--------
+WARNING!
+--------
+
+This guide contains massive spoilers for Final Fantasy VII. It is therefore 
+highly recommended that you finish the game in its entirety before reading on. 
+You have been warned.
+
+
+NOTE: This guide was made with the use of the PC version. Although I do not 
+think this would cause anything in the guide to differ for those who own the 
+Playstation version, I cannot be 100% sure. If there are any conflicting 
+details, then please let me know via e-mail.
+
+
+~~~~~~~~~~~~
+INTRODUCTION
+~~~~~~~~~~~~
+----------------------------------------------------------------------------
+Yes, you know what happens. Much to the dismay of thousands of fans all over 
+the world, Aeris decides to run off and pop her clogs at the end of disc 1, 
+and leaves you party forever. Her demise lead to many rumors concerning her
+revival, some utterly ridiculous, and some slightly more convincing. 
+Nevertheless, it soon dawned on most people that Aeris was gone, and she 
+wasn’t coming back. Yes, that’s right.
+
+Aeris CANNOT be brought back to life!
+
+You CAN however hack your game and stick her back into the party after she
+has gone. She still proves quite an asset to your party, and with her best
+limit breaks in tow she can leave even the likes of Emerald Weapon 
+completely helpless. This guide will explain how to get Aeris back into your 
+party, moments when you can catch a glimpse of her on screen in the field 
+with your party even when she is dead, and times when you should avoid using
+her so as to avoid your game crashing. I very much hope that you find this 
+guide useful, and enjoy!
+----------------------------------------------------------------------------
+
+~~~~~~~~
+CONTENTS
+~~~~~~~~
+
+========================================
+1.HOW TO GET AERIS BACK IN YOUR PARTY
+========================================
+----------------------------------------
+1(a)PSX version
+----------------------------------------
+1(b)PC version
+----------------------------------------
+========================================
+2.AERIS APPEARS... AFTER SHE IS GONE
+========================================
+----------------------------------------
+2(a)Appearance #1 - THE FORGOTTEN CITY:
+                    ON THE WAY TO THE
+                    ALTAR
+----------------------------------------
+2(b)Appearance #2 - GREAT GLACIER:
+                   SNOWBOARDING RECOVERY
+----------------------------------------
+2(c)Appearance #3 - ANY FOREST:
+                   RECRUITING YUFFIE
+----------------------------------------
+2(d)Appearance #4 - SHINRA MANSION:
+                   RECRUITING VINCENT
+----------------------------------------
+2(e)Appearance #5 - WUTAI: 
+                    CHASING YUFFIE AND 
+                    THE PAGODA
+----------------------------------------
+2(f)Appearance #6 - VARIOUS LOCATIONS:
+                    INNS
+----------------------------------------
+2(g)Appearance #7 - GOLD SAUCER
+----------------------------------------
+2(h)Appearance #8 - FORT CONDOR:
+                   THE QUEST FOR THE
+                   HUGE MATERIA
+----------------------------------------
+2(i)Appearance #9 - COREL: 
+                   AFTER STOPPING THE 
+                   TRAIN
+----------------------------------------
+2(j)Appearance #10 - JUNON:
+                    WHERE’S THE CANNON?
+----------------------------------------
+2(k)Appearance #11 - ROCKET TOWN:
+                    MR. COMEDIAN
+----------------------------------------
+2(l)Appearance #12 - THE FORGOTTEN CITY:
+                    WATERFALL PROJECTION
+----------------------------------------
+2(m)Appearance #13 - COSMO CANYON:
+                     GRIEVING LITTLE BOY
+----------------------------------------
+========================================
+3.TROUBLESPOTS
+========================================
+----------------------------------------
+3(a)Trouble Spot #1 - THE FORGOTTEN CITY: 
+                      STAYING OVERNIGHT
+----------------------------------------
+3(b)Trouble Spot #2 - WHIRLWIND MAZE
+----------------------------------------
+3(c)Trouble Spot #3 - MIDEEL:       
+                      FINDING CLOUD
+----------------------------------------
+3(d)Trouble Spot #4 - ROCKET TOWN:
+                      INTO OUTER SPACE
+----------------------------------------
+3(e)Trouble Spot #5 - DIAMOND WEAPON 
+                      ATTACK
+----------------------------------------
+3(f)Trouble Spot #6 - COSMO CANYON:
+                      BUGENHAGEN’S 
+                      PASSING
+----------------------------------------
+========================================
+4.GENERAL BUGS
+========================================
+5.FREQUENTLY ASKED QUESTIONS
+========================================
+6.VERSION HISTORY
+========================================
+7.CREDITS
+========================================
+
+~~~~~~~~~~~~~~~~~~~~~~~~~
+AERIS - POST DISC 1 GUIDE
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+=====================================
+1.HOW TO GET AERIS BACK IN YOUR PARTY
+=====================================
+
+----------------
+1(a) PSX version 
+----------------
+A cheat device is the best (and quite frankly, only) way to go.
+Get yourself a hold of a Gameshark.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+(For the American (NTSC) version)
+
+Firstly, enter the master code:
+80000000-0000 
+
+This enables all FVII codes. Now, enter the code 8009B376-FF03. 
+Now start the game, and when the title appears turn off the 
+gameshark. Now load a save game where Aeris is no longer a party 
+member. Use PHS to remove the third character on the party screen. 
+Turn the gameshark back on, and Aeris will appear in the slot.
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+As of now, I'm lacking codes for the European (PAL) version. If anyone has
+one, then please let me know!
+
+If there are any problems with these codes, then please let me know via e-mail.
+
+---------------
+1(b) PC version
+---------------
+The easiest way to get Aeris back into the party in the PC version would be
+to use a game save trainer. I recommend the JENOVA program by Qhimm. You can
+find it at http://www.qhimm.com/#jenova 
+Use the program to load up an Aeris absent savefile and replace one of your 
+non-leader members with her.
+
+When you get Aeris back, she will be at the same level she was when she left
+the party after the Temple of the Ancients.
+
+====================================
+2.AERIS APPEARS... AFTER SHE IS GONE
+====================================
+
+Yes, for some reason or other there are occasions where Aeris will actually 
+appear in unique situations after it should be impossible to have her in the
+party at all. Here is a list of these appearances. Some of them are rather 
+puzzling, and I wonderwhy on earth they were programmed into the game.
+
+-------------------------------------------
+2(a)APPEARANCE #1
+THE FORGOTTEN CITY: ON THE WAY TO THE ALTAR
+-------------------------------------------
+
+Ok, so she hasn’t quite snuffed it yet, but I discovered this strange little
+occurrence just before ‘it’ happens. 
+
+Stick Aeris into your party in the last save point of disc 1 in the forgotten 
+city. As you approach the steps that lead to the altar she will appear with 
+the party when Cloud jumps ahead of the others. Her appearance here causes 
+some glitches, and ultimately you will be forced to reset the game.
+
+-She has not been animated fully as she does not perform the ‘try to follow 
+Cloud’ animation that a member usually does here.
+
+-Aeris’s model is absent from the altar until you proceed onto the next 
+screen. This must be because the game cannot have Aeris appear on screen in 
+two different places at the same time.
+
+-The battle with JENOVA Life proceeds normally with Aeris in the team, but 
+after the battle Aeris’s corpse will have moved nearer the stairs than it is 
+supposed to be, and is facing the wrong direction. Cloud and the other 
+present party member will not move, and the game will hang. 
+
+------------------------------------
+2(b)APPEARANCE #2
+GREAT GLACIER: SNOWBOARDING RECOVERY
+------------------------------------
+
+If Aeris is in your party just after the snowboarding game, she will appear 
+with the rest of the party as they recover from the fall. She will also 
+have her own unique party dialogue.
+
+Aeris: “I’m sick of this.”
+Aeris: “Hey. Let’s take a look at the map. Press [SWITCH].”
+
+-----------------------------
+2(c)APPEARANCE #3 
+ANY FOREST: RECRUITING YUFFIE
+-----------------------------
+
+This one isn’t particularly surprising. If you don’t get Yuffie until after 
+disc 1, Aeris will appear on screen as you try to convince her to join your 
+group. She acts exactly the same as she would have on disc 1.
+
+----------------------------------
+2(d)APPEARANCE #4
+SHINRA MANSION: RECRUITING VINCENT
+----------------------------------
+
+The same applies here as with Yuffie. She will act as she would have if she 
+was there on disc 1.
+
+--------------------------------------
+2(e)APPEARANCE #5
+WUTAI: CHASING YUFFIE, AND THE PAGODA
+--------------------------------------
+
+You guessed it. She appears in exactly the same way as if you had performed
+the stolen materia sidequest with her on disc 1. Once you have your materia 
+back, Aeris will also appear in the Pagoda of the Five Gods as Yuffie 
+fights to the top.
+
+------------------------
+2(f)APPEARANCE #6
+VARIOUS LOCATIONS: INNS
+------------------------
+
+Aeris will appear with the party before/after settling down for a good nights
+sleep at several inns. Yet again, this is because this could be done on disc 
+1.
+
+These places can be found at:
+-Cosmo Canyon
+-Wutai
+-Fort Condor
+
+-----------------
+2(g)APPEARANCE #7
+GOLD SAUCER
+-----------------
+
+Again, she appears as she would have done on Disc 1.
+
+-As the party enters the roller coaster in speed square.
+-At battle square.
+-Round Square is out of order on disc 2, but you can take her for a ride on 
+disc 3 when it reopens.
+
+
+-------------------------------------------
+2(h)APPEARANCE #8
+FORT CONDOR: THE QUEST FOR THE HUGE MATERIA
+-------------------------------------------
+
+Aeris will appear with the team as they have a conversation with the old man
+about the huge materia. She has a line of dialogue here.
+
+Aeris: “We can’t afford to be beaten!”
+
+After the battle she appears again, and has another line.
+
+Aeris: “What is this?”
+
+--------------------------------
+2(i)APPEARANCE #9
+COREL: AFTER STOPPING THE TRAIN
+--------------------------------
+
+After stopping the train successfully and staying at the inn, Aeris appears
+with the party as they discuss what to do next. Although she appears, she 
+does not have any lines of her own and there are strange gaps in the dialogue 
+you will notice where she should be saying something to Cid.
+
+Note: No idea if this exact same event occurs if you fail to save the train. 
+I’ll have to check.
+
+--------------------------
+2(j)APPEARANCE #10
+JUNON: WHERE’S THE CANNON?
+--------------------------
+
+When the party returns to Junon on disc 2 on their way to the underwater 
+reactor,Aeris will appear with the rest of the team as Cloud remarks on the 
+missing Sister Ray.
+
+--------------------------
+2(k)APPEARANCE #11
+ROCKET TOWN: MR. COMEDIAN
+--------------------------
+
+During the Huge Materia quest at Rocket Town, talk to the guy in the house at 
+the right hand side of the town who tells the crappy jokes. If you have Cid in
+your party, a little scene will occur here, and Aeris has dialogue. However, 
+she is completely invisible. I’ll post the transcript of this whole scene, as I 
+didn’t even know this little exchange existed until recently and I’m sure not 
+all of you are familiar with it.
+
+Comedian: Hey Cid! I just thought of the best joke! Listen to this one.
+Cid: I’m so sick of hearing these dumb puns, but okay... let’s get it over with.
+Go on... let me hear it.
+Comedian: Uh, now, let’s see, how did it go?
+Comedian: ...’He’s crude an’ a jerk’... I mean, he’s Rude of the Turks!
+Cloud: ..??
+Cid: And?
+Comedian: ’President Rufus, lathers Tantrics’... Uh, I mean... President Rufus
+gathers mechanics’...
+Comedian: ’Raunchy meat, a pocket full, at the cafeteria’. Uh, I mean...
+‘Launch a beat up rocket full of materia’.
+Aeris: (A fearful sense of humour...)
+Cloud: (The problem starts way before his sense of humour.)
+Cid: And I thought it might be fun to hear some of your stupid puns for old 
+times sake... my mistake.
+Comedian: Oh, ‘crap-again’ (oh, captain).
+Cid: Dammit! That does it!
+*Cid knocks him to the floor.*
+Comedian: How rude.
+Cid: Rude, hell! You’re the one who always cracks those #$##@& jokes!
+*Cid turns to Cloud.*
+Cid: Sorry, ‘bout that, now lesse...
+Cid: Looks like that *&%$#^$ Rufus wants to use my rocket for somethin’.
+Cid: Let’s go to the launching pad!
+
+I have checked, and the third non-Cloud or Cid member has that same line
+regardless of who they are, so Aeris’s dialogue in this instance isn’t
+unique at all.
+
+---------------------------------------------------
+2(l)APPEARANCE #12
+RETURN TO THE FORGOTTEN CITY: WATERFALL 
+PROJECTION
+---------------------------------------------------
+
+This one is simply bizarre. Aeris will appear with the party at the blue crystal
+during four separate scenes.
+
+1. If you visit the blue crystal after Cloud recovers in the lifestream, but 
+before going with Bugenhagen.
+2. When you visit the blue crystal with Bugenhagen when he tells you about Holy 
+for the first time.
+3. When you visit the blue crystal after finding the Key of the Ancients, and 
+watch the image on the waterfall.
+4. When Cloud and co. are about to leave and get a call from Cait Sith.
+
+During all four occasions, Aeris is completely mute. She will stand there not
+saying a word as Cloud and Bugenhagen discuss Holy and her death. Even during
+the third time when the party watches a reflection of her death and Cloud 
+stands there blubbering on about how sorry he is, she stands there silent like 
+one of the other party members would have done in her place. Cloud completely 
+fails to acknowledge that Aeris is standing right next to him, and the scenes 
+proceeds completely normally sans her appearance.
+
+
+
+
+----------------------------------
+2(m)APPEARANCE #13
+COSMO CANYON: GRIEVING LITTLE BOY
+----------------------------------
+
+Following Bugenhagen’s death, go to the “Starlet” Pub with a party of Cloud, 
+Red XIII and Aeris and enter Nanaki’s room on the first floor. Talk to the 
+little boy there, and Red XIII will comfort him. Aeris will be present with 
+the party.
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+And I’m afraid that is the last of her onscreen appearances with your party. 
+For the remainder of the game Aeris will remain a blank space whenever your 
+party is on the screen together.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+================
+3.TROUBLE SPOTS
+================
+
+Although for the most part you can use Aeris without any trouble, there are 
+some occasions where she simply must not be in your party or the game will 
+hang. Be sure to avoid using Aeris during the following events.
+
+--------------------------------------
+3(a)TROUBLE SPOT #1
+THE FORGOTTEN CITY: STAYING OVERNIGHT
+--------------------------------------
+
+If you are using Aeris again at the end of disc 1, then do not take her to 
+the room with the beds where the team will rest overnight. In the morning when 
+Cloud says he can feel that Aeris and Sephiroth is there, the gap that Aeris 
+makes in the party will cause nothing else to happen and the game will hang.
+
+SOLUTION: Head back onto the world map and remove her from the party. You can
+add her again at the save point near the altar if you want to see her glitchy 
+appearance there.
+
+-------------------
+3(b)TROUBLE SPOT #2
+WHIRLWIND MAZE
+-------------------
+
+If you have Aeris in your party in the scene before fighting Jenova DEATH, 
+the game will be stuck in a loop soon after Sephiroth disappears. You need 
+dialogue from the third non-Cloud or Tifa party member for this scene to 
+continue, and since Aeris does not have any the game cannot continue the scene.
+
+SOLUTION:
+Take Aeris out of the party on the screen with the save point and the Neo 
+Bahamut materia,and put her back in the party at the next save point to 
+avoid problems.
+
+---------------------
+3(c)TROUBLE SPOT #3
+MIDEEL: FINDING CLOUD
+---------------------
+
+With Aeris present, the game will hang after Tifa runs inside the clinic. 
+
+SOLUTION:
+Remove her before visiting Mideel with Tifa, and add her back later when Cid 
+is the party leader.
+
+
+-----------------------------
+3(d)TROUBLE SPOT #4
+ROCKET TOWN: INTO OUTER SPACE
+-----------------------------
+
+If Aeris is in your party when the rocket launches into space, the game will 
+hang just before you are supposed to go up the ladder to retrieve the huge 
+materia.
+
+SOLUTION: Just take her out of the party before entering the rocket with Cid. 
+
+
+----------------------
+3(e)TROUBLE SPOT #5
+DIAMOND WEAPON ATTACK
+----------------------
+
+You must not fight Diamond WEAPON with Aeris in the party, as the game will 
+hang during the cutscene following the victory FMV.
+
+SOLUTION:
+Take her out of the party before Diamond reaches Midgar.
+
+
+-----------------------------------
+3(f)TROUBLE SPOT #6
+COSMO CANYON: BUGENHAGEN’S PASSING
+-----------------------------------
+
+If you return to Cosmo Canyon on disc 3 with Red XIII and Aeris to witness 
+Bugenhagen’s death, the game will hang when the scene switches to the 
+campfire.
+
+SOLUTION:
+Take her out of the party before entering the canyon.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+I have tested the game quite thoroughly, and am fairly sure these are the 
+only Aeris trouble spots in the game, but if you happen to find any more then
+please e-mail me at the address provided at the top of the guide. 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+==============
+4.GENERAL BUGS
+==============
+
+As well as there being places in the game where having Aeris present in your 
+party will make the game hang, some general bugs occur that you should be 
+aware of if planning to use her again.
+
+-----------------------------------------------------------------------------
+-Since the last time Aeris was legitimately in the party she was a default 
+member, when you put her back in you might not be able to take her out of 
+the party and place her back in the team roster. If this occurs it will also
+work in reverse unfortunately. Whenever an event in the game forces your 
+members out of the party she will be stuck in the roster.
+
+Note: I'm not certain if this bug will affect everyone. It may be because of
+the method that I used to get her back (Qhimm's Jenova game trainer program).
+I'd be interested in hearing if this happens to PSX users or not.
+
+SOLUTION:
+
+If this happens, When you want to take her out of the party you will have 
+to hack another member into her place. She will keep everything she is equipped 
+with (materia, weapon, accessory) until you put her back in. Unfortunately, 
+until there is a fix for this bug it is impossible to select her for the 
+final battles against Sephiroth. 
+------------------------------------------------------------------------------
+-When you go to a weapons store, there may be a black square where her 
+portrait should be next to her weapon stats.
+Note: This happened to me once, and then when I next tried to buy something 
+her portrait was back. 
+
+SOLUTION:
+If this does happen, then chances are it will sort itself like it did for me. 
+Regardless, it is a harmless bug so just ignore it.
+------------------------------------------------------------------------------
+-Aeris may be absent from the arrange materia screen. Yet again, this bug 
+seems to be rather fickle...
+
+SOLUTION:
+If this occurs, just swap any materia to and from Aeris and other members 
+manually instead.
+-----------------------------------------------------------------------------
+
+============================
+5.FREQUENTLY ASKED QUESTIONS
+============================
+
+-----------------------------------------------------------------------------
+1. Why does Aeris appear after her death? Surely that means Square wanted to 
+bring her back to life!
+-----------------------------------------------------------------------------
+
+I’m not quite sure why there are times when she has been programmed to appear 
+with the party, but the nail is firmly in the coffin as far as the storyline 
+is concerned. It perhaps suggests she may have originally meant to die at a 
+later time, or there was some confusion among the programmers of whether 
+Aeris was still around at that time. Remember, the programming probably 
+wasn’t all done in gameplay order, and not by just one person either. It’s 
+easy to see how there may have been confusion among the staff. Maybe those 
+little appearances were just thrown in for the hell of it, or they were put 
+in there just to confuse the curious fans. ;-) 
+
+--------------------------------
+2. Why did you write this guide?
+--------------------------------
+
+Because there is a guide on Gamefaqs about the long term use of Seifer and 
+Edea for FFVIII,a guide (two in fact) about the long term use of Beatrix for 
+FFIX, yet there was none about long term use of Aeris. I thought it would be 
+nice to fill the gap.
+
+=================
+6.VERSION HISTORY
+=================
+
+------------------------------------------------------------------------
+Version 0.75 - The very first version that was submitted to Gamefaqs,
+and if you are reading this then the first one that was succesfully 
+uploaded to the site.
+The guide is pretty much complete, though I'm currently lacking a 
+Gameshark code to get Aeris back into the party for the PAL version. 
+One will be up ASAP.
+3rd August 2005
+------------------------------------------------------------------------
+
+=========
+7.CREDITS
+=========
+I would like to thank...
+
+-Ebay, for helping me obtain a copy of the mega rare FFVII PC.
+-Qhimm, for having a kickass website (www.qhimm.com) and creating the Jenova 
+trainer which proved très useful in the creation of this guide.
+-CJayC, the creator of Gamefaqs, for accepting this guide. Thank you, sir!
+-You, for reading.

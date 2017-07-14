@@ -1,0 +1,1679 @@
+Final Fantasy VII Command Only Challenge
+
+Copyright Acid Angel 13     2005
+ver 1.50
+
+CONTENTS******************************************************************
+i    INTRODUCTION
+ii   THE RULES
+iii  FAQ's
+iv   HELPFUL TIPS
+v    SETUPS/SUGGESTIONS
+vi   ENEMY SKILLS
+vii  WALKTHROUGH
+viii SIDEQUESTS
+ix   THANKS
+x    LEGAL STUFF
+xi   VERSION HISTORY/AUTHORIZED SITES
+
+************************************  i   ********************************
+INTRODUCTION
+
+   I love this game...
+   There is no way around it.  After, what, almost ten years?, I can STILL
+play it every two months and not tire of it.  I tell people if someone
+were to break into my home, steal EVERYTHING I own, minus one of my
+Playstation decks, my TV, and one of my copies of the game, I'd probably
+not notice.
+   And, once I did notice, I simply would not care...
+
+   Final Fantasy VII...
+
+   Some people visit their families, hang out with friends.  Cloud, Tifa,
+Aeris... They are my family.  Barret, Red XII, Cid... They are my friends.
+I know, it's pathetic and sad; But, if it gets the point across, if it
+offers any insight on the impact this game has had, still has, always will
+have on my poor excuse for a life, then it works.
+
+   Alas, a game that's been around so long, a game that has so many fans,
+has been explored, beaten, re-explored, and exploited to a point that a
+guy like myself can't contribute anything in its tribute.
+   Until now.
+   What you read now is my own attempt to contribute something to the
+Final Fantasy VII legacy.  As with all of my guides (as of now, only one
+other exists; However, this will remain my policy ad infinitum), this
+guide was composed WHILE playing, so the information presented should
+be 100% accurate.  Specifically, this guide was written using the
+notoriously inaccurate Bradygames Official Guide as sort of a roadmap, 
+from which I laid out the basic strategies and events BEFORE I actually
+reached them during gameplay.  These basics were then checked and revised
+as I reached the set points, therefore producing the unique and guide-
+specific information presented here.
+   There are guides, FAQs, lists, challenges upon challenges for FFVII.
+In the case of the latter, this is simply another.  Now, this game in its
+own right is not terribly difficult, so the term 'challenge' actually
+translates to "a reason to play this masterpiece again".
+   For those of you who need a reason...
+
+   !!WARNING!! THIS GUIDE ASSUMES YOU HAVE PREVIOUSLY COMPLETED THE GAME
+        THERE WILL BE SPOILERS, AND THEY WILL APPEAR WITHOUT WARNING
+
+************************************  ii  ********************************
+THE RULES
+
+   i:  Only Command (yellow) materia may be used.  Prior to obtaining
+       Command materias, only the default action commands 'Attack' and
+       'Item' can be used.  Command materias include:
+       -Steal/Mug
+       -Sense
+       -Enemy Skill
+       -Throw
+       -Manipulate
+       -Deathblow
+       -Morph
+       -2x/4x Cut
+       -Slash All/Flash
+       -W Item
+
+       -The materias W-Summon and W-Magic are Command type as well, but
+        serve no purpose in this challenge.
+       -The Mime materia cannot be obtained without a chocobo, and 
+        Chocobo Lure, an Independent (purple) materia, cannot be used.
+
+  **NOTE**: There is ONE exception to this rule (and it isn't what you
+       think), which may ONLY be used under extremely specific conditions
+       for a very limited time.  This will be laid out in detail later.
+
+  ii:  You may equip W-Summon/W-Magic if you choose, but why?
+
+ iii:  At the beginning of the game, Cloud has two magic materia equipped.
+       The magic command MAY NOT be used, and these materia must be
+       removed and trashed as soon as the option is available.
+       Subsequent characters entering the party with materia must have
+       said materia (minus Command type) removed and trashed.
+  
+  iv:  Non-Command type materia CAN NOT be equipped and sold later for a
+       profit.  No Non-Command type materia is allowed in the materia bag
+       at any time.  Found materia must be discarded at the time of 
+       pickup.
+
+   v:  Just because you have W-Item, it doesn't mean you can use the
+       W-Item cheat to max out potions and such in your inventory.
+       Here's a hint: If it says "cheat" in the name, IT IS CHEATING!!!
+       In the case a preparing to take on the Weapons, and during the
+       Ruby Weapon fight, however, use of this cheat is acceptable...
+
+***********************************  iii  ********************************
+FAQS (that I made up)
+
+   Q:  Can this be done?       
+   A:  Sure.  In fact, probably with a relatively small degree of
+       difficulty.  The level of the challenge is based more on the level
+       of the characters, so how hard it is is, ultimately, up to the
+       player (that would be you.)
+
+   Q:  Is this challenge more difficult than (insert challenge title
+       here)?
+   A:  As previously stated, the difficulty of this (or any other FF7
+       challenge, for that matter) resides with the player.  In terms of
+       comparasin, this challenge WILL get progressively easier as the
+       game proceeds, if you choose to take advantage of all the game
+       provides.  In the beginning, you will be limited to Attack and
+       Item, the default commands, and will be, essentially, playing a
+       'No Materia' game.  Once you start building an arsenal of Enemy
+       Skills (the only magic you will be allowed), the difficulty will
+       drop signifigantly.  By the time you acquire 2x(4x) Cut and Slash
+       All, it's likely you won't notice much difference from a normal
+       game. 
+
+************************************  iv  ********************************
+HELPFUL TIPS (or, Some Stuff You May Have Forgotten)
+
+    i:  Pick up AT LEAST three of the four Enemy Skill materias.  Enemy
+        Skill is the ONLY magic you will be allowed, and certain Skills,
+        such as Big Guard and White Wind will be nearly essential for
+        completing the game.       
+
+   ii:  Remember, without Restore, Potions are your only way of curing
+        until Enemy Skill comes along, and Phoenix Downs are like gold,
+        since there is no E. Skill equivalent of Life.  (CORRECTION: There
+        is, in fact, an Enemy Skill version of Life- Life 2, specifically.
+        Angel Whisper retores a KO'd party member to full HP, as well as
+        restoring all HP to a non-KO'd member, and erases all status
+        effects.  However, as this skill becomes available so late in the
+        game, the above statement remains, effectively, true.)  Thanks to
+        everybody who reminded me of this.
+
+  iii:  When learning a new Enemy Skill, remember that any materia having
+        that particular skill on it will negate the learning effect on any
+        other E. Sill on the same character.  Confused?  If Cloud is
+        wearing 3 Enemy Skills, one of which has Aqualung, and he tries to
+        learn Aqualung, the skill WILL NOT be picked up because Cloud
+        already has it.  In other words, spread out your Enemy Skills (pay
+        attention to the guide; I will direct you on how to place materias
+        when it comes time to get Skills in tricky situations.)
+
+   iv:  Save often.  That's your only warning.
+  
+***********************************   v   ********************************
+SETUPS/SUGGESTIONS
+   This is sort of an extension of the Helpful Hints section.  Basically,
+   I will offer advice on how to use and who to equip with certain
+   materias in order to help you advance.  Mind you, these are simply MY
+   personal preferences, and are in no way absolutely neccesary to
+   complete this challenge.
+
+    i. Keep an Enemy Skill on EVERY character in the main party (once you
+       have enough, of course)
+   ii. On that note, learn Enemy Skills AS SOON as possible, and keep all
+       of your materias updated (i.e. all having the same magics 
+       available)
+  iii. Steal vs Mug:  Personally, I prefer Steal.  It's a control thing;
+       Basically, I prefer to be able to make steal attempts without
+       causing damage, allowing me to try to steal until I get an item
+       without fear of killing the enemy first.  However, Mug is a great
+       'alternative' maens of dealing damage, as it always hit, unlike
+       Deathblow.
+   iv. 2x/4x Cut vs Slash All/Flash:  Again, personal preference.  I
+       like 2x/4x Cut, because, though targeting is random in normal
+       battles, in boss fights, it deals 4 hits to a single target.
+       Since most or all bosses are immune to Instant Death attacks, the 
+       advantage over Flash is obvious.  Also notew that Flash doesn't
+       cause damage to bosses; Only Slash-All will.  My advice: Have 
+       2x/4x on your hardest hitting party member, Slash-All on another.
+    v. Deathblow: The nature of Deathblow is random, however, unlike 
+       2x/4x Cut and Slash All/Flash, it does not replace the 'Attack'
+       command, thus making D.Blow an alternative to Limits.  Almost
+       essential if you plan on using Vincent for extended periods.
+   vi. Keep the main party outfitted with the best weapons and armor.
+       Because of the limited amout of materia allowed, number of slots
+       should not be a concern.
+  vii. Remember you are not playing a standard game; In fact, for the
+       first portion of the game, you will be playing a No Materia game.
+       This requires your levels to be slightly higher than the normal
+       recommended amount until you have enough Enemy Skills to 
+       compensate.  I will suggest gaining levels at certain points in
+       the walkthrough, up to a recommended point, but they are only
+       suggenstions.
+ viii. Without Independent materia, you cannot use Chocobo Lure.  Without
+       that, you cannot catch a chocobo.  Without the bird, you cannot
+       get the Mime materia, and, without Mime, you CANNOT get a Master
+       Command.  The only exception is to earn one by defeating Emerald
+       Weapon, or get a chocobo by killing Ruby Weapon.
+
+***********************************  vi    *******************************
+ENEMY SKILLS
+   In this section, I will list the 24 Enemy Skills in the order they
+   appear in the in-game menu.  Below the list is a chart listing how to
+   get each skill, and a rank describing its usefulness.
+
+-THE SKILLS
+
+   Frog Song                       L4 Suicide
+   Magic Hammer                    White Wind
+   Big Guard                       Angel Whisper
+   Dragon Force                    Death Force
+   Flame Thrower                   Laser
+   Matra Magic                     Bad Breath
+   Beta                            Aqualung
+   Trine                           Magic Breath
+   ????                            Goblin Punch
+   Chocobuckle                     L5 Death
+   Death Sentence                  Roulette
+   Shadow Flare                    Pandora's Box
+
+The below chart is divided as follows:
+Name- Name of Enemy Skill, obviously
+Enemy- Enemy that uses it; Bosses are marked with (B)
+Location- Where to find the enemy
+Manip.- Y or N; Whether or not the enemy must be Manipulated;
+      If there is a ?, I honestly don't know; If there is a -,
+      the enemy is a Boss and cannot be Manipulated, or a special
+      method must be used (see the * notes below)
+Rank- 0-5; How useful the skill is:
+   0- Absolutely USELESS
+   1- You won't miss it if you don't get it
+   2- You might use it once in a while
+   3- Fairly useful in certain situations
+   4- Pretty helpful to have
+   5- You can't live without it
+
+  NOTE: Ranking is based on MY opinion.  Don't send me hate mail because
+        you hate Beta or use Dragon Force religiously.
+
+NAME           ENEMY              LOCATION               MANIP.  RANK
+Frog Song      Touch Me           Cosmo Forest           N       3      
+               Toxic Frog         Temple of Ancients     N
+
+L4 Suicide     Mu                 Chocobo Farm area      N       0
+               Trick Play         Icicle Area            N
+
+Magic Hammer   Razor Weed         Wutai                  ?       5
+
+White Wind     Wind Wing          Whirlwind Maze         Y       5
+               Zemzelett          Condor Mt.             Y
+
+Big Guard      Beach Plug         Costa Del Sol beach    Y       5
+               Wolfmeister(B)     Coal Train             ?
+
+Angel Whisper  Pollensalta        Northern Crater        Y       2
+
+Dragon Force   Blue Dragon        Gaea's Cliff           ?       1
+               Dark Dragon        Northern Crater        Y
+
+Death Force    Adamantaimai       Wutai beaches          Y       1
+
+Flame Thrower  Ark Dragon         Mythril Mine           N       3
+               Dragon             Mt. Nibel              N
+
+Laser          Bullmotor          Desert Prison          N       3
+               Dark Dragon        Northern Crater        N
+               Death Claw         Desert Prison          N
+
+Matra Magic    Bullmotor          Desert Prison          N       1
+               Custom Sweeper     Midgar area            N
+               Death Machine      Junon                  N
+
+Bad Breath     Marlboro           Gaea's Cliff           N       4
+
+Beta           Midgar Zolom       Midgar Swamp           N       5
+
+Aqualung       Jenova LIFE(B)     City of the Ancients   -       4
+               Harpy              Gold Saucer desert     N
+               Serpent            Downed Gelinka         N
+
+Trine          Materia Keeper(B)  Mt. Nibel              -       2
+               Godo(B)            Wutai Pagoda           -
+               Stilva             Gaea's Cliff           N
+
+Magic Breath   Stilva             Gaea's Cliff           N       2
+
+????           Jersey             Shinra Mansion         N       0
+               Behemoth           Midgar underground     N
+
+Goblin Punch   Goblin             Goblin Island          N       1
+
+Chocobuckle    Chocobo (Lv 4)     Chocobo tracks         -*     N/A
+
+L5 Death       Parasite           Nothern Crater         N       0
+
+Death Sentence Bound Fat          Bone Village           N       1 
+               Gi Spector         Cave of the Gi         N
+               Sneaky Step        Cave of the Gi         N
+
+Roulette       Death Dealer       Northern Crater        N       0
+
+Shadow Flare   Ultimate Weapon(B) above Cosmo Canyon     -       4
+               Dragon Zombie      Northern Crater        N
+               Safer Sephiroth(B) Northern Crater        -
+
+Pandora's Box  Dragon Zombie      Northern Crater        ?       4
+
+*In order to get Chocobuckle, you must first encounter a Chocobo with a
+  Level multiple of 4, give it Mimmet Greens, then hit it with L4 Suicide
+  (impossible in this challenge)
+
+?'s
+Magic Hammer- I'm not sure if you HAVE to Manipulate for this skill
+Big Guard (Wolfmeister)- Can Wolfmeister be Manipulated?
+Dragon Force (Blue Dragon)- I have NEVER managed to get Dragon Force from
+  a Blue Dragon.  Please, somebody tell me how!
+Pandora's Box- Usually, it is used as a Final Attack by Dragon Zombie.
+  I'm also fairly certain it will NOT be used if you learn Shadow Flare
+  from a Dragon Zombie.
+    
+***********************************  vii   *******************************
+WALKTHROUGH
+   Not a walkthrough in the traditional, hand-holding sense, here I
+   will highlight specific points of interest through the quest, materia
+   locations, and boss strategies.
+
+GAME START- MAKO REACTOR #1
+   Check the guard for potions.
+
+BOSS:GUARD SCORPION
+   Use Limits when you get them and potions when you need to.  Don't
+attack when the tail is up.
+
+   You have 10 minutes.  Save Jesse on the way out (you have to).  Pick up
+a couple levels if you have time.
+
+SECTOR 8
+   I fight the guards, but you don't have to.
+
+SECTOR 7
+   Get some sleep and get the materia tutorial.  Now you can finally drop
+your materia (do so!)  Head over to the store and pick up some Iron
+Bangles.  A few grenades wouldn't hurt either (10 or 20 should do).
+Upstairs, you can get a free ether.  Pawn it for a few extra gil toward
+Potions and Phoenix Downs (focus more on the former than the latter).
+
+TRAIN RIDE
+   After the alarm goes off, talk to these people as you move up the
+train:
+   Car #1:  The crazy old guy at the back of the car; He gives a Phoenix
+            Down
+   Car #2:  The black guy at the front of the car closest to the screen
+            for a Hi-Potion
+   Car #3:  There's a guy that randomly steals something from you.  You
+            have to chase him down if you want it back.
+
+SEWERS/SECTOR 5 REACTOR
+   You can proceed to the Reactor, or backtrack a few screens to a door
+blocked by two guards.  You can fight these guards over and over until
+you run out of Potions or interest.  It's your call, but a few extra
+levels never killed anyone but the enemy.
+
+BOSS:AIRBUSTER
+   Try to hit it from the back.  Abuse the attack button and use Limits
+like they were free.
+
+SECTOR 5 SLUMS
+   Save Aeris with the barrels if you like, but it may benefit you to
+make her fight.  Afterwards, grab the package by the door in her house
+before you skip town.
+
+WALL MARKET
+   Pick up some new equipment (don't waste gil on the new Aeris weapon,
+though), Hypers, and Hi-Potions, and get Cloud in touch with his feminine
+side.  Whether or not the Don chooses Cloud is meaningless; In fact, not
+being chosen allows you to score a free Phoenix Down and Ether.  Grab the
+Hyper in Don's room.
+
+BOSS:APS
+   Have everyone hypered and unload Limit Breaks on it.  If you managed
+to get Cloud's 1-2 Limit Cross-Slash, using it will paralyze the boss for
+several turns.  Have Aeris use Healing Wind and chuck grenades.  This
+clinically retarded boss will often damage itself with its Sewer Tsunami,
+so in theory you could simply keep your HP up and let it kill itself.
+
+SEWERS
+   After slapping Aps, you snag your first useable materia- Steal!  At
+this point, Tifa packs the highest dexterity rating, so it's a good idea
+to stick her with shoplifting duty.
+
+TRAIN GRAVEYARD
+   Keep your eyes peeled for items; There's a lot of them here.  Now that
+you have Steal, be on the lookout for these enemies:
+   Deenglow- Little dragon-type creatures, they carry Ethers
+   Cripshay- Pink beetle bugs, have Potions     and
+   Eligor- Looks like a cyclops in a chariot, has the Striking Staff,
+           which will help make Aeris slightly less useless.
+
+   Timothy Cannelora was nice enough to remind me WHY stealing Ethers here
+   is important: They sell for a hefty 750 gil a pop, so 99 of them for
+   sale easily scores you a small fortune early on.  Thanks, Tim.
+
+SECTOR 7 PILLAR
+   The Aero Combatants you fight on the way up carry Potions, one item
+you can never have too many of, so be sure the heist some.
+
+BOSS:RENO
+   Reno has nothing, so don't waste a turn stealing.  Blast him with
+Limits and normal attacks.  When he uses his Pyramid attack, target the
+affected character.
+
+SECTOR 6
+   You can grab the Sense materia now or wait until you come back by
+after hearing about Aeris's sordid past as an underage call girl from her
+mom.
+
+WALL MARKET
+   Get the batteries (300 gil) and climb up the "golden shiny wire of
+hope".
+
+SHINRA HQ
+   Bust in the front; You'll need the EXP.  MAKE SURE to check the
+bulliten board for the Turtles Paradise flyer- You only get two chances,
+so you'd better do it sooner than later.
+   On your way up the tower, watch for these beasties:
+   Moth Slasher- A robot with a rotating bottom piece, they have Carbon
+                 Bangles (get 5; One each for your current party, and
+                 extras for Aeris and Red XIII, who you'll be running into
+                 soon.
+   SOLDIER 3rd- Guys with swords.  They have the Hardedge, a new sword for
+                Cloud.
+
+60th FLOOR
+   Fight the guards instead of sneaking by for EXP.
+
+62nd FLOOR
+   If you get the password on the first try, trash the materia.
+
+63rd FLOOR
+   Get the A Coupon (far left room) at least.  It gives you a Star
+Pendant.  If you get all three, flush the All materia.
+
+64th FLOOR
+   Rest, save.  Spend 250 gil at the vending machine, then bang on it.
+
+67th FLOOR
+   Until you trigger the scene where Cloud looks in the JENOVA cell, you
+will be free to return to the lower floors.  If you don't have a full
+compliment of Carbon Bangles or a Hardedge (or two, or three...),
+CAREFULLY run circles in the small area between the hall and the JENOVA
+cell to trigger random battles.  This way you can head back to floor 64
+to rest for free, and floor 1 to restock your potions.  Try to get your
+level to 14 or 15 here.
+   After you get stuck here, ignore the chest (it holds the Poison
+materia), save, and ride the elevator to a boss.
+
+BOSS:HO512 and SAMPLES
+   Put Barret with Cloud and Red.  Make sure someone has the Star Pendant
+on.  Use Limits and normal attacks on the big guy (Cross-Slash will stun
+it), but do not use Red's magic.
+
+68th FLOOR
+   Pick up the Enemy Skill materia and trash Red XIII's Fire and All.  Put
+Carbon Bangles on Red and Aeris and choose a party.  You may want to pick
+up some levels for Aeris, and have Steal equipped on somebody.
+
+67th FLOOR
+   Do not go on before getting AT LEAST two Deadly Wastes; Steal them from
+Zenenes, four legged beasts.  Try to get Cloud a full Limit Bar.
+
+BOSS:HUNDRED GUNNER
+   Put everyone in the back row.  Barret is the only one here that can
+reach the boss with standard attacks, so Red and Aeris will be twiddling
+their thumbs between Limits.
+
+BOSS:HELI GUNNER
+   Again, only Barret can reach with normal attacks.  Have Red and Aeris
+chuck grenades in between Limits.
+
+BOSS:RUFUS and DARK NATION
+   Those Deadly Wastes I told you to get?  Use them now.  They target
+both Rufus and his pet, so if the first one poisons them, don't waste
+another.  Use your Limit Break on Dark Nation; at level 15 one Cross-
+Slash will kill it.  After that, toss grenades at Rufus; I did him in
+with three.
+
+1st FLOOR
+   You can run back up to the store and pick up supplies before triggering
+the cutscene by heading for the door.
+
+HIGHWAY CHASE
+   Put Aeris in the party.  Remember to set the party up in reverse order;
+Back row in front and front in back.
+
+BOSS:MOTOR BALL
+   Use the escape buttons immediately as the battle begins to avoid taking
+back damage.  Use Limits and Cloud's physical attack;  Have the others
+use grenades.
+
+WORLD MAP
+   Finally out of Midgar!  Choose your party and head for Kalm.  On the
+way, pick a few fights and steal stuff.
+   Devil Ride- Looks like a big motorcycle, carries Hi-Potions
+   Kalm Fang- Purple wolf looking beasts, they have Ethers
+   Custom Sweeper- A robot with gun arms, has the Atomic Scissors weapon
+                   for Barret AND uses the Matra Magic Enemy Skill!!
+
+KALM
+   Inside the Inn, upstairs, there is a cabinet in the upper left corner
+of the room.  Check it, and you won't be able to reach the item.  Check
+it again and again, and Cloud will get pissed and kick the cabinet,
+causing it to drop a Megalixer.
+   There's plenty more to pick up around town, and you may want a second
+Steal materia to speed up theft attempts.
+
+WORLD MAP
+   Make a party of Cloud, Barret, and Aeris.  Get everyone to level 20 and
+make sure Barret has his level 1-2 Limit, Mindblow.  Fill his Limit Bar
+before heading to Midgar Marsh.  You can also learn Lv. 4 Suicide while
+you're out; Mu's, a little squirrel in a hole in the ground, use it.
+
+BOSS:MIDGAR ZOLOM
+   Put everybody in the back row for this fight.  Start by blowing away
+its MP with Mindblow.  If you have any Deadly Wastes left from the Shinra
+Building, use them to try to poison it.  After that, use physical attacks
+and Limits on it.  Be warned, you may fight this 'boss' multiple times!!
+
+MYTHRIL MINE
+   Ark Dragons, creatures that look like a flying bug of some kind, use
+the Enemy Skill Flamethrower.
+
+FORT CONDOR
+   Agree to help, even if you don't actually do so.  This will allow you
+to rest free in Fort Condor for much, if not all, of the game.  By
+playing the minigame and winning the first battle, you get a Magic Comb
+for Red XIII
+
+WORLD MAP
+   Enter the forests near Fort Condor and get Yuffie.  While you search
+for her, steal from the Blue Impulse bird enemies to get a Boomerang.  As
+soon as Yuffie joins the team, replace Aeris with her.  Yuffie has a
+higher attack, a long range weapon, and her level 1-2 Limit (which you
+should get now) does the same thing as Healing Wind.  Yuffie comes
+equipped with a new materia, Throw.
+
+JUNON HARBOR
+   Make a party of Cloud, Yuffie, and Barret.  Change Barret's weapon to
+a long range one and put the Enemy Skill materia on Cloud.  Pick up some
+more grenades at the weapon shop, and head down to the beach.
+
+BOSS: BOTTOMSWELL
+   Use normal attacks and Limits with Barret and Yuffie.  Have Cloud use
+Enemy Skills or toss grenades between Limits.
+   Bottomswell uses an attack similar to Reno's Pyrimid; The difference
+is, Bubble can only be destroyed by magic.  Use Matra Magic for this, as
+it targets all enemies.  If Cloud is bubbled, let him suffocate and revive
+him immediately with a Phoenix Down.
+   Lastly, Bottomswell uses Big Wave as a final attack.  Keep your HP
+above 150 to weather this attack.
+
+JUNON HARBOR
+   Do the CPR event and rest.  When Priscilla gives you Shiva, demean her
+by throwing the materia away right in front of her.
+
+JUNON
+   Don't worry about the marching.  After you get dismissed, do some
+shopping.  Junon is divided into two sides, Upper Junon (where you start
+off), and Lower Junon (past the submarine tunnel).  Depending on what
+you're currently carrying, the weapons here may be worth a look:
+
+   -DON'T get the Mythril Saber for Cloud
+   -The Grand Glove in Upper Junon is the best weapon so far for Tifa
+   -If you missed the Atomic Scissors for Barret, Upper Junon has it
+   -Magic Comb is Red's best weapon; If you didn't get it, the Diamond Pin
+    in Upper Junon is the next best thing
+   -If you didn't steal a Boomerang for Yuffie, Upper Junon has it
+
+   (The Upper Junon weapon shop is down the alleyway with the blue light.)
+
+   MAKE SURE to get the second Enemy Skill here!!
+   Also note you can now buy Hi-Potions;  Grab a few of those.
+   Save at the Inn before reporting to the sendoff at the docks.  The
+goal here is to get the President's Mood above 100; Doing so will net you
+a Force Stealer sword for Cloud.
+
+SHINRA BOAT
+   Do what you do.  Don't waste a Tranquilizer to move Yuffie; It's an
+All materia behind her.  Once you can go below, take Cloud, Yuffie, and
+your highest HP party member and go.  Give the Enemy Skill materia with
+Flamethrower on it to whoever has the lowest attack.  In the holds, get
+the Wind Slash and equip it on Yuffie, the Force Stealer on Cloud, and
+the best weapon on your third member.
+
+BOSS:JENOVA-BIRTH
+   Use normal attacks, Limits, and Flamethrower.  Don't worry about its
+Stop magic.
+
+SHINRA BOAT
+   Ignore the Ifrit materia JENOVA drops and exit.
+
+COSTA DEL SOL
+   MAKE SURE to get the Fire Ring here; It's downstairs in the place for
+sale (the first door Cloud comes to).
+
+MT. COREL
+   Fall through the train tracks and get the items.  Ignore the Transform
+materia and remember to climb the mountianside near the bridge switch for
+10 Phoenix Downs.
+
+NORTH COREL
+   After Barret gets bitch slapped, leave town by way of the south exit
+to the world map.
+
+WORLD MAP
+   Run around and gain levels, boost Limits, and raise 30,000 gil for a
+Lifetime Pass, then reenter North Corel and ride the tram.
+
+GOLD SAUCER
+   Cait Sith joins the party with two materia equipped: Transform, which
+you should dispose of now; And Manipulate.  You now possess one of the
+most powerful materia in the game.
+
+COREL PRISON
+   Put that new materia to good use here and get Laser and Matra Magic on
+both of your Enemy Skill materia.  Equip Barret with the best equipment
+you have.  Set his Limit to level one.
+
+BOSS:DYNE
+   Barret is alone here.  Use Enemy Skills (Flamethrower works well) and
+abuse Limits.
+
+GOLD SAUCER CHOCOBO RACE
+   Ignore the Ramuh materia and win the race.
+
+WORLD MAP
+   !!DO THIS NOW!!
+   Cruise around the desert surrounding the Gold Saucer until you
+encounter a Harpy (it looks sort of like a chimera).  Learn Aqualung from
+it.
+   From there, head back toward Costa Del Sol.  On the beaches nearby,
+look for Beach Plugs (they look like squids or jellyfish).  Manipulate
+one and learn Big Guard.
+   Now drive the buggy into Costa Del Sol and stow away on the ship to
+Junon.  From Junon go toward Fort Condor.
+   In the grassy areas around Fort Condor you will find Zemzellet (an
+enourmous bird).  Manipulate it and get White Wind.
+   Next, head back into Mythril Mine and get Flamethrower on your second
+Enemy Skill.
+   Now comes the hard part.  Exit the Mines near Midgar Marsh.  Save,
+heal, and put everyone in the back row.  Equip one character with the Fire
+Ring and BOTH Enemy Skill materia.
+   Enter the marsh and fight a Midgar Zolom.  DO NOT Mindblow it.  Cast
+Big Guard on your party, then get your magic carrying member's turn up
+again.  This time use Laser to halve the Zolom's HP and make it stand up.
+From now on, DO NOTHING with the character holding the E. Skills!  Have
+the other two carefully shave down its HP.  At some point, the Zolom will
+kick one of your characters out of the battle (from my experience, it
+MUST do this, or it will not use Beta).  When it is very near death, it
+will unleash Beta on the team, likely killing the non-Fire Ring equipped
+character.  The one with the Ring will nullify the attack AND learn Beta
+on BOTH Enemy Skills.  Finish the Zolom off and go back through Mythril
+Mines.
+   You may now return to your regularly scheduled game...
+
+GONGAGA VILLAGE
+   You can learn Frog Song from Touch Me's (little frog enemies) in the
+forest around Gongaga.
+
+BOSS:RENO and RUDE
+   Use Big Guard.  Limits and Beta make this a short fight.
+
+GONGAGA VILLAGE
+   Pick up the Deathblow materia on your way out.
+
+COSMO CANYON
+   Finally, some new weapons!  Stock up and go learn about the Lifestream.
+
+CAVE OF THE GI
+   You can pick up the Enemy Skill Death Sentence from either Gi Specters
+(they look like skeletons with spears) or Sneaky Steps (they look like
+dogs.  Very @#$%ed up dogs).  Sneaky Steps also drop M-Tentacles; You'll
+want these later.
+
+BOSS:STINGER
+   This is a boss in the same sense that Midgar Zolom is; A regular enemy
+(or one you fight more than once) that's tough enough to be a boss.  You
+will encounter no less than two of these huge spiders as you trek through
+Gi Cave.  Use Aqualung, Beta, and Limits to finish them before they finish
+you.
+
+BOSS:GI NATTAK
+   Throw an X-Potion at it.  Run around the Gravity materia it leaves
+behind.
+
+NIBELHEIM
+   Decide if you want Vincent or not.  If so, put Aeris in the party and
+set her Limit to level 1.
+
+SHINRA MANSION
+   Assuming you want Vincent, wander around and get into fights until
+Aeris has a full Limit bar, then go upstairs to the safe.  Enter:
+
+   RIGHT 36,  LEFT 10,  RIGHT 59,  RIGHT 97
+
+BOSS:LOST NUMBER
+   Have Aeris use Seal Evil on it.  If you got any M-Tentacles in the
+Cave of the Gi, use them to poison it, then hammer away with Beta,
+Aqualung, and Limits.  At half HP, it will turn purple or red, depending
+on the last hit it took.
+   -Purple form:  If a physical attack takes Lost Number below half HP,
+        it will turn purple.  Purple form uses powerful physical attacks
+        and has an extremely high physical defense.  Abuse Beta and 
+        Aqualung.
+   -Red form: If a magic attack reduces it beyond half HP, it will turn
+        red and display high magic attack power and magic defense.  Use
+        Limits to finish it off.
+
+SHINRA MANSION
+   Beating Lost Number will get you the Basement Key.  Talk to Vincent
+downstairs.  After that, enter the library, where Sephiroth will throw a
+Destruct materia at you (leave it on the floor), then try to leave.
+Vincent will join you.
+
+MT. NIBEL
+   You can steal Gold Armlets from Dragons here.
+
+BOSS:MATERIA KEEPER
+   This will be a long fight.  Not because the boss is actually tough,
+though it can cast Cure 2 on itself, but because it takes its own sweet
+time to get around to casting Trine.  Once it does and you've got yet
+another Enemy Skill under your belt, use Aqualung (not Beta; Materia
+Keeper absorbs Fire magic) and Limits to bury it.
+
+ROCKET TOWN
+   Look at the rocket with the old guy to get the Yoshiyuki.
+
+BOSS:PALMER
+   Same old story: Limits and Beta.
+
+WUTAI-SEE SIDEQUESTS SECTION
+
+GOLD SAUCER
+   Stop by the Ghost Hotel and pick up some status curative items. 
+   You don't have to win in the Battle Arena to get the Keystone; However,
+if you do win, you get a Protect Vest and a Chocobo Feather.  To stand a
+fighting chance, equip Cloud with the best gear, an accesssory that
+eliminates annoying status effects (I prefer the Peace Ring; It prevents
+Berserk, so you always have the chance to pick your actions),keep Big
+Guard up, abuse Beta, and try to hold your Limits until you absolutely
+need them, especially the last battle.
+
+TEMPLE OF THE ANCIENTS
+   There's a lot of stuff to pick up here, but the two items of greatest
+interest are the Morph materia, located in the center of the rolling rock
+hall, and the Ribbon, found through door V in the clock room.  DO NOT
+miss these items!  You can also get knocked off the clock to get the
+Nail Bat, a wicked looking and brutally powerful weapon for Cloud.
+
+BOSS:RED DRAGON
+   Put up Big Gaurd ASAP (for the Haste effect).  If you have any poison
+inducing items, such as M-Tentacles or Deadly Wastes, left in your
+inventory, use them to poison the beast.  After that, Limits and Aqualung;
+Avoid Beta, it will heal the dragon.  Ignore the Bahamut materia it drops.
+
+BOSS:DEMON'S GATE
+   This boss is fast!  Use Big Guard immediately to speed up your party,
+then lay into it with Limits, Deathblow, and regular attacks.  Magic
+causes pathetic damage to this guy.
+
+BONE VILLAGE
+   You can pick up some new armor, including the somewhat useful Rune
+Armlets (2X growth in 4 slots), then dig up the Lunar Harp.  It's on the
+top level near the tent.
+
+SLEEPING FOREST
+   Leave the Kjata materia alone, but definitely grab the Water Ring, as
+it will prove very handy real soon.
+
+CITY OF THE ANCIENTS
+   The third Enemy Skill resides here; Don't miss it!  Also, be sure to
+get the Aurora Armlet from the back-center cave area (where the waterfall
+projector dealy is).  Put the Water Ring on your strongest attacker, 
+along with only the NEW Enemy Skill.
+
+BOSS:JENOVA-LIFE
+   Put up Big Guard to protect the characters not equipped with the Water
+Ring.  Make sure you let JENOVA cast Aqualung once, so you learn it on
+your new Enemy Skill (this way, if Aqualung kills the others, you still
+leave with it on the third materia), then hit it with whatever you like
+(except Aqualung, of course).  The character packing the Water Ring is
+invincible in this fight, so take all the time you want.
+
+CORRAL VALLEY CAVE
+   Get the Hypnocrown, it will make catching up that new Enemy Skill
+easier.  Keep your eyes open for Boundfats (they look like yellow
+hedgehogs)- They have Death Sentence.
+
+ICICLE INN
+   There's a Hero Drink in the house with the map.  Grab it for later.
+
+GREAT GLACIER
+   Just passing through...  No need to fight for the Alexander materia.
+
+GAEA'S CLIFF
+   Lots to do here.  In the second "inside" section, when you come to the
+area with the four icicles hanging from the ceiling, get the Fire Armlet
+from the box on the right.  In the room directly below this one, get into
+fights until you encounter a Stilva- it looks just like the Materia
+Keeper boss, only red, and it's going to hook you up with Trine for your
+new E. Skill, as well as Magic Breath for all three!
+   Outside these rooms are two paths running parallel to each other.  This
+is the best place to find Marlboros, and pretty much your only chance to
+get Bad Breath (and you're going to want it!)
+   Further up the cliffs, you'll find a room with a Save Point and a pool
+that restores your HP and MP.  In this room you can also find Blue
+Dragons (look like... Blue Dragons); They have the Dragon Force Enemy
+Skill.  If you figure out how to get it, tell me, please, since I've
+never managed it (even in a regular game).
+   Use the Save Point and equip your characters as follows:
+   -On one, equip the Aurora Armlet AND the Fire Ring
+   -On another, the Fire Armlet AND the Ice Ring (you did get it, right?)
+   -On the remaining character (if you're using Yuffie, this should be
+    her, so her Limit bar will fill), equip the Dragon Armelet.
+
+   Now head down the hall.
+
+BOSS:SCHIZO
+   Schizo's left head is Ice elemental, and the right is Fire elemental.
+What this means is that your two characters carrying the Fire/Ice armors
+and accessories will be nigh invincible, and your third party member will
+be taking half damage from most of Schizo's attacks.
+   Now for the fine print: Schizo will also stomp and cast Quake3, which
+WILL hurt your guys, and killing a head will result in a brutal final
+attack that causes severe damage across the board.
+   Use Trine, Aqualung, and Limits to beat Schizo into submission.  If
+Yuffie is in the party and gets a Limit, save it for Schizo's final 
+attack(s), and heal her with potions instead.
+
+THE CRATER
+   Tifa joins you whether you want her or not.  Put Fire protective gear
+on your crew before going too far.
+
+BOSS:JENOVA-DEATH
+   Like LIFE, DEATH acesses only one element, and this time it's Fire.  It
+also uses Silence, but, really, so what?  With a Fire Ring and Fire Armlet
+equipped, two of your characters are invulnerable, so you could throw
+rocks at the damn thing until it dies, if that's your fetish.
+
+THE CRATER
+   Sephiroth gets the Black Materia.  Cloud freaks out.  Weapons awaken.
+It's going to be one of those days all week...
+
+JUNON
+   Hook Barret up with good equipment if you haven't been using him.  
+Yuffie and dumbass Cait Sith are also forced into the party for a little
+bit, so make sure to equip them properly (you can always stick double
+growth equipment on Cait Sith and load him up with materia...  At least
+then he'd serve sort of a purpose.)
+
+WORLD MAP
+   Now that you have the Highwind, fly up north to the Chocobo Sage's
+place (it's a little house entirely surrounded by mountains) and talk to
+his chocobo for the last Enemy Skill, if you want it.  Revisit everyplace
+you've been and update the two new E. Skills.  You should be able to get
+everything but Laser and Bad Breath on all four.
+   You can finish Wutai Pagoda now, if you want.
+   Consider getting a third Steal materia.
+   Once you're finished bombing around in your new ride, head down to
+Mideel to progress with the story.
+
+MIDEEL
+   Usually, you'd get the Contain materia here.  Isn't it nice to know you
+don't have to feed and play with somebody elses' chocobo to get a shiny
+rock?
+   They got a lot of new stuff here, including weapons that are (finally)
+better than the stuff you've been picking up in treasure boxes, some of
+the better accessories (mainly the elemental rings, if you want more than
+one of each), and the Remedy items.
+   Just remember all this crap (especially the weapons), will drain your
+pocketbook pretty quickly.  If you're strapped for cash, you should get
+Cid's new weapon, and equipment for two others, not including Tifa, who's
+about to bail out on you.
+
+HIGHWIND
+   Cid is elected new group leader.  Make your party and equip them, then
+go after the Huge Materia.  You can go to Corel or Fort Condor, your pick;
+I always go to Fort Condor first- It's closer and a quicker battle.
+
+FORT CONDOR
+   This will be the easiest Fort Condor battle yet.  Take the guys money,
+and when the minigame starts, DO NOTHING!  Set the battle speed to max
+and wait for the enemy to reach the shack without putting up any troops
+of your own.
+   This forces you into a fight with Cmd. Grand Horn.  He's a pushover,
+and when you kill him, you get not only the Huge Materia and Phoenix
+(which you have to throw away), but an Imperial Guard armor as well!
+Plus you get to keep the money!
+
+COREL  
+   You have to go north out of town and follow the train tracks to the
+reactor.  This will bring out the train, and you've got ten minutes to
+catch it and reach the locomotive.
+
+MATERIA TRAIN
+   Each car has an enemy you must fight to proceed.  There are four cars
+and the coal car.
+
+-CAR #4
+   You have to fight a single Gas Ducter.  One or two Betas will do it.
+
+-CAR #3
+   Two Gas Ducters this time.  A couple more Betas.
+
+-CAR #2
+   You'll fight a Wolfmeister here.  Use Big Guard for the haste effect
+and Aqualung it.
+
+-CAR #1
+   The Eagle Gun guards this car.  Use Big Guard again for the speed
+boost, then unload Limits and Trine to finish it quickly.  You can steal
+the only Warriors Bangle in the game from Eagle Gun if you have time.
+
+-COAL CAR/LOCOMOTIVE
+   There's a Shinra Attack Squad on the engine, but the guy you fight is
+laughably weak.  Beta him and he'll go away.
+   Now, just stop the train...
+
+COREL
+   You'll get the Ultima materia if you stopped the train, but you can't
+keep it.  You can also get Barret's Ultimate Limit, Catastrophie.
+
+MIDEEL
+   Equip all the Steal materias you have, then go check on Cloud.
+
+BOSS:ULTIMATE WEAPON
+   Throw up Big Guard for haste, then Steal from it to get a Cursed Ring.
+Ultimate flies away after a few round whether you get the ring or not, and
+this is your ONLY chance to get it.
+   Why?  The Cursed Ring gives a sick boost to all of the wearer's stats,
+with the slight drawback of causing Death Sentence on the character, which
+can be easily countered by casting Death Force on him/her at the outset
+of every battle.  Put this bad boy on Cloud, along with a Gigas Armlet
+(STR +30), and you won't need to cast Death Force...
+   If you manage to get the ring right away, hit Ultimate with Limits and
+Magic Breath to deal heavy damage.
+
+CLOUD'S SUBCONSCIOUSNESS
+   Seriously, that's what Tifa calls it.  Anyway, I hate this part; It's
+annoying and time consuming, but there's no way around it.  Talk to the
+top Cloud first, then the left one...  From there, the game will hold
+your hand.
+
+WORLD MAP
+   With Cloud back in the party, the Gold Saucer is reopened.  Now's a
+good time to get Omnislash (at least)... See the Battle Square section
+under Sidequests for advice.
+   You can also get Tifa's Ultimate Limit in Nibelhiem, and the Key to
+Sector 5 now.
+
+UNDERWATER REACTOR
+   Try to get Cloud's Limit bar full before you reach the Reactor core
+(the room Yuffie calls a crane game).
+
+BOSS:CARRY ARMOR
+   This boss sucks.  Horribly.  It's about 12.5 times as hard if you come
+unprepared, so don't.
+   Use Meteorain or Omnislash first thing.  This should eliminate its
+arms;  If not, pound it with Magic Breath or anybody else's Limit you may
+have ready.
+   When both arms are gone, use your VERY NEXT TURN to get up Big Guard.
+Carry Armor will start blasting you with Lapis Laser, and will eat you
+alive without Big Guard protecting you.  Just keep on it with Magic
+Breath and Limits until you finish it.
+
+SUBMARINE DOCK
+   You can find Cid's triple growth Scimitar here.  It's way back by the
+submarine.  You can get the Leviathan Scales too, but you won't miss them
+if you don't.
+
+SUB BATTLE
+   You start out right behind the Red Sub;  Just lock on and fire all of
+your torpedoes up its rudder flaps.
+
+UNDERWATER
+   The game tells you to go to Rocket Town;  Ignore that fo now.  Get
+back in the sub and retrieve the Huge Materia from the Red Sub by driving
+into it, then go find the Sunken Gelinka plane.  Watch out for Emerald
+Weapon down here.
+
+CRASHED GELINKA
+   Go through the door to the right of the Save Point first.  This room
+contains the Double Cut materia, an Escort Guard armor, and Yuffie's
+Ultimate Weapon, the Conformer.  You'll want to equip all of this stuff,
+as well as all your Steal materias again.
+   Now go through the door to the left of the Save Point.
+
+BOSS:RENO and RUDE
+   Steal, steal, steal!!!  Reno has a Touph Ring (heh), and Rude has the
+amazing Ziedrich armor.  Once you have these, Beta them into the ground.
+
+CRASHED GELINKA
+   Past Reno and Rude you'll find the cargo bay.  It's all messed up...
+Aside from a lot of tough enemies (which you can Morph for source items;
+Yuffie and her new Conformer make this a breeze), you'll find Cid's 
+Ultimate Limit, Highwind.
+
+UNDERWATER
+   You can now proceed with the game by heading over to Rocket Town, or
+you can follow the left wall from the Crashed Gelinka to an underwater
+cave.  At the end of the cave, surface into a lake with a waterfall.  PHS
+Vincent into the party (if you have him) and walk into the waterfall to
+meet Lucrecia, Sephiroth's mother.  Leave and get into ten or fifteen
+random battles, then return for both Vincent's Ultimate Weapon and Limit.
+   From this cave, follow the left wall again to another underwater cave,
+where you will find the Key to the Ancients.
+   That's all you can do under the sea, so dock near Junon and fly over to
+Rocket Town.
+
+ROCKET TOWN
+   If Cid isn't in your party, he will be in a minute.  Equip him, and
+anybody else you have with Lightning protection, then head up the rocket.
+
+BOSS:RUDE
+   Rude likes to use Bolt, but you're covered for that.  Take out the
+Attack Squad guys so you can get to Rude, then steal another Ziedrich
+from him before you take him down.
+
+SHINRA NO. 26
+   You can get the Huge Materia by using the code O,[],X,X (circle, 
+square, X, X).  Cid will accuse you of cheating if you get it on the first
+try.
+
+WORLD MAP
+   Park the Highwind and run back in to Rocket Town.  Talk to the old guy
+who gave you the Yoshiyuki before and you'll get Cid's Ultimate Weapon,
+Venus Gospel.
+
+COSMO CANYON
+   Leave the Huge Materia in Bugenhagen's lab and fly back out to the
+City of the Ancients.
+
+CITY OF THE ANCIENTS
+   Make your way to the back cave, where you found the Aurora Armlet.
+Since you already have the Key to the Ancients (you do, right?), simply
+keep talking to Bugenhagen to make the plot proceed.
+
+HIGHWIND
+   Fly back to Midgar and land near the coast.  Wait for Diamond Weapon.
+You'll almost have time for a nap...  Equip Fire protective armor while
+you wait.
+
+BOSS:DIAMOND WEAPON
+   Diamond has an extremely high physical defense, so use Limits and your
+most powerful Enemy Skills on it.  You can steal a Rising Sun for Yuffie
+from it, but why?
+
+HIGHWIND
+   You're supposed to go chcek on the Northern Crater, but if you want
+Cloud's Ultimate Weapon and a few extra Ribbons, fly over to the huge
+hole near Junon to start taking on Ultimate Weapon.  As a side note, you
+may want to get Cloud's Limit, and one other charcter's (anyone with a
+multi-hitting Limit, preferably their Ultimate, will work) bars full
+first.
+
+ULTIMATE WEAPON-SEE SIDEQUESTS
+
+ANCIENT FOREST-SEE SIDEQUESTS
+
+NORTHERN CRATER
+   The barrier is gone, but before you can go after Sephiroth, you have
+to save Midgar from blowing up.
+
+MIDGAR
+   Ahh... Back into Midgar.  The memories... The nostalgia... The smell.
+Once again you're in the sewers.
+   Look for Behemoths here; They use the ??? Enemy Skill.  Also,
+Crazysaws (they look just like Moth Slashers) Morph into Turbo Ethers.
+When you get to the sewer pipes, run toward the screen and head the wrong
+way for a good while to get the W-Item materia.  It's right next to a
+Save Point; You'd have to be blind or stupid to miss it.  On the way down
+(or back) you'll find a lot of chests holding Source items.
+   When you get back to where you started and try to proceed, the Turks
+show up again.  You don't have to fight them, but they have a lot of good
+stuff.
+
+BOSS:RENO, RUDE, and ELENA
+   STEAL!  Reno has another Touph Ring, Rude's got another Ziedrich, and
+Elena has a Minerva Band.  Once they're cleaned out, Aqualung and Limits
+make quick work of them.
+
+MIDGAR SEWERS
+   At the end of the tunnel, you can go back up to the Shinra Building.
+This lets you get Cait Sith's Ultimate Weapon from a locker on the 64th
+Floor (like you want it...).  Those vending machines you kicked a long
+time ago will give you a Mind Source and a Speed Source, provided you
+DID kick them.  Floor 63 has a chest holding Cid's Glow Lance, the shop
+on the ground floor has two chests with weapons in them, and this is your
+ABSOLUTE LAST CHANCE to read the Turtle's Paradise letter if you missed
+it before.
+   After you're done here, go back into the sewers and backtrack to the
+base of the Mako Cannon.
+
+BOSS:PROUD CLOD
+   The AP to difficulty ratio of this fight is extremely disproportionate,
+so come packing triple growth weapons if you need to grow materia.  Put
+up Big Guard, then attack with 2x/4x Cut, Slash-All, and Aqualung.  If
+you kill off the Jamar Armor, you can cause more damage, but it's not
+important.
+
+SISTER RAY
+   There are two boxes near the stairs.  Open them!  GET THE MYSTILE!!
+   At the Save Point, put Barret in the party and start up the stairs.
+You will come across a chest holding Barret's Ultimate Weapon, Missing
+Score (it's only there if Barret is.)  You can then backtrack to the
+Save Point and remove Barret if you like, then go to the top of the
+stairs to reach the mainframe.
+
+BOSS:HOJO
+   Hojo goes though three transformations, so he's almost three bosses in
+one.  Almost...
+
+ -HOJO
+   Just attack Hojo and don't waste time on the capsule enemies.  Magic 
+Breath is great here.
+
+ -HELLETIC HOJO
+   If you skipped it in the first round, you'll want Big Guard up now.
+Start by taking out the Right Arm, then focus on the body.  If you get a
+Limit, find an alternate means of finishing him off, if you can.  If your
+whole crew hits Limit, it's all right to sacrifice one.
+
+ -LIFEFORM HOJO
+   Lifeform does not muck around.  If you didn't get a full set of Ribbons
+(shame on you), you'll have to make good use of White Wind to keep on top
+of all the nasty status effects Lifeform can hit you with.
+   As soon as he transforms, hit him with any Limits you have.  This is
+sverely bad for his health, and a high powered Omnislash can take him out.
+However, if you fail to take him down in the first couple turns, or have
+no Limits available, you'll need to put Big Guard back up and hit him
+hard and fast with 2x/4x Cut and Magic Breath until you get a Limit.
+
+WORLD MAP
+   If you haven't gotten Omnislash (or any of the Ultimate Limits), a full
+set of Ribbons, everybody's Ultimate Weapon, or all of that good stuff,
+now's a good time.  Otherwide, it's time to get down to it.
+
+NORTHERN CRATER
+   DO NOT MISS THE FIRST CHEST!!  IT IS THE SAVE CRYSTAL!!  DO NOT MISS
+THE FIRST CHEST!!
+   Proceed down the crater until you reach the place where you can split
+up the party.  NEVER USE THE SAVE CRYSTAL IN THIS ROOM.  You stand a good
+chance of ruining your file and being trapped in the crater if you do.
+   In this room, send Tifa RIGHT, and EVERYBODY else LEFT.
+   At the next junction, send Cloud and his partners UP, and any remaining
+characters DOWN.
+   Go through the path to the bottom of the cave.  When you pop out in
+the area with the spiral of rocks in the center (the bottom of the crater),
+go counterclockwise, toward the green chest, and up to the cave opening.
+Go back up this side of the left path. 
+   Now, eventually, you'll come to a blue colored room with a mako 
+waterfall in the background.  Floating on a ledge is the Mega-All materia;
+If you intend to try taking on the Weapons, grab it by pressing the
+confirm button as you jump past it.
+   You'll come back to the room with the big rock in it; Go out the top to
+the room where you first split up the party and go down the RIGHT path.
+   The first chest on this path is the second Mystile-GET IT!!  Also, 
+along this path, you'll encounter Jezemeny's (they look like a woman in
+a swimsuit); Manipulate her and learn Angel Whisper.  This is perhaps
+one of the most important Enemy Skills in the game: It revives a fallen
+ally, restores 100% HP even if the target is not dead, and cures any
+status effects!  The ONLY thing that makes this spell less powerful than
+White Wind is it only hits one target at a time.
+   Back at the bottom of the Crater, you'll meet up with any party members
+you sent down separate paths.  Talk to all of them to get some extra 
+items; Especially talk to Tifa, and she'll give you ANOTHER Mystile  This
+is a good place to use the Save Crystal.
+   Before going ANY further, make sure you're ready.  EVERY member of the
+party you intend to take up against Sephiroth MUST have 7000+ HP.  A 
+level 2 Double Cut (4x Cut) for two of them, and a level 1 Slash-All (NOT
+Flash!!) is  HIGHLY recommended, as well as a full set of Ribbons, and all
+three Mystiles.
+   If you're ready, and don't want to tackle the Weapons, head down the
+center of the Crater; Otherwise, you need to backtrack out of the Crater.
+
+PLANET CORE
+   You'll descend a series of platforms.  Most of them have an Iron Man
+or a Draagon Zombie, each of them pretty tough customers.  Just remember,
+you CAN run from these battles.
+   Equip a Slash-All on Cloud on the way down, and 4x Cuts on the others.
+
+BOSS:JENOVA SYNTHESIS
+   Put up Big Guard as soon as the battle begins.  Attack with physical
+attacks and Limits, keep your HP up, and do not let Big Guard down.
+   When JENOVA starts counting down, it's preparing to cast Ultima.  Go
+all out and finish it before it can.
+
+BOSS:BIZARRO-SEPHIROTH
+   Before the fight begins, you'll have a chance to set up your party(s).
+Make your first party the group you want to face the final boss, and give
+them the Mystiles, Ribbons, and Enemy Skill materia.  Put Slash-All on
+Cloud (or your best attacker), and 4x Cut on the others.  USE A HYPER ON
+CLOUD!!!  He MUST be in Fury for the end boss, and you cannot do it in
+battle because of the Ribbons.
+   If you have a multi-party setup, just do whatever with the rest of the
+guys; You'll be ignoring them anyway.  The main party will be able to hit
+all of Bizarro's parts without the help.  On to the fight...
+   Slash-All and Aqualung will damage all of Bizarro's parts and kill off
+his extremeties quickly.  Keep Big Guard up to minimize damage.
+   Every time you kill off a part, you'll be asked if you're worried about
+the other parties; Pick 'not really' and continue the battle.
+   Once you kill everything but the Core and Torso, the Core will start
+using Cure magic.  Let Cloud get his Limit, and kill the Head with another
+character if it was revived, then use Omnislash on the Core and Torso.
+The Core will take 0 damage, but without the Head as an extra target, at
+least half of the hits from Omnislash should hit the Torso, and shoud be
+enough to take it out.
+
+BOSS:SAFER SEPHIROTH
+   This is it: The final battle, and Cloud's going to win it for you.
+The others are just support.
+   Safer's actions follow a specific pattern.  While he's going through
+the motions, you need to be doing the following:
+   First, put up Big Guard.  During the next few turns, feed Cloud ALL of
+your Hero Drinks (at least three)- W-Item helps out here.  Now, keep
+everyone at max HP (use Megalixers if you have to, but you HAVE to have
+one left...)
+   You're waiting for Super Nova, which should be up shortly.  When the
+animation begins, if Cloud's turn is up, switch to somebody else and open
+the Item menu.  Select a Megalixer and jam on the confirm button.
+   After Super Nova, two things should happen: First, the Megalixer should
+hit, saving you from Break (Safer's next attack); and, second, Cloud
+should have a Limit.
+   Your next action should be Omnislash; Followed by revelling at how
+easy the last boss of the game is... 
+
+***********************************  viii  *******************************
+SIDEQUESTS
+   Stuff you don't have to do...
+
+ []WUTAI
+   I advise doing this sidequest as soon as you are able, which is
+immediately after getting the Tiny Bronco in Rocket Town.  Land on Wutai,
+and put Aeris in your party,as she is going to be your best method of
+healing.  Put anti-poison accessories on your guys.
+   Yuffie will take off with all of your materia, so get it back...
+   On your way to Wutai, you will encounter Bizzare Bugs (they look like
+butterflies); Usually in groups of 3.  Slaughter them mercilessly!  They
+drop X-Potions, and by the time you reach town, you should have a nice
+collection of them.
+   Once you actually get to Wutai, and begin chasing Yuffie down, you have
+to pick up an MP Absorb materia, which Yuffie promptly steals.  Remember
+to ditch it once you get your pretty rocks back.
+   After the Don makes his reappearance, pick up some Fire Veils and Swift
+Bolts from the item shop.  Stop at the Save Point and PHS Barret into the
+party before heading up the hill.  Set his Limit to level 1.
+
+   DA CHAO
+   Get Barret's Limit bar full.
+
+   BOSS:RAPPS
+   Blast it with Mindblow first thing.  That takes care of its Aero 3
+magic.  After that, use those magic items you just bought and Limits.
+Corneo will be taking another trip to the pet cemetary soon enough.
+
+   WORLD MAP
+   PHS Yuffie into the party.  You can roam the beaches noth of town until
+you find an Adamantaimai (it's a huge turtle)to manipulate and learn Death
+Force from.
+   Head back into town and start back up Da Chao.  When you run into a
+pack of Razor Weeds (they look like... Weeds), MAKE SURE you manipulate
+one and get the Magic Hammer Enemy Skill.
+   Once you have Magic Hammer, you can go, or start another side quest by
+returning to Godo's house and entering the Pagoda.
+
+ []PAGODA OF THE FIVE SACRED GODS
+   Only Yuffie can participate in the battles held on each floor, so
+give her your best equipment.  If you are taking on this quest as early
+as you can, there is no need to complete all five floors; In fact, if you
+want a fourth full Enemy Skill, you CAN"T complete the trial yet.
+   The goal at this point is to beat three of the bosses and acquire an
+Ice Ring
+
+   BOSS:GORKI
+   Cast Big Guard and then Magic Hammer it until it runs out of MP.  After
+that, pound it with Limits and Beta.
+
+   BOSS:SHAKE
+   Put up Big Guard immediately, then use Limits and Beta.
+
+   BOSS:CHECKOV
+   Equip Yuffie with a Jem Ring before engaging Checkov.  Use Big Guard,
+Limits, and Beta.  Beat Checkov to get the Ice Ring.
+
+   BOSS:STANIV
+   Cast Big Guard.  Normal attacks and Limits should suffice for this
+fight.
+
+   BOSS:S. GODO
+   It's probably best to come back later for the big dog.  If you want
+Trine on the fourth Enemy Skill, you HAVE to wait.  Once you have the
+Ribbon, Bad Breath on your Enemy Skill, and the last E.Skill materia,
+you'll be set to take him.
+
+   Cast Big Guard first thing.  Use Bad Breath next, then Limits, Beta,
+Aqualung, or Magic Breath.  With enough patience, you can actually Magic
+Hammer away all of his MP to prevent him from casting Cure 2 (though he
+randomly casts it on Yuffie, so you may not want to do this).
+   With Godo poisoned, your primary concern is just to keep Yuffie
+conscious.  Get your licks in when you can, but let poison do the real
+work.
+
+ []GOLD SAUCER BATTLE SQUARE
+   Requirements:
+    Minimum fighter level 60 or 5000+ HP
+    Dragon Armlet/Escort Guard/Zierdich/Mystile
+    Ribbon
+    Enemy Skills: Big Guard, White Wind, Bad Breath, Beta
+    400+ GP
+
+   Recommended:
+    Slash-All materia (normal battles)/Double Cut (lv.2) (Special battle)
+    Steal materia lv.2 (for Mug) or Deathblow materia
+    Enemy Skills: Magic Hammer, Magic Breath, Frog Song
+    Items-99 EACH: X-Potion, Hi-Potion, Ether/Turbo Ether, Fire Veil,
+                   Swift Bolt, Remedy (or each type of status cure)
+      -Note that for Turbo Ethers, 30 or so will do, less with Magic 
+       Hammer and normal Ethers as backup
+      -Even with 99 Remedys, several of each type of status cure will help
+       conserve Remedys
+
+   First off, in order to participate, you must have GP, and plenty of it.
+The easiest, most reliable way to obtain GP is by racing chocobos...  But
+you have no chocobo.  The second best way, then, is the GP guy.  He's a
+little guy in a green shirt that appears randomly at the entrance of the
+Gold Saucer, near the top of the screen by the tram.  If you have a
+Lifetime Pass, you can simply run back and forth in and out of the Gold
+Saucer until he shows up, and he'll sell you GP at a rate of 1 GP to 100
+gil.  With thirty or forty grand lying around, you'll be all set.
+   Next, without a stack of HP Plus materia, you need a decent amount of
+HP to last more than two battles.  Mideel forest is a great place to boost
+levels, and to fatten up your wallet for thr GP exchange.
+   As for the actual arena, there are several tips that can help in a
+Command only game, as well as a normal game:
+
+   -Alway start the first battle with Big Guard, as the Haste effect will
+    carry on through all eight fights.  HOWEVER, if the first enemy set
+    contains Jayjujayumes (little multicolored caterpillars), eliminate
+    them FIRST, because they use Silk Thread, which causes Slow and 
+    cancels your speed boost.
+   -In betwwen battles, you encounter slots displaying various
+    debilitating effects, and some helpful ones.  AVOID the helpful slots
+    when possible (don't be afraid to try and get a Cure slot late in the
+    string if you need it); They award almost no Battle Points.  Instead,
+    try to aim for Status effects, as your Ribbon will cancel them out,
+    but you will still recieve the BP bonus.  Also, in a Command Only
+    game, try to get Broken Materias (minus, of course, yellow), since
+    you carry no other type.
+   -Watch out for Half HP/MP slots, they can be severe handicaps,
+    especially if you get more than one.  Broken Weapon and Armor can
+    seriously hurt you, and Broken Accessory and Sealed Item can end you
+    quickly, especially if you manage to get both.
+   -Many battles can be won by casting Bad Breath, then recovering the
+    lost MP with Magic Hammer.  While the enemy is asleep, recover any
+    missing HP with potions or White Wind, then simply wait.  When the
+    enemy wakes up, as long as the Poison effect is hurting it, cast Frog
+    Song to put it back to sleep until it runs out of HP.  Time consuming
+    but effective.
+   -Mug can be used to conserve Limits.  It deals a good bit of damage and
+    isn't random like Deathblow, plus you get to keep anything you steal.
+   -ALWAYS go into the last battle with a Limit ready, even if you have to
+    mess around in the seventh battle to fill up your bar.
+   -If it's available (it usually is), try to hit the Break All Materia
+    slot for the final battle.  It gives a sick boost to your BP, and,
+    with a Limit ready, you shouldn't need any other commands.
+
+   **SPECIAL BATTLES**
+     You don't have to fully complete the string, since doing so only 
+     gets you a useless (for this game, anyway) Final Attack materia.
+     However, you should fight up to the third battle; The enemy is an
+     Ochu, and you can Morph it for a Ribbon as many times as you like.]
+     Alternately, you could simply keep a Morph materia on your guy and,
+     in the event you meet up with an Ochu in the normal battle (it will
+     appear in the last fight), you can Morph him there until you have
+     enough Ribbons to satisfy you, and not bother with the Special
+     Battle at all.
+     
+
+ []BOSS:ULTIMATE WEAPON
+   You have to fight Ultimate Weapon several times before it will die, and
+chase it down in the Highwind between battles.  I suggest saving between
+fights, especially if you're taking him on at the earliest opportunity,
+because Ultimate likes to stop and engage at places that will force the
+plot to advance before you're ready for it to, namely the Northern Crater
+and Midgar.
+   Ultimate Weapon isn't very ultimate, and it only stays to fight for a
+round or two before it chickens out and runs to another place.  Stay right
+on its tail, ram it if you can (it'll find a new resting spot quicker if
+you do), and when it stops, drop to the ground, heal and save.  That way
+you know where he is (if you manage to lose him, fly around randomly until
+you get him in your sights again;  My experience is that, if you fly
+around at the point where the four corners of the world map intersect,
+you'll spot him pretty quick.)
+   You can avoid unwanted plot advancement by coming into the first
+battle with Omnislash and another multi-hit, high powered Limit ready.
+At the onset of the first battle, select both Limits; Usually, only one
+will go off, but if you're REALLY lucky, the second activates too, before
+he flies away.  If you get both, Ultimate will make a beeline for Cosmo
+Canyon.  If you only get one, chase it down and nail it with the other
+Limit, and that should send it packing.  Note that using this strategy
+will prevent you from stealing from Ultimate; In EVERY land based fight
+(your crew is on the ground), it has a Reflect Ring, and in EVERY air
+battle (your guys are on the Highwind), it has a Circlet.
+   When Ultimate heads for Cosmo Canyon, it's ready to die.  Land the
+Highwind, save, and pile ALL of your enemy skills onto one character.
+You'll want this to be your hardest hitter.  Also equip them with a
+Reflect Ring (you'll have one from the JENOVA-Death fight.)
+   When you engage Ultimate for the last time, you have one of two
+strategies to use:  First, use ONLY the character packing the Reflect
+Ring to attack; Or, second, Sense Ultimate, then pick at its HP with
+everybody until it gets dangerously low, then use ONLY that one character
+to finish it off.
+   When it goes, Ultimate will unleash Shadow Flare against the last
+person that hit it;  Having the Reflect Ring on will bounce the attack
+back at Ultimate, and you will still learn Shadow Flare on ALL of your
+Enemy Skill materia!
+   Ultimate Weapon will then blow up, opening the path to the Ancient
+Forest, and drop Cloud's Ultimate Weapon, the Ultima Weapon.  With this,
+as well as Omnislash and the W-Summon materia, you can now access the
+Special Battles in the Gold Saucer Battle Square.
+
+ []ANCIENT FOREST
+   With Ultimate Weapon out of the way, you can get to this place.  It's
+kind of annoying, too (not nearly to the extent of Cloud's Subconscious),
+but for playing with the bugs and frogs you can pick up the Slash-All
+materia, a Minerva Band, and Cloud's Apocalypse, the only other triple
+growth weapon in the game.
+
+ []THIRD MYSTILE
+   In the Northern Crater, when you reach the place where you can split
+up the party, send Tifa RIGHT, and EVERYBODY else LEFT.  Proceed to the
+bottom of the left path, then go back up, and return down the RIGHT path.
+The first chest on this path is the second Mystile.  At the bottom of the
+crater, meet up with your party and talk to anyone who didn't make the
+full trip with you.  Tifa will hand over the third Mystile.
+
+ []99 MEGALIXERS
+   Yes, you too can have a full stock of Megalixers, WITHOUT the W-Item
+trick, and relatively easily, too.
+   What you need is a turbo controller, an assload of gil, and a LOT of
+free time.
+   Go to the Gold Saucer Wonder Square.  In the first room, behind the GP
+exchange girl, is a fairly useless game called Wonder Grabber, or 
+something similar.  For 100 gil, this thing randomly dispenses Potions,
+1 or 3 GP, or, if you're really lucky, nothing.
+   Why would you waste your time with such a device?  Because it also
+drops Megalixers every once in a while.
+   What you do is set Cloud up in front of the thing.  Now, rig your
+controller in such a way that the Confirm button fires continuously, and
+Up on the D-pad is held down.  Put the controller down, shut off the TV,
+and go do something else for a LOOOONNNNGGGG time.  It takes about eight
+hours for this sucker to eat 200,000 gil, but when you come back, you
+should have between 15 and 30 more Megalixers than you started with.
+With a million or so gil and a couple of days to spare, you'll have 99
+Megalixers with pretty much zero work.
+
+ []THE WEAPONS
+   If you're going to take on the two American Weapons, Emerald and Ruby,
+you need to do a lot of prep work first.  You will need all three Mystiles
+(which means you must explore the North Crater before doing this), 
+Omnislash, Highwind (if you want to use Cid, and you should), two level 2
+Double Cuts, and a level 1 Slash-All, 99 Megalixers, and the Enemy Skills
+Big Guard, White Wind, Angel Whisper, and Bad Breath.
+   Next, choose the party you want to face them with.  Cloud is a no
+brainer; Yuffie and Cid are probably the best backup, but Barret or Tifa
+could handle the task.  AVOID Red XIII and Vincent at all costs, and
+Cait Sith is utterly useless to begin with, so why would you even consider
+him?  You want a party with multi hitting Limits, so set Yuffie to Limit
+Level 3 for Doom of the Living, or Barret to Limit Level 4 for
+Catastrophie.
+   Once you've chosen your victims...  Er, party...  You have to beef them
+up.  This means Level 99 (for HP) and maxed stats.  The levels are easy-
+evrything gives you EXP., but the BEST place to do it is in the Northern
+Crater.  Head down the left-up path, to an area with lots of water and
+yellow rocks, and look for a fight.  It takes patience, but you're looking
+for two enemies in particular: Master Tonberry (looks like a turtle
+wearing a robe, with a star over its head), and Magic Pot (looks like...
+a pot?)
+   When fighting the Mater Tonberry, STEAL from it for an Elixer, then
+kill it for 6000 EXP.  When you come across a Magic Pot, you have to feed
+it an Elixer before you can damage it (they often appear in pairs, so a
+W-Item materia is a big help), then take it out for 8000 EXP. (each!)
+They're also worth 1000 AP each, resulting in a gain of 6000 AP for a
+fight with two of them and triple growth weapons.
+   Another enemy to look out for is Mover.  It looks like a little red
+bouncy ball, always appears in groups of three, and is worth 800 AP.  A
+piece.  That's 2400 AP per battle BEFRORE growth bonuses.  Unfortunately,
+they aren't worth ANY EXP.
+   Once your levels are peaked, head back down to the Crashed Gelinka (if
+you get your levels up first, this part goes faster).  Give Yuffie the
+Conformer and a Morph materia.
+   Now, this is the ONLY place in this walkthrough I'll allow a non-
+command type materia.  In the hallway where the Turks appeared, and ONLY
+in that hall, you may equip Yuffie with the Mega-All for the sake of
+saving time.  This is purely optional, so for a 'pure' Command Only game,
+you don't have to do it.
+   Morph the enemis in the Gelinka for each of the different types of
+Sources.  You can also visit the Ruined Reactor near Gongaga first;  Near
+the reactor, you will encounter only one type of enemy, Heavy Tank, which
+Morphs into Power Source.  This way, you can maximize your Strength first
+and reduce battle times further in the Gelinka.
+   Make sure you boost EVERY stat on ALL three characters to 255.  DO NOT
+factor in the bonuses caused by weapons, armor and accessories.  You HAVE
+to be able to survive or dodge the Weapons' attacks, and it is IMPERATIVE
+that all of your characters can consistently cause maximum damage with
+ANY weapon;  You cannot rely on Ultimate Weapons because their damage is
+related to their charcters- Cloud's Ultima Weapon deals damage based on
+Cloud's current HP, and will cause less damage as his HP falls.
+   You should also be packing 99 EACH of the following items.  In the
+interest of saving you time, you ARE allowed to use the W-Item cheat for
+this.  The items are:
+   Elixer
+   Megalixer
+   Turbo Ether
+   X-Potion
+   Caldron (you get one from the 4th course on the Gold Saucer Submarine
+       game)
+   Dazers (dropped by Bad Raps in the sunken Gelinka)
+   At least ONE Ink item
+   Once you complete this daunting and time consuming task, you should be
+set to take on the Weapons.  I suggest going after Emerald first, as the
+Master Command (for Mime) will make Ruby a little easier.
+   
+
+ []BOSS:EMERALD WEAPON
+   Before going into battle, go into the Config. menu and set the ATB to
+WAIT.  Set the Battle Speed as SLOW as possible.  Get your Limits full on
+everyone, and equip them all with Mystiles, and Enemy Skill materias.
+Equip REGULAR weapons, NOT Ultimates (except Conformer).  To avoid
+rearranging a lot of materia, Cloud's Enhance Sword has 8 slots, as does
+Cid's Dragoon Lance.  Barret does not have an 8 slot regular weapon.
+Set Cloud's, Cid's and/or Barret's Limit to level 4, Yuffie's to level 3.
+Put Level 2 Double Cuts on two of them, and a Level 1 Slash-All (NOT
+Flash) on the other.  Hyper all of your guys.  When you're ready, ram
+Emerald with the submarine and prepare for the fight of your life.
+   Use Big Guard on your first turn, then Bad Breath (Emerald can be
+Slowed).  Use all of your Limits next.
+   Eventually, Emerald will use Revenge Stomp.  Use a Megalixer to
+recover; If you're using W-Item, toss back a Megalixer, then throw a
+Stardust or Fire Veil at Emerald.  Use Angel Whisper if you lose anybody.
+Abuse Limits as soon as you get them.
+   When you're done (I did it in six minutes, three seconds, according to
+the timer), you get an Earth Harp.  Take it to Kalm and trade it for a
+set of Master Materia, of which you only want one.
+
+ []BOSS:RUBY WEAPON
+   Prepare for battle by equipping your best fighter with a Mystile, his
+or her Ultimate Weapon (unless you use Cid, whose Venus Gospel deals
+damage based on Cid's current MP), the Master Command you got from beating
+Emerald Weapon, a W-Item, and, most importantly, a Ribbon and an Enemy
+Skill materia with Pandora's Box learned.  Enter a random battle and kill
+off the other two party members, and get your Limit bar full again.
+   At the outset of the battle, Ruby will bury his claws.  Use W-Item to
+throw a Dazers at his LEFT claw (it will be on the RIGHT side of your TV
+screen), and one at Ruby himself.  DO IT IN THIS ORDER!!!  So far as I
+can tell, Ruby's claws cannot attack while Ruby is paralyzed.  Paralyzing
+the claw first is like an early warning system.  His claw will start
+moving first, but will be unable to attack.  This is your cue to Dazers
+the claw and Ruby again.  If timed right, Ruby will actually begin moving
+BETWEEN the first and second Dazers, meaning the item WILL hit him, but it
+will technically still be your turn, so he will be unable to act.
+   On your next turn, toss a Caldron or a Dazers at the other claw, and an
+Ink at Ruby.  Put up Big Guard next.
+   By now, the Dazers should be wearing off.  Throw another set at the 
+claw and Ruby, then use Pandora's Box on Ruby's body.  You should be able
+to cast it twice before you need to re-Dazers him.
+   Continue to Dazers the claw and Ruby (only worry about the one claw)
+and cast Pandora's Box.  When you run short on MP (or HP if your timing's
+off), Dazers Ruby and his warning claw, then use an Elixer to heal.  When
+you do this, DO NOT try to continue the battle.  Use your Elixer, then
+WAIT until his early warning claw begins to move.  Immediately Dazers it
+and Ruby agan, then return to the Pandora's Box-Dazers cycle.
+   Eventually, Ruby will pull up his claws.  Dazers him again, and heal if
+you have to.  On your next turn, use your Limit, then Mime it.  You should
+be able to Mime it a second time before the Dazers wear off.  Paralyze
+Ruby again, and go back to Pandora's Box.  Use this cycle until he
+reburys his claws, then start the strategy all over again.  If Ruby pulls
+up his claws and you don't have a Limit, just Dazers and Pandora's Box him.
+   You see, Ruby Weapon has atrocious defense.  Crazy defense.  You'll
+deal about one-third damage with any attack...  Except Pandora's Box,
+which ignores defense.
+   If you run low on Dazers (and you will), use the W-Item cheat to get
+some more.  This is a long ass fight, and you don't want to lose after
+investing a half hour or more into it.
+   For winning you get a Desert Rose, which you can trade for a Gold
+Chocobo.  You still have to rent a stable for it, though...
+
+***********************************   ix   *******************************
+THANKS
+   Where I show a little humility...
+
+   Squaresoft- For the finest installment of the best game series EVER.
+   Jim at Mad Dog Tattoos, in Almont, Mi.- For the FF7 logo tattoo on my
+      wrist.
+   Squaresoft (again)- For THE perfect game.
+************************************  x   ********************************
+LEGAL STUFF
+
+   Final Fantasy and all related terms and characters are copyright
+     Squaresoft.
+   Final Fantasy VII copyright Squaresoft 1997.
+   Bradygames Official Guide is property of Brady Publishing (though
+     no actual content of said guide was used, I did mention it way back
+     in the introduction, and there's no reason to get myself sued.)
+
+   This guide is copyright Ryan Goss (Acid Angel 13), 2005.
+
+   
+   If you want to post this guide or parts of it, send me an e-mail for 
+permission first.  It'll only take a minute, and it's not like I'll say 
+no.
+   Well, I might...
+   Also note that if you choose to do something stupid, like steal MY
+   property (this guide), keep in mind I have this on my hard drive, as 
+   well as the handwritten original, and I WILL make your life hell over
+   it.
+
+   This guide may be distributed freely, in whole or in part, by any 
+means.
+    Any portion of this guide taken from the complete version must be 
+credited to me.  This guide is for FREE distribution, which means nobody 
+(except me) may get any amount of money for it.  Unless you sell it to 
+your little brother for a penny- I guess I'd let that pass.
+
+   To contact me for whatever reason, e-mail me at:
+
+        Angel_Hammer13@Hotmail.com  
+
+   Use Final Fantasy 7 Command as the subject, or I'll toss it along with
+all the spam I get.
+   Any corrections, revisions, additional strategy, or whatever, will be 
+greatly appreciated and, if relevant, posted in further versions of this 
+guide.
+   What's more, I love getting e-mails about my work.  If you send me a
+mail, even a nasty one, you WILL get a reply.  If you don't I didn't get
+it.  Check back with GameFAQs and look at the newest version of this
+guide to make sure you have my current address, and try again.
+
+***********************************  xi   ********************************
+VERSION HISTORY (or, Some Stuff You Probably Don't Care About)
+
+9/14/05 Ver. 0.05-Decided to play FF7 again.  Also decided I really
+                  wanted to contribute something for it.  So I dreamed
+                  up this "challenge"
+
+9/18/05 Ver. 0.80-Technically "beat" the game, as in killing Safer
+                  Sephiroth.  The funniest thing happened in the
+                  "unlosable" fight afterward... Seph actually HIT me
+                  (I've NEVER seen his turn come up first), and it damn-
+                  near took me out (which would have been amusing in a
+                  peculiar, frustrating sort of way...) 
+
+9/29/05 Ver. 1.00-Finally took down the Weapons.  It was the prep that
+                  took forever...
+
+12/18/05 Ver. 1.50-Too long between updates, considering the volume of
+                  mail that fell on me over this guide.  Added correction
+                  about Angel Whisper, reason for Ether theft in the
+                  Train Graveyard, and Enemy Skill section, which
+                  replaced the utterly pointless Character Evaluation
+                  section.
+
+AUTHORIZED SITES (or, People Who Didn't Rip This Off)
+
+www.gamefaqs.com is the ONLY site that will ever carry my work.  If you
+find it anywhere else, it's stolen, and I'd like to know about it.

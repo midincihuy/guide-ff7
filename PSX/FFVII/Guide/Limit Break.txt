@@ -1,0 +1,939 @@
+-------------------------------------------------------------------------------
+-------------------------------------------------------------------------------
+       ________ ________ __    __ _________ _________
+      / ______// ______// /   / //___  ___//___  ___/ GideonD's Limit Break
+     / /_____ / /_____ / /   / /    / /       / /          
+    /  _____// ______// /   / /    / /       / /       Mechanics Guide for
+   / /      / /      / /   / /    / /       / /
+  / /      / /      / /   / /    / /       / /          Final Fantasy VII
+ / /      / /      / /__/ /  ___/ /___ ___/ /___
+/_/      /_/      /_____/   /________//________/Email: centuryoftears@yahoo.com
+
+-------------------------------------------------------------------------------
+-------------------------------------------------------------------------------
+Version 2.5 Current as of 05/01/2011.  (c) 2001-2011 GideonD
+-------------------------------------------------------------------------------
+CONTENTS
+-------------------------------------------------------------------------------
+1) Contents
+2) Disclaimer
+3) Updates
+4) Introduction
+5) Learning New Limit Breaks
+   a) The Basics
+   b) Strategy for Learning Limits Early
+   c) Acquiring Level 4 Manuals
+   d) A Glitch in the System
+6) Limit Break Mechanics Study
+7) Conclusion
+-------------------------------------------------------------------------------
+DISCLAIMER
+-------------------------------------------------------------------------------
+All work in this guide is original and gained through my own experience with
+the game. This guide may not be altered or posted in any way without my express 
+permission. You may of course print, view, or reproduce this guide in any other 
+way for your personal use only.
+
+You may post the guide at a personal website on the following conditions:
+1) You must not alter this guide in any way.
+2) You must not use this guide to make any sort of profit.
+3) You must notify me that you wish to post this guide at your site. A simple
+email with the site URL included will suffice. I'll get back to you with 
+permission in short order. I check my email on a daily basis at the very 
+least.
+
+Addendum: Arct!c has full permission to use any of the information found in
+this guide in his own Final Fantasy VII FAQ/Walkthrough.
+
+This guide can currently be found at the following websites:
+http://www.poppameth.com (official website)
+http://www.gamefaqs.com
+http://www.neoseeker.com
+
+-------------------------------------------------------------------------------
+UPDATES
+-------------------------------------------------------------------------------
+v2.5: Added links to the new website http://www.poppameth.com. The online 
+version of the guide has undergone a majore facelift to make navigation much
+easier for the user. A PDF version of the guide is also available on the site.
+
+v2.4: Added Control Set of data taken from the game's memory dumps.
+
+v2.3: New website and forum information added/updated.
+
+v2.2: Just updating my email address. I got hijacked despite all precautions. I
+guess seven years of the same junk mail address isn't too bad though. Time for
+a change.
+
+v2.1: Nothing major here. Just changing links to my website since its changed 
+servers again. Find it at http://users.adelphia.net/~gideond.
+
+v2.0: A big ole whopping full point update!! I've added a second note at the 
+bottom of section 5a concerning some recent research into types of kills that do
+NOT count toward kills totals. I've added a second full set of kill/usage totals
+for reference. And lastly I've rearranged the format just a bit, though not
+likely enough to be noticeable, as well as added a few tidbits of info here and
+there.
+
+v1.5: Some minor grammar fixes and an email address that actually works. 
+Thanks to Feenyx for pointing out the typo in my email addy. Evidently it got
+screwed up when I tweaked my format and I never noticed.
+
+v1.4: Disclaimer updated. A note about the limit system has been added at the 
+end of Section 6: Limit Break Mechanics Study, to clear up a little confusion.
+
+v1.3: At the request of a few GameFAQs board users I've added a few notes on 
+learning Tifa's limits. These notes can be found at the end of Tifa's value 
+listings contained in Section 6: Limit Break Mechanics Study. 
+
+v1.2: New info added on a known glitch in the limit learning system.
+
+v1.1: New information added on how to more efficiently go about 
+accumulating the required kills and uses needed to learn new limits.
+
+v1.0: Original version.
+
+-------------------------------------------------------------------------------
+INTRODUCTION
+-------------------------------------------------------------------------------
+This document contains an explanation of the Final Fantasy VII Limit Break 
+System and a study on how exactly the system works. While how to use limit 
+breaks in battle is common knowledge, the process by which you gain new limit 
+breaks is often found to be in question. Even among those of us who know how 
+the basic limit gaining system works there remains much debate on the exact 
+mechanics of that familiar system. The information below is a summarized 
+version of the Limit Break Mechanics study, designed to be used as a guide
+for gaining limits breaks in your game. The full study can be found at 
+http://www.poppameth.com
+-------------------------------------------------------------------------------
+LEARNING NEW LIMIT BREAKS
+-------------------------------------------------------------------------------
+The Basics
+----------
+First of all, for reference I will explain the notations I'll be using.
+
+There are 4 sets of limit breaks for most of the characters in the game. 
+Likewise, most of the characters have 2 limit breaks per level. When referring 
+to these limit breaks separately I will be using the following notation: X/Y. 
+X = the level of the limit break. Y = the number of the limit break within 
+the level indicated by X. For example the notation 2/1 would indicate the 
+first limit break in the second level or set of limit breaks.
+
+Now I will explain the basic mechanics of learning new limit breaks. 
+
+Each character in the game starts with one limit break already in his/her 
+possession. This is limit 1/1, the first limit in the first set of limits. 
+Now, to learn the next limit in that same set, limit 1/2, you simply need 
+to use the first limit of the set, limit 1/1, a certain number of times. The 
+actual number of times you need to use the first limit in a set varies from 
+character to character. This formula holds true for each set of limits. In 
+other words, to learn the second limit in any set of limits you simply use 
+the first limit in that set a certain number of times. Everyone who has a 
+4th level limit break will have only 1 limit break in the 4th level. Therefore 
+this formula is irrelevant to the level 4 limit breaks since there is no second 
+in the set. Also, certain characters, namely Vincent and Cait Sith, have only 
+one limit per level, so this formula also does not apply to these two 
+characters.
+
+Example: 
+  Cloud starts the game with Braver as his 1/1 limit break. He uses Braver 
+  in battle 8 times and he learns Cross-Slash, his 1/2 limit break. Likewise, 
+  he would use his 2/1 limit 7 times to learn his 2/2 limit, and he would use 
+  his 3/1 limit 6 times to learn his 3/2 limit. You may notice that the number 
+  of times a limit needs to be used declines as the limit level increases.
+
+Now to gain the first limit break in a new set the procedure is entirely 
+different. Gaining the first limit break in a new set has nothing at all to 
+do with using previously gained limit breaks. Instead, a character must make 
+a certain number of kills to gain the first limit in a new set. What this 
+means is that the character you wish to have gain the new limit break must 
+actually deliver the killing blow to a certain number of enemies. The number 
+of enemies varies from character to character. You may deliver the killing 
+blow using almost any means possible. Details on what counts and what doesn't
+can be found below under Note 2. This formula holds true for each set of
+limits, except level 4 limits. Level 4/1 limits are taught to a character 
+by using special limit manuals found during the course of the game. These 
+manuals are items and are used from the items menu on the character whose 
+final limit the manual details. Level 4 limits may only be taught to a 
+character after that character has learned all of his/her previous limit 
+breaks. This formula applies to all characters in the game, including Vincent 
+and Cait Sith. Cait Sith, however, only has 2 sets of limit breaks and only 
+1 limit in each set, limit 1/1 and limit 2/1. Therefore he has no level 4 limit
+manual.
+
+Example: (continued from above example)
+  Now that Cloud has learned Cross-Slash he simply continues to kill enemies, 
+  dealing the killing blow each time. Once he has killed 115 enemies he gains 
+  his 2/1 limit, Blade Beam. After using Blade Beam 7 times he learns his 2/2 
+  limit, Climhazzard. Continuing to fight, Cloud kills 195 enemies and gains 
+  his 3/1 limit, Meteorain. Cloud then used Meteorain 6 times and learns 
+  his 3/2 limit, Finishing Touch. Cloud may now use his level 4 limit manual 
+  if he has it to learn his 4/1 limit, Omnislash. 
+
+Note 1: Limits aren't always gained in exact order. If you simply go around 
+killing enemies like mad for a few hours you can learn the first limit in each 
+set before you ever learn the second limit in any of the sets. You can not 
+learn all of the second limits in each set before the first, however, because 
+you need to use the first limit in each set in order to gain the second in the 
+set.
+
+Note 2: There are some exceptions to what does and does not count toward your 
+kill total.
+1) Kills made with Odin's Steel Cutting Sword attack do NOT count.
+2) Kills made by residual poison damage, i.e. the damage taken each round, not
+the damage caused by the initial casting, do NOT count.
+3) Kills made by enemies you have manipulated do NOT count.
+4) Kills made with Death Sentence do NOT count.
+5) Kills made with the Death spell DO count.
+6) Kills made with Flash command DO count.
+Also of interest, miming your limit breaks DOES count toward the usage totals.
+It's also worth mentioning that apparently nothing you do in battle arena, be 
+it kills or uses, will count toward your totals.
+-------------------------------------------------------------------------------
+Strategy for Learning Limits Early
+----------------------------------
+This section details my personal method for gaining limits as quickly as 
+possible early in the game.
+
+The first thing you'll want to do is progress through the game until you reach
+the Mithril Mines. You'll want to make sure to grab the matra magic enemy skill
+along the way as well. Now usually I'll make my way through the mines to the 
+Junon area on the other side of the mountains. Here you'll find a patch of 
+forest you can use to obtain Yuffie early on. By this point you should now
+have Cloud, Barret, Aeris, Tifa, Red XIII, and Yuffie, all of whom you can now
+start acquiring limits for. That'll leave only Cait Sith, Vincent, and Cid to 
+work on later.
+
+Now you can save up and begin the limit learning process. Take three people 
+into the mine. You'll want to go to a specific room. To find this room, enter
+the mines from the Junon(western) entrance and head north on the first screen 
+on the mine. In this room you will always fight enemies in groups of 4-5.
+
+From this point forward it's quite simple. Simply have the person you are 
+trying to gain limits for use matra magic to slaughter these large groups of
+enemies. If you missed getting matra magic on the Enemy Skill materia, then 
+you can use a multi-target magic instead although they tend to cost more MP to
+cast. This will quickly net you the kills you need to gain the ?/1 limits.
+
+Use your limits whenever they come up to get you closer to the needed uses.  
+By the time you are done with learning the ?/1 limits you'll still be working
+on the ?/2 limits in most cases. At this point you'll want to start looking 
+for a specific enemy. This enemy comes with a group of 3 other enemies and is 
+basically a flying dragon with fairy wings. I believe he's called an Arc 
+Dragon. He has the flamethrower enemy skill, which you'll want to pick up.  
+When he uses this skill on you it'll also deal a good bit of damage at this
+point of the game, which means it's about the quickest way to fill up your 
+limit gauge and get the needed uses to learn your ?/2 limits. It's also a good
+idea to use a hyper on your people. This will put them in Fury status and as 
+a side effect their limit meter will fill up twice as fast as normal. You may 
+also want to equip Cover materia to the person you are working on to help 
+direct most attacks at that person and fill his/her meter more quickly. I've 
+never really bothered with Cover myself, but a few people have pointed out that
+I didn't mention it so I thought I'd add a note about it. You may find it more
+useful if you let it build up to a higher level before working on learning 
+your limits.
+
+Just repeat these steps to learn limits for all of the people you currently 
+have in party and then switch to the others to learn theirs. You can come back
+later to learn limits for the other 3 characters and it'll be even easier since
+Vincent and Cait Sith only require kills, and Cid's uses can be gotten easier
+since you'll have the manipulate materia and can target flamethrower on Cid 
+only.
+
+By the time I left the Mithril Mines for Fort Condor, I had all the limits up
+through level 3/2 for all 6 of the people I had. As an added bonus they were
+all about level 30 and I had 99 hi-potions in inventory since the enemies in
+the mines tend to drop those a lot.
+
+Happy hunting!!
+
+Note: For more strategies on learning limits at different points of the game
+please visit the Limit Break Mechanics page at my website where I'll soon be 
+posting some user submitted strategies.
+-------------------------------------------------------------------------------
+Acquiring Level 4 Manuals
+------------------------
+Now just for reference I'll give a brief run through on where to find 
+everyone's level 4 limit manuals and how to get them.
+
+Cloud Strife:
+You gain the Omnislash manual for Cloud in the Gold Saucer Battle Square. 
+You'll need to take plenty of gold with you, at least 200 to be safe, and fight
+until you earn 32,000 battle points. You can then buy the manual as an item. 
+If you do this on disk 1 I've been told the price for the manual is about 
+51,200, so I recommend you wait until disk 2 or 3. You don't really need 
+Omnislash any earlier anyway.
+
+Barret Wallace:
+You can get the Catastrophe manual for Barret any time after stopping the train
+in Corel on disk 2. Once this part of the game is done, enter the house 
+closest to the inn on the upper tier. There is a lady inside who says something
+about her late husband and will give you a memento of the man, which is the 
+Catastrophe manual.
+
+Tifa Lockheart:
+Tifa's Final Heaven manual can be gained on disk 2 or later, anytime after 
+getting Cloud back from his coma. You simply return to Nibelheim with Tifa in 
+your party, and make your way to her room in her house. You want to play the 
+piano there. You'll need to remember the tune you played in the flashback. If 
+you can't recall, it goes like this: X, Square, Triangle, R1 + Triangle, 
+R1 + Square, X, Square, Triangle, R1 + X, O, X, Square, X. If you did it 
+correctly she should say something about having the sheet music for the song 
+and you'll also get her Final Heaven manual.
+
+Aeris Gainsborough:
+This one is a bit tricky to get. It has to be done on disk 1 if you actually 
+intend to teach it to her so I'm writing this assuming you will be trying for 
+it on disk 1. Okay, to get Aeris's Great Gospel manual you'll first need to 
+wait until you have the buggy, just after the Corel Prison sequence. Once the 
+buggy is in your possession, drive it into Costa del Sol. Note: do not get off 
+the buggy before entering town, just drive it right on in. Now head to the 
+docks and talk to the sailor by the cargo ship. He'll let you ride the ship 
+back to Junon for 100 gil. When you get to Junon leave town and you'll discover 
+you've brought the buggy along with you. You now want to head north east to the
+river. There is a shallow spot you can cross using the buggy. Do so and head 
+east until you find a cave entrance. Inside the cave you will find a sleeping 
+old man. He won't talk to you much until you battle a certain number of times.
+The trick is to make the last two digits of the number of battles you fought 
+match. For example, when you've fought 33 battles or 244 battle he will talk to
+you since the last 2 digits match. Just fight outside of his cave until you 
+get a number that works. When you talk to him again he will give you an item, 
+sometimes it's a Bolt ring and sometimes it's Mythril. You are after the 
+Mythril. If he gives you a Bolt ring just go outside and fight 11 more battles
+to get to the next number of fights that puts your last 2 digits at the same
+number. For example if you have fought 22 times and he gives you a Bolt Ring
+go out and fight 11 more times. You'll now have 33 fights and he'll talk to 
+you again. Just keep doing this until you get the Mythril. He will give you a 
+Bolt Ring when the matching numbers are even and a Mythril when they are odd.
+
+Now you can proceed with the game until you get to Rocket Town. Once you go 
+through the Rocket Town sequence you'll have Cid as a party member and you'll 
+also have use of the Tiny Bronco. Take the Tiny Bronco to Nibelheim. Once there
+use the plane to travel up the river and across the continent. You should come
+out near Gold Saucer. Near the end of the river you'll see a little house on
+your right. This house was previously unoccupied, but now you can get off the
+plane and go inside. The guy inside will talk about the keystone for a bit. 
+When you get the chance tell him to change the subject and he'll talk about the
+weapons he makes and having a shortage of mythril. Give him the mythril and 
+he'll reward you by letting you pick a chest as a prize. Go up the stairs to 
+the top floor and go all the way left. Open the little box on the wall to 
+receive the Great Gospel manual. The big box on the lower floor just contains 
+a Gold Armlet.
+
+Red XIII:
+You get Red XIII's Cosmos Memory pretty early in the game, on disk 1. The first
+time you get to Nibelheim you'll be heading to the Shinra mansion. You'll need
+to open the safe on the 2nd floor to get the Odin materia and the basement key
+that you'll need to find Vincent. When you open the safe you'll fight a boss 
+called the Lost Number. For winning this fight you'll receive the Cosmos Memory
+manual.
+
+Yuffie Kisaragi:
+You can get Yuffie's All Creation Manual as early as disk 1 when you have the 
+Tiny Bronco. Simply travel to Wutai and challenge the masters of the Pagoda. 
+Once you beat the last boss, who is Godo, Yuffie's father, you'll receive the
+Leviathan summon and the All Creation Manual.
+
+Cait Sith:
+He has no level 4 limit break and therefore no manual to teach it to him.
+
+Vincent Valentine:
+You can get Vincent's Chaos manual as soon as you gain access to the submarine.
+Simply put him in your party and then take the sub to the river mouth north of
+Cost del Sol. Make sure not to miss it altogether. Dive underwater and look 
+for a small cave entrance. Just follow the path until you come to a circular 
+room. Surface and you'll be in a small lake. You can dock the sub on the side 
+and go into a cave hidden behind the waterfall. You'll see a flashback sequence 
+with Vincent here. Once its over leave the area, and go somewhere that you can 
+fight. I suggest the Gold Saucer area since it's the closest sub dock. After 
+you've fought at least 10 times return to the cave where he had his flashback 
+and you'll receive the Chaos manual and his final weapon, the Death Penalty.
+When looking for the undewater tunnel be aware that it branches off of the 
+tunnel that leads you to the Key of Ancients. You can also use a green, black
+or gold chocobo to do this in place of the sub.
+
+Cid Highwind:
+Cid's Highwind manual is easy to get. Once you have the sub travel to the Gold 
+Saucer sub dock. Now you want to dive underwater. There will be the wreckage of
+a cargo plane nearby. You can find all kinds of goodies in this plane, called 
+the Gelnika. One of the chests in the cargo room contains the Highwind manual.
+-------------------------------------------------------------------------------
+A Glitch in the System
+----------------------
+There is a known glitch in the limit break system that can cause some major 
+problems with your game. This glitch generally does one of two things.
+
+1) When you start a new game sometimes this glitch will occur. When this 
+happens you will find that instead of starting out with just your 1/1 limit 
+break your character(s) will have all limit breaks already learned. This may 
+appear as a wonderful occurrence at first but don't count it as a blessing just
+yet. I'm not sure what ramifications if any this has later in the game. It's 
+possible this could screw a few things up later on, such as getting Final 
+Attack from Battle Arena since you need to buy Omnislash and teach it to Cloud 
+as one of the requirements to access the special battle. You can't exactly 
+teach it to him if he already knows it and I'm not sure if the game will count 
+it or not. I haven't had this glitch happen to me so I'm not sure if this would
+really happen but it definitely seems possible. Anyone who has learned 
+omnislash via GameShark will know that the game doesn't count it when you try 
+to access the special battle, so it's quite possible the game won't count the 
+glitch either. If anyone knows for certain that there are problems caused by 
+this glitch please let me know so I can list them here.
+
+2) The second occurrence of the glitch can be even more frustrating. Have you 
+ever learned all of a character's limits except the last one and then tried to
+use his/her manual but the game still won't let you learn the level 4 limit? 
+Well that would be the glitch coming into play again. Once again I haven't had
+this happen to me, but I know a few people who have, and by all reports they've
+never found a way to fix the problem short of starting a new game. Basically 
+you just have to start all over or just keep playing without use of the level 4
+limit for the character(s) that this happens to.
+
+Those are the two most common results of the glitch. There are a few other that
+I've heard of but I don't know for certain if there is any truth to them, never
+having personally witnessed them. I'll list them anyway for reference.
+
+1) You can't learn limits at all. You get stuck with your 1/1 limit for the 
+entire game no matter how many times you meet the requirements to learn the new
+limits.
+
+2) Learning a new limit gets delayed. You make the required number of kills or 
+uses to get the next limit but you still don't learn it. Then later on, 
+sometimes after learning the limits after the one that wouldn't work, you'll 
+suddenly learn the limit you missed for no apparent reason.
+
+Well that's all I can tell you on that topic. This glitch is known to happen, 
+but fortunately it doesn't seem to happen very often. I've played through FF7 a
+total of 13 times so far and I've never had any of it happen to me. Just hope
+you are as lucky as I've been.
+-------------------------------------------------------------------------------
+LIMIT BREAK MECHANICS STUDY
+-------------------------------------------------------------------------------
+Below are charts of the actual statistics each character needs to gain limits, 
+that is the number of times each limit needs to be used and the number of 
+kills each character must make. This section will be updated as more people 
+submit their data. I will begin with a control set of data pulled from the 
+game's memory dumps, and continue with my own personal game data. The entire 
+point of this study was to compare statistics to see if the numbers needed 
+are preset or at least somewhat random. It has since been proven that the 
+numbers are hardcoded into the game without allowance for variation. However, 
+often times you'll notice discrepancies. I personally believe this is due to 
+some glitchiness in the programming.
+
+The values below are approximate, not exact.
+
+--------------------------
+Control Set               |
+-------------------------------------------------------------------------------
+Submitted by GideonD|North American Greatest Hits Version|Counted by 3 People
+-------------------------------------------------------------------------------
+Cloud Strife
+-------------------------------------------------------------------------------
+Limit 1/1: Braver         | Used 8 times to learn Limit 1/2: Cross-Slash
+-------------------------------------------------------------------------------
+Limit 1/2: Cross-Slash    | 120 kills made to learn Limit 2/1: Blade Beam
+-------------------------------------------------------------------------------
+Limit 2/1: Blade Beam     | Used 7 times to learn Limit 2/2: Climhazzard
+-------------------------------------------------------------------------------
+Limit 2/2: Climhazzard    | 200 kills made to learn Limit 3/1: Meteorain
+-------------------------------------------------------------------------------
+Limit 3/1: Meteorain      | Used 6 times to learn Limit 3/2: Finishing Touch
+-------------------------------------------------------------------------------
+Limit 3/2: Finishing Touch| Omnislash manual used to teach Limit 4/1: Omnislash
+-------------------------------------------------------------------------------
+Limit 4/1: Omnislash      | All limits learned.
+-------------------------------------------------------------------------------
+Barret Wallace
+-------------------------------------------------------------------------------
+Limit 1/1: Big Shot       | Used 9 times to learn Limit 1/2: Mind Blow
+-------------------------------------------------------------------------------
+Limit 1/2: Mind Blow      | 80 kills made to learn Limit 2/1: Grenade Bomb
+-------------------------------------------------------------------------------
+Limit 2/1: Grenade Bomb   | Used 8 times to learn Limit 2/2: Hammerblow
+-------------------------------------------------------------------------------
+Limit 2/2: Hammerblow     | 80 kills made to learn Limit 3/1: Satellite Beam
+-------------------------------------------------------------------------------
+Limit 3/1: Satellite Beam | Used 6 times to learn Limit 3/2: Ungermax
+-------------------------------------------------------------------------------
+Limit 3/2: Ungermax       | Catastrophe manual use to teach 
+                          | Limit 4/1: Catastrophe
+-------------------------------------------------------------------------------
+Limit 4/1: Catastrophe   | All limits learned.
+-------------------------------------------------------------------------------
+Tifa Lockheart
+-------------------------------------------------------------------------------
+Limit 1/1: Beat Rush      | Used 9 times to learn Limit 1/2: Somersault
+-------------------------------------------------------------------------------
+Limit 1/2: Somersault     | 96 kills made to learn Limit 2/1: Water Kick 
+-------------------------------------------------------------------------------
+Limit 2/1: Water Kick     | Used 7 times to learn Limit 2/2: Meteodrive 
+-------------------------------------------------------------------------------
+Limit 2/2: Meteodrive     | 96 kills made to learn Limit 3/1: Dolphin Blow  
+-------------------------------------------------------------------------------
+Limit 3/1: Dolphin Blow   | Used 6 times to learn Limit 3/2: Meteor Strike
+-------------------------------------------------------------------------------
+Limit 3/2: Meteor Strike  | Final Heaven manual used to teach
+                          | Limit 4/1: Final Heaven 
+-------------------------------------------------------------------------------
+Limit 4/1: Final Heaven   | All limits learned.
+-------------------------------------------------------------------------------
+Special Note:             | There has been a bit of confusion on the hit, miss,
+                          | and yeah options on Tifa's reels. You MUST score a
+                          | hit or yeah in order for it to count toward her
+                          | usage total. A miss will not count. Example: lets
+                          | say you've done a lot of killing with her but you
+                          | haven't been using her limits. So you've only 
+                          | learned her 1/1, 2/1, and 3/1 limits. In battle you
+                          | use her break and you score a hit on 1/1, a miss on 
+                          | 2/1, and a yeah on 3/1. If you are working on her 
+                          | 1/2 limit then the hit for 1/1 will count, but if 
+                          | you are working on her 2/2 limit the miss you got 
+                          | on her 2/1 will not count toward her usage tally.
+                          | Also of note, you MUST have her limit set to the
+                          | level you are trying to learn the */2 limit for.
+                          | Using the same example above, you can't just set 
+                          | your limit level to level 3 and expect to gain all
+                          | her */2 limits by using them all at once. You'll 
+                          | only gain her 3/2 limit. To learn her 1/2 or 2/2
+                          | you'll have to set her back to level 1 or 2
+                          | respectively and use those */1 limits while set to
+                          | the correct level.
+-------------------------------------------------------------------------------
+Aeris Gainsborough
+-------------------------------------------------------------------------------
+Limit 1/1: Healing Wind   | Used 8 times to learn Limit 1/2: Seal Evil 
+-------------------------------------------------------------------------------
+Limit 1/2: Seal Evil      | 80 kills made to learn 
+                          | Limit 2/1: Breath of the Earth
+-------------------------------------------------------------------------------
+Limit 2/1: Breath of the  | Used 6 times to learn Limit 2/2: Fury Brand   
+Earth                     |
+-------------------------------------------------------------------------------
+Limit 2/2: Fury Brand     | 80 kills made to learn Limit 3/1: Planet Protector
+-------------------------------------------------------------------------------
+Limit 3/1: Planet         | Used 5 times to learn Limit 3/2: Pulse of Life
+Protector                 |
+-------------------------------------------------------------------------------
+Limit 3/2: Pulse of Life  | Great Gospel manual used to teach 
+                          | Limit 4/1: Great Gospel 
+-------------------------------------------------------------------------------
+Limit 4/1: Great Gospel   | All limits learned.
+-------------------------------------------------------------------------------
+Red XIII
+-------------------------------------------------------------------------------
+Limit 1/1: Sled Fang      | Used 8 times to learn Limit 1/2: Lunatic High 
+-------------------------------------------------------------------------------
+Limit 1/2: Lunatic High   | 72 kills made to learn Limit 2/1: Blood Fang 
+-------------------------------------------------------------------------------
+Limit 2/1: Blood Fang     | Used 7 times to learn Limit 2/2: Stardust Ray 
+-------------------------------------------------------------------------------
+Limit 2/2: Stardust Ray   | 72 kills made to learn Limit 3/1 Howling Moon  
+-------------------------------------------------------------------------------
+Limit 3/1 Howling Moon    | Used 6 times to learn Limit 3/2: Earth Rave 
+-------------------------------------------------------------------------------
+Limit 3/2: Earth Rave     | Cosmos Memory manual used to teach
+                          | Limit 4/1: Cosmos Memory
+-------------------------------------------------------------------------------
+Limit 4/1: Cosmos Memory  | All limits learned.
+-------------------------------------------------------------------------------
+Yuffie Kisaragi
+-------------------------------------------------------------------------------
+Limit 1/1: Greased        | Used 8 times to learn Limit 1/2: Clear Tranquil
+Lightning                 | 
+-------------------------------------------------------------------------------
+Limit 1/2: Clear Tranquil | 64 kills made to learn Limit 2/1: Landscaper 
+-------------------------------------------------------------------------------
+Limit 2/1: Landscaper     | Used 7 times to learn Limit 2/2: Bloodfest  
+-------------------------------------------------------------------------------
+Limit 2/2: Bloodfest      | 64 kills made to learn Limit 3/1: Gauntlet   
+-------------------------------------------------------------------------------
+Limit 3/1: Gauntlet       | Used 6 times to learn Limit 3/2: Doom of the Living
+-------------------------------------------------------------------------------
+Limit 3/2: Doom of the    | All Creation Manual used to teach
+Living                    | Limit 4/1: All Creation 
+-------------------------------------------------------------------------------
+Limit 4/1: All Creation   | All limits learned.
+-------------------------------------------------------------------------------
+Cait Sith
+-------------------------------------------------------------------------------
+Limit 1/1: Dice           | 40 kills made to learn Limit 2/1: Slots
+-------------------------------------------------------------------------------
+Limit 2/1: Slots          | All limits learned.
+-------------------------------------------------------------------------------
+Vincent Valentine
+-------------------------------------------------------------------------------
+Limit 1/1: Galiant Beast  | 40 kills made to learn Limit 2/1: Death Gigas 
+-------------------------------------------------------------------------------
+Limit 2/1: Death Gigas    | 56 kills made to learn Limit 3/1: Hellmasker 
+-------------------------------------------------------------------------------
+Limit 3/1: Hellmasker     | Chaos manual used to learn Limit 4/1: Chaos 
+-------------------------------------------------------------------------------
+Limit 4/1: Chaos          | All limits learned.
+-------------------------------------------------------------------------------
+Cid Highwind
+-------------------------------------------------------------------------------
+Limit 1/1: Boost Jump     | Used 7 times to learn Limit 1/2: Dynamite
+-------------------------------------------------------------------------------
+Limit 1/2: Dynamite       | 60 kills made to learn Limit 2/1: Hyper Jump
+-------------------------------------------------------------------------------
+Limit 2/1: Hyper Jump     | Used 6 times to learn Limit 2/2: Dragon 
+-------------------------------------------------------------------------------
+Limit 2/2: Dragon         | 76 kills made to learn Limit 3/1: Dragon Dive
+-------------------------------------------------------------------------------
+Limit 3/1: Dragon Dive    | Used 5 times to learn Limit 3/2: Big Brawl
+-------------------------------------------------------------------------------
+Limit 3/2: Big Brawl      | Highwind manual used to teach Limit 4/1: Highwind
+-------------------------------------------------------------------------------
+Limit 4/1: Highwind       | All limits learned.
+-------------------------------------------------------------------------------
+
+---------------------------
+Manual Count 1            |
+-------------------------------------------------------------------------------
+Submitted by GideonD|North American Greatest Hits Version|Counted by 3 People
+-------------------------------------------------------------------------------
+Cloud Strife
+-------------------------------------------------------------------------------
+Limit 1/1: Braver         | Used 8 times to learn Limit 1/2: Cross-Slash
+-------------------------------------------------------------------------------
+Limit 1/2: Cross-Slash    | 115 kills made to learn Limit 2/1: Blade Beam
+-------------------------------------------------------------------------------
+Limit 2/1: Blade Beam     | Used 7 times to learn Limit 2/2: Climhazzard
+-------------------------------------------------------------------------------
+Limit 2/2: Climhazzard    | 195 kills made to learn Limit 3/1: Meteorain
+-------------------------------------------------------------------------------
+Limit 3/1: Meteorain      | Used 6 times to learn Limit 3/2: Finishing Touch
+-------------------------------------------------------------------------------
+Limit 3/2: Finishing Touch| Omnislash manual used to teach Limit 4/1: Omnislash
+-------------------------------------------------------------------------------
+Limit 4/1: Omnislash      | All limits learned.
+-------------------------------------------------------------------------------
+Barret Wallace
+-------------------------------------------------------------------------------
+Limit 1/1: Big Shot       | Used 9 times to learn Limit 1/2: Mind Blow
+-------------------------------------------------------------------------------
+Limit 1/2: Mind Blow      | 80 kills made to learn Limit 2/1: Grenade Bomb
+-------------------------------------------------------------------------------
+Limit 2/1: Grenade Bomb   | Used 8 times to learn Limit 2/2: Hammerblow
+-------------------------------------------------------------------------------
+Limit 2/2: Hammerblow     | 70 kills made to learn Limit 3/1: Satellite Beam
+-------------------------------------------------------------------------------
+Limit 3/1: Satellite Beam | Used 7 times to learn Limit 3/2: Ungermax
+-------------------------------------------------------------------------------
+Limit 3/2: Ungermax       | Catastrophe manual use to teach 
+                          | Limit 4/1: Catastrophe
+-------------------------------------------------------------------------------
+Limit 4/1: Catastrophe   | All limits learned.
+-------------------------------------------------------------------------------
+Tifa Lockheart
+-------------------------------------------------------------------------------
+Limit 1/1: Beat Rush      | Used 9 times to learn Limit 1/2: Somersault
+-------------------------------------------------------------------------------
+Limit 1/2: Somersault     | 96 kills made to learn Limit 2/1: Water Kick 
+-------------------------------------------------------------------------------
+Limit 2/1: Water Kick     | Used 7 times to learn Limit 2/2: Meteodrive 
+-------------------------------------------------------------------------------
+Limit 2/2: Meteodrive     | 96 kills made to learn Limit 3/1: Dolphin Blow  
+-------------------------------------------------------------------------------
+Limit 3/1: Dolphin Blow   | Used 6 times to learn Limit 3/2: Meteor Strike
+-------------------------------------------------------------------------------
+Limit 3/2: Meteor Strike  | Final Heaven manual used to teach
+                          | Limit 4/1: Final Heaven 
+-------------------------------------------------------------------------------
+Limit 4/1: Final Heaven   | All limits learned.
+-------------------------------------------------------------------------------
+Special Note:             | There has been a bit of confusion on the hit, miss,
+                          | and yeah options on Tifa's reels. You MUST score a
+                          | hit or yeah in order for it to count toward her
+                          | usage total. A miss will not count. Example: lets
+                          | say you've done a lot of killing with her but you
+                          | haven't been using her limits. So you've only 
+                          | learned her 1/1, 2/1, and 3/1 limits. In battle you
+                          | use her break and you score a hit on 1/1, a miss on 
+                          | 2/1, and a yeah on 3/1. If you are working on her 
+                          | 1/2 limit then the hit for 1/1 will count, but if 
+                          | you are working on her 2/2 limit the miss you got 
+                          | on her 2/1 will not count toward her usage tally.
+                          | Also of note, you MUST have her limit set to the
+                          | level you are trying to learn the */2 limit for.
+                          | Using the same example above, you can't just set 
+                          | your limit level to level 3 and expect to gain all
+                          | her */2 limits by using them all at once. You'll 
+                          | only gain her 3/2 limit. To learn her 1/2 or 2/2
+                          | you'll have to set her back to level 1 or 2
+                          | respectively and use those */1 limits while set to
+                          | the correct level.
+-------------------------------------------------------------------------------
+Aeris Gainsborough
+-------------------------------------------------------------------------------
+Limit 1/1: Healing Wind   | Used 7 times to learn Limit 1/2: Seal Evil 
+-------------------------------------------------------------------------------
+Limit 1/2: Seal Evil      | 80 kills made to learn 
+                          | Limit 2/1: Breath of the Earth
+-------------------------------------------------------------------------------
+Limit 2/1: Breath of the  | Used 6 times to learn Limit 2/2: Fury Brand   
+Earth                     |
+-------------------------------------------------------------------------------
+Limit 2/2: Fury Brand     | 80 kills made to learn Limit 3/1: Planet Protector
+-------------------------------------------------------------------------------
+Limit 3/1: Planet         | Used 5 times to learn Limit 3/2: Pulse of Life
+Protector                 |
+-------------------------------------------------------------------------------
+Limit 3/2: Pulse of Life  | Great Gospel manual used to teach 
+                          | Limit 4/1: Great Gospel 
+-------------------------------------------------------------------------------
+Limit 4/1: Great Gospel   | All limits learned.
+-------------------------------------------------------------------------------
+Red XIII
+-------------------------------------------------------------------------------
+Limit 1/1: Sled Fang      | Used 8 times to learn Limit 1/2: Lunatic High 
+-------------------------------------------------------------------------------
+Limit 1/2: Lunatic High   | 70 kills made to learn Limit 2/1: Blood Fang 
+-------------------------------------------------------------------------------
+Limit 2/1: Blood Fang     | Used 7 times to learn Limit 2/2: Stardust Ray 
+-------------------------------------------------------------------------------
+Limit 2/2: Stardust Ray   | 70 kills made to learn Limit 3/1 Howling Moon  
+-------------------------------------------------------------------------------
+Limit 3/1 Howling Moon    | Used 6 times to learn Limit 3/2: Earth Rave 
+-------------------------------------------------------------------------------
+Limit 3/2: Earth Rave     | Cosmos Memory manual used to teach
+                          | Limit 4/1: Cosmos Memory
+-------------------------------------------------------------------------------
+Limit 4/1: Cosmos Memory  | All limits learned.
+-------------------------------------------------------------------------------
+Yuffie Kisaragi
+-------------------------------------------------------------------------------
+Limit 1/1: Greased        | Used 8 times to learn Limit 1/2: Clear Tranquil
+Lightning                 | 
+-------------------------------------------------------------------------------
+Limit 1/2: Clear Tranquil | 63 kills made to learn Limit 2/1: Landscaper 
+-------------------------------------------------------------------------------
+Limit 2/1: Landscaper     | Used 7 times to learn Limit 2/2: Bloodfest  
+-------------------------------------------------------------------------------
+Limit 2/2: Bloodfest      | 63 kills made to learn Limit 3/1: Gauntlet   
+-------------------------------------------------------------------------------
+Limit 3/1: Gauntlet       | Used 6 times to learn Limit 3/2: Doom of the Living
+-------------------------------------------------------------------------------
+Limit 3/2: Doom of the    | All Creation Manual used to teach
+Living                    | Limit 4/1: All Creation 
+-------------------------------------------------------------------------------
+Limit 4/1: All Creation   | All limits learned.
+-------------------------------------------------------------------------------
+Cait Sith
+-------------------------------------------------------------------------------
+Limit 1/1: Dice           | 40 kills made to learn Limit 2/1: Slots
+-------------------------------------------------------------------------------
+Limit 2/1: Slots          | All limits learned.
+-------------------------------------------------------------------------------
+Vincent Valentine
+-------------------------------------------------------------------------------
+Limit 1/1: Galiant Beast  | 42 kills made to learn Limit 2/1: Death Gigas 
+-------------------------------------------------------------------------------
+Limit 2/1: Death Gigas    | 52 kills made to learn Limit 3/1: Hellmasker 
+-------------------------------------------------------------------------------
+Limit 3/1: Hellmasker     | Chaos manual used to learn Limit 4/1: Chaos 
+-------------------------------------------------------------------------------
+Limit 4/1: Chaos          | All limits learned.
+-------------------------------------------------------------------------------
+Cid Highwind
+-------------------------------------------------------------------------------
+Limit 1/1: Boost Jump     | Used 7 times to learn Limit 1/2: Dynamite
+-------------------------------------------------------------------------------
+Limit 1/2: Dynamite       | 60 kills made to learn Limit 2/1: Hyper Jump
+-------------------------------------------------------------------------------
+Limit 2/1: Hyper Jump     | Used 6 times to learn Limit 2/2: Dragon 
+-------------------------------------------------------------------------------
+Limit 2/2: Dragon         | 80 kills made to learn Limit 3/1: Dragon Dive
+-------------------------------------------------------------------------------
+Limit 3/1: Dragon Dive    | Used 5 times to learn Limit 3/2: Big Brawl
+-------------------------------------------------------------------------------
+Limit 3/2: Big Brawl      | Highwind manual used to teach Limit 4/1: Highwind
+-------------------------------------------------------------------------------
+Limit 4/1: Highwind       | All limits learned.
+-------------------------------------------------------------------------------
+
+The following information is a second set of results that I've counted just as
+thoroughly as the first. You'll note that not all the totals are the same but
+they are generally very close. I'm still trying to figure out why the totals
+don't seem to stay exact from one playthough to the next. I'm still guessing 
+the game just isn't counting correctly.
+
+---------------------------
+Manual Count 2            |
+-------------------------------------------------------------------------------
+Submitted by GideonD|North American Greatest Hits Version|Counted by 3 People
+-------------------------------------------------------------------------------
+Cloud Strife
+-------------------------------------------------------------------------------
+Limit 1/1: Braver         | Used 8 times to learn Limit 1/2: Cross-Slash
+-------------------------------------------------------------------------------
+Limit 1/2: Cross-Slash    | 120 kills made to learn Limit 2/1: Blade Beam
+-------------------------------------------------------------------------------
+Limit 2/1: Blade Beam     | Used 7 times to learn Limit 2/2: Climhazzard
+-------------------------------------------------------------------------------
+Limit 2/2: Climhazzard    | 200 kills made to learn Limit 3/1: Meteorain
+-------------------------------------------------------------------------------
+Limit 3/1: Meteorain      | Used 5 times to learn Limit 3/2: Finishing Touch
+-------------------------------------------------------------------------------
+Limit 3/2: Finishing Touch| Omnislash manual used to teach Limit 4/1: Omnislash
+-------------------------------------------------------------------------------
+Limit 4/1: Omnislash      | All limits learned.
+-------------------------------------------------------------------------------
+Barret Wallace
+-------------------------------------------------------------------------------
+Limit 1/1: Big Shot       | Used 9 times to learn Limit 1/2: Mind Blow
+-------------------------------------------------------------------------------
+Limit 1/2: Mind Blow      | 80 kills made to learn Limit 2/1: Grenade Bomb
+-------------------------------------------------------------------------------
+Limit 2/1: Grenade Bomb   | Used 8 times to learn Limit 2/2: Hammerblow
+-------------------------------------------------------------------------------
+Limit 2/2: Hammerblow     | 80 kills made to learn Limit 3/1: Satellite Beam
+-------------------------------------------------------------------------------
+Limit 3/1: Satellite Beam | Used 6 times to learn Limit 3/2: Ungermax
+-------------------------------------------------------------------------------
+Limit 3/2: Ungermax       | Catastrophe manual use to teach 
+                          | Limit 4/1: Catastrophe
+-------------------------------------------------------------------------------
+Limit 4/1: Catastrophe   | All limits learned.
+-------------------------------------------------------------------------------
+Tifa Lockheart
+-------------------------------------------------------------------------------
+Limit 1/1: Beat Rush      | Used 9 times to learn Limit 1/2: Somersault
+-------------------------------------------------------------------------------
+Limit 1/2: Somersault     | 94 kills made to learn Limit 2/1: Water Kick 
+-------------------------------------------------------------------------------
+Limit 2/1: Water Kick     | Used 7 times to learn Limit 2/2: Meteodrive 
+-------------------------------------------------------------------------------
+Limit 2/2: Meteodrive     | 94 kills made to learn Limit 3/1: Dolphin Blow  
+-------------------------------------------------------------------------------
+Limit 3/1: Dolphin Blow   | Used 6 times to learn Limit 3/2: Meteor Strike
+-------------------------------------------------------------------------------
+Limit 3/2: Meteor Strike  | Final Heaven manual used to teach
+                          | Limit 4/1: Final Heaven 
+-------------------------------------------------------------------------------
+Limit 4/1: Final Heaven   | All limits learned.
+-------------------------------------------------------------------------------
+Aeris Gainsborough
+-------------------------------------------------------------------------------
+Limit 1/1: Healing Wind   | Used 9 times to learn Limit 1/2: Seal Evil 
+-------------------------------------------------------------------------------
+Limit 1/2: Seal Evil      | 80 kills made to learn 
+                          | Limit 2/1: Breath of the Earth
+-------------------------------------------------------------------------------
+Limit 2/1: Breath of the  | Used 6 times to learn Limit 2/2: Fury Brand   
+Earth                     |
+-------------------------------------------------------------------------------
+Limit 2/2: Fury Brand     | 80 kills made to learn Limit 3/1: Planet Protector
+-------------------------------------------------------------------------------
+Limit 3/1: Planet         | Used 5 times to learn Limit 3/2: Pulse of Life
+Protector                 |
+-------------------------------------------------------------------------------
+Limit 3/2: Pulse of Life  | Great Gospel manual used to teach 
+                          | Limit 4/1: Great Gospel 
+-------------------------------------------------------------------------------
+Limit 4/1: Great Gospel   | All limits learned.
+-------------------------------------------------------------------------------
+Red XIII
+-------------------------------------------------------------------------------
+Limit 1/1: Sled Fang      | Used 8 times to learn Limit 1/2: Lunatic High 
+-------------------------------------------------------------------------------
+Limit 1/2: Lunatic High   | 72 kills made to learn Limit 2/1: Blood Fang 
+-------------------------------------------------------------------------------
+Limit 2/1: Blood Fang     | Used 7 times to learn Limit 2/2: Stardust Ray 
+-------------------------------------------------------------------------------
+Limit 2/2: Stardust Ray   | 72 kills made to learn Limit 3/1 Howling Moon  
+-------------------------------------------------------------------------------
+Limit 3/1 Howling Moon    | Used 6 times to learn Limit 3/2: Earth Rave 
+-------------------------------------------------------------------------------
+Limit 3/2: Earth Rave     | Cosmos Memory manual used to teach
+                          | Limit 4/1: Cosmos Memory
+-------------------------------------------------------------------------------
+Limit 4/1: Cosmos Memory  | All limits learned.
+-------------------------------------------------------------------------------
+Yuffie Kisaragi
+-------------------------------------------------------------------------------
+Limit 1/1: Greased        | Used 8 times to learn Limit 1/2: Clear Tranquil
+Lightning                 | 
+-------------------------------------------------------------------------------
+Limit 1/2: Clear Tranquil | 64 kills made to learn Limit 2/1: Landscaper 
+-------------------------------------------------------------------------------
+Limit 2/1: Landscaper     | Used 7 times to learn Limit 2/2: Bloodfest  
+-------------------------------------------------------------------------------
+Limit 2/2: Bloodfest      | 64 kills made to learn Limit 3/1: Gauntlet   
+-------------------------------------------------------------------------------
+Limit 3/1: Gauntlet       | Used 6 times to learn Limit 3/2: Doom of the Living
+-------------------------------------------------------------------------------
+Limit 3/2: Doom of the    | All Creation Manual used to teach
+Living                    | Limit 4/1: All Creation 
+-------------------------------------------------------------------------------
+Limit 4/1: All Creation   | All limits learned.
+-------------------------------------------------------------------------------
+Cait Sith
+-------------------------------------------------------------------------------
+Limit 1/1: Dice           | 40 kills made to learn Limit 2/1: Slots
+-------------------------------------------------------------------------------
+Limit 2/1: Slots          | All limits learned.
+-------------------------------------------------------------------------------
+Vincent Valentine
+-------------------------------------------------------------------------------
+Limit 1/1: Galiant Beast  | 42 kills made to learn Limit 2/1: Death Gigas 
+-------------------------------------------------------------------------------
+Limit 2/1: Death Gigas    | 54 kills made to learn Limit 3/1: Hellmasker 
+-------------------------------------------------------------------------------
+Limit 3/1: Hellmasker     | Chaos manual used to learn Limit 4/1: Chaos 
+-------------------------------------------------------------------------------
+Limit 4/1: Chaos          | All limits learned.
+-------------------------------------------------------------------------------
+Cid Highwind
+-------------------------------------------------------------------------------
+Limit 1/1: Boost Jump     | Used 7 times to learn Limit 1/2: Dynamite
+-------------------------------------------------------------------------------
+Limit 1/2: Dynamite       | 60 kills made to learn Limit 2/1: Hyper Jump
+-------------------------------------------------------------------------------
+Limit 2/1: Hyper Jump     | Used 6 times to learn Limit 2/2: Dragon 
+-------------------------------------------------------------------------------
+Limit 2/2: Dragon         | 80 kills made to learn Limit 3/1: Dragon Dive
+-------------------------------------------------------------------------------
+Limit 3/1: Dragon Dive    | Used 5 times to learn Limit 3/2: Big Brawl
+-------------------------------------------------------------------------------
+Limit 3/2: Big Brawl      | Highwind manual used to teach Limit 4/1: Highwind
+-------------------------------------------------------------------------------
+Limit 4/1: Highwind       | All limits learned.
+-------------------------------------------------------------------------------
+
+Note 1: There has been a bit of confusion on the kill tally for the characters
+so I'll attempt to clear that up. 
+
+Firstly the kill tally keeps counting no matter what. If you learn Hyper Jump 
+for Cid after making 60 kills then the kill tally immediately starts counting 
+the next 80 kills to get Dragon Dive. You don't have to wait until you learn 
+Dragon before the kill tally starts counting again. As I mentioned in the first
+part of the guide, learning */1 limits is completely independent of learning */2
+limits though the reverse of that isn't true.
+
+Secondly when I say a character needs a certain amount of kills to learn his
+2/1 limit and then a certain amount to learn his 3/1 limit I don't mean those
+numbers as totals. They are individual counts. So for example if Cloud makes 
+115 kills to learn Blade Beam he needs an additional 195 kills to learn 
+Meteorian for a total of 310 kills. Several people have viewed this to mean he
+needs 115 kills to learn Blade Beam and then another 80 kills to learn 
+Meteorian for a total of 195 kills. That's not the way it works I'm afraid. If 
+you are counting kills, when you learn the first limit you are counting toward,
+then start counting all over again to get the second value I have listed.
+
+I hope that clears up the confusion. It's easy when you think about it but 
+trying to phrase it so people who aren't as familiar with the system can 
+understand it can be a real challenge. If it's still unclear drop me an email 
+and I'll try to straighten it out a bit more.
+
+Section Complete
+-------------------------------------------------------------------------------
+CONCLUSION
+-------------------------------------------------------------------------------
+Well that concludes my Limit Break Mechanics Guide. Due to various requests of
+GameFAQs board users this is no longer an Alpha copy and will probably remain a
+work in progress till the day I die and Nanaki's children continue my work. 
+Please note that you just viewed a live example of sarcasm. Take a photo.
+-------------------------------------------------------------------------------
+END
+-------------------------------------------------------------------------------
+-------------------------------------------------------------------------------

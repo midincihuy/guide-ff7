@@ -1,0 +1,1651 @@
+*******************************************************************************
+
+                            Final Fantasy VII: 
+                             Enemy Skill FAQ
+
+
+
+Copyright 2004, Apathetic Aadvark           Email: Sinenomine@gmail.com
+All rights reserved                         Version Moogle    8/30/2004
+
+I AM ALSO KNOWN AS SINENOMINE ON THE GAMEFAQS MESSAGES BOARDS
+
+*******************************************************************************
+                       Index/Table of Contents
+*******************************************************************************
+
+            Disclaimer.......................i
+            Version History..................ii
+            Enemy Skill Materia..............iii
+            The Enemy Skills.................iv*
+            Monsters.........................v*
+            Comparison with other materia....vi
+            Comparison with each other.......vii
+            Other Notes......................viii
+            Order of obtaining...............ix
+            Credits..........................x
+
+   * = If you're just looking for the basic skill information, these are the
+only two sections which will be of any use to you.  The remaining sections are
+for users trying to get the biggest bang for their mp buck or alternate uses to
+                             the skills.  
+
+
+*******************************************************************************
+                      i) Disclaimer (Legal stuff)
+*******************************************************************************
+
+Copyright 2004, Apathetic Aardvark
+All rights reserved.
+
+The following sites have my permission to post this without asking;
+www.gamefaqs.com
+http://www.angelfire.com/retro/ff7sbphotosite/
+www.neoseeker.com
+www.ffspirit.com
+
+Any site, magazine, or other form of media, that is not included on this list
+caught hosting this guide without my written consent is in violation of 
+copyright laws and will be prosecuted to the full extent of the laws.
+
+
+*******************************************************************************
+                          ii) Version History
+*******************************************************************************
+
+5/22/2003  Version 1.0 - Added all the skills, what they do, enemies to learn
+them from, locations of the enemies and a generic comparison of enemy skills
+vs. standard spells.  Also added a recommended order of obtaining.
+
+5/26/2003 Version 1.1 - Added the data charts do verify claims of damage.  
+Moved monster locations to the skill information area to save time on the
+searching through this guide.  Moved all of the technical stuff to the end of
+the guide so people who just want to learn about skills don't have to sift 
+through it all.
+
+7/12/2003  Version 1.2 - Very minor changes, added alternate skill uses.
+
+3/11/2004 v1.3 - fixed a few minor details, mostly clarifications.  Greatly 
+increased the usefulness of the monster section.
+
+6/20/2004 - version Moogle changed email address... please stop emailing me 
+WRONG information about Trine and White Wind. 
+ 
+
+*******************************************************************************
+         iii) Enemy Skill Materia Locations and How do they work
+*******************************************************************************
+
+There are four enemy skill materias in the game.  Ideally, you're going to want
+at least three of them, one for every active member in your party.  Enemy Skill
+matera is a command materia, but is not found on the master command.  The 
+materia itself adds no stats, such as MP or magic power, but also does not take
+stats away such as strength and HP.  Enemy skill cannot be paired with any
+support materia.
+
+
+#1 - Found on the 67th floor of the Shinra headquarters of Midgar.  It appears
+after the boss battle occurs.  The materia will be bouncing just in front of 
+the containing device labeled "Sample".
+
+#2 - Found in the intermediate training hall, in Junon.  You may get this on
+your first trip to Junon while dressed up as a Shinra soldier.
+
+#3 - Found in the Ancient City in the building where Cloud and company stop
+to rest at.  It is slightly hidden behind the uppermost bed.
+
+#4 - Found in Chocobo Sages house, talk to the green chocobo there and it will
+drop it.
+
+
+-------------------------------------------------------------------------------
+
+To learn an enemy skill, an opponent must use the skill on a character who is
+equipped with the enemy skill materia.  Once hit, your character will spin a 
+circle and you will see "Learned Enemy Skill xxxxxxxx".  Once this is said, you
+may use that skill for the remainder of the battle.  Upon winning the battle 
+you will be able to use that skill from that particular enemy skill materia[s]
+at any time.  Should you run from the battle or be kicked off of it, you will
+NOT retain the skill.  You can NOT learn enemy skills in the battle arena and 
+you can NOT learn them by having one party member casting them onto another
+party member.
+
+
+*******************************************************************************
+                      iv) The Enemy Skills
+*******************************************************************************
+
+Listed in order of Stars.  This section will illustrate what each of the twenty
+four enemy skills do, the pros and cons to the skill and what enemies can cast
+it.  This section will also list the enemies location but if you need a more
+specific location refer to section v.
+
+-------------------------------------------------------------------------------
+
+Frog Song:
+
+Effect - Turns a single target into a frog and puts them too sleep.
+Pros - Frogs do minimal damage and may not cast any spell other than toad. 
+Sleeping enemies are sitting ducks.  May also be used to remove toad status 
+from party members.
+Cons - Only hits one target.  Does not work fully on many enemies.
+Mp Cost - 5mp
+Can learn from - Touch me [Gongaga area], Toxic frog [Temple of the Ancients], 
+and Christopher [Crater]
+
+-------------------------------------------------------------------------------
+
+L4 Suicide:
+
+Effect - Causes critical damage to enemies with level divisible by four.  May
+also cause 'mini' status as well.
+Pros - Critical damage is a HUGE amount of current hp.  Hits all enemy 
+targets.
+Cons - Many enemies do not have levels divisible by four.  This skill can NOT
+kill an enemy either.
+Mp Cost - 10mp
+Can learn from - Mu [Chocobo farm area], Trickplay [Icicle area]
+Note: Critical damage is defined as [HP * 31 / 32] damage.  Furthermore, this 
+spell can be reflected.  When reflected the spell only hits one target per 
+reflect.  
+
+-------------------------------------------------------------------------------
+
+Magic Hammer:
+
+Effect - Takes up to 100mp from an opponent and gives it to the caster.
+Pros - Good way to replenish 97mp per casting.  Can drain enemies of MP 
+completely so they have do not have any to cast with.
+Cons - This skill can be reflected thus you drain mana from yourself causing
+a net loss of 3mp.  Somewhat timely if being used to remove enemy MPs.
+Mp Cost - 3mp
+Can learn from - Razor Weed [Wutai Area]
+Note: If the enemy has less than 100mp remaining, you will still knock that 
+enemy down 100mp however, you will only gain as much mp as it actually had.
+
+-------------------------------------------------------------------------------
+
+White Wind:
+
+Effect - Heals all allies (or enemies) by the amount of current hp the 
+caster has.  Also cures the following status changes: sleep, poison, confusion,
+silence, slow, stop, frog, mini, slow-numb, petrify, berserk, paralyzed, and
+darkness, death force and Shield.  If shield status is removed, no other 
+status will be removed in that casting.
+Pros - This is a healing spell with the built in property of 'all' saving you 
+a materia slot.  If you have a lot of life, you can heal your party far cheaper
+this way than with the standard cure spells, besides, it changes a large amount
+of status changes.
+Cons - When you first get White Wind, you may not have enough HP to make it 
+worth casting.  Also changes a lot of unlisted good status such as temporary 
+death immune [death force] back to normal.
+Mp Cost - 34mp
+Can learn from - Zemzelett [Junon area].  Wind Wing [Whirlwind Maze]*
+
+* = To learn from Wind Wing you must confuse the wind wing.  White Wind is not
+a learnable skill from the manipulate menu.
+
+-------------------------------------------------------------------------------
+
+Big Guard:
+
+Effect - Casts Barrier, Magic Barrier and Haste on all allies (or enemies)
+Pros - Is a big mana saver from casting them all individually.  Also has a 
+built in 'all' saving you many materia slots as well.  You will take half 
+damage from physical and magical attacks while getting more turns.
+Cons - The Barrier and Magic Barrier drain faster than they would if you
+were not in Haste mode*
+*A bug exists.  If you are immune to Slow and Stop, you will also be made 
+immune to haste, thus the barriers will not drain at double speed
+Mp Cost - 56mp
+Can learn from - Beach plug [Costa del sol beaches]
+
+-------------------------------------------------------------------------------
+
+Angel Whisper:
+
+Effect - Fully revives one dead ally, heals an injured ally to full.  Angel
+whisper also cures the following status changes: KO, Sleep, poison, confusion,
+silence, slow, stop, frog, mini, petrify, berserk, darkness and paralyzed.
+Pros - This is life2/full cure/semi-Esuna on the same spell, and fairly cheap 
+to cast too.
+Cons - Only hits one target
+Mp Cost - 50mp
+Can learn from - Pollensalta [Crater]
+
+-------------------------------------------------------------------------------
+
+Dragon Force:
+
+Effect - Raises Defense and Magic Defense*
+Pros - You take less damage
+Cons - Somewhat expensive, targets only one target and seems to be
+ineffective.
+Mp Cost - 19mp
+Can learn from - Dark Dragon [Crater]
+*Final Fantasy VII has a Magic defense bug.  Your magic defense will NOT in 
+fact increase in the game because of the bug.  In fact, no magic defense works.
+The only way to increase your resistance to magic is by raising the 'spirit'
+stat.  Dragon Force will still increase the base spirit stat but the MDef armor
+stat will not be included, though its multiplier will be.  
+
+-------------------------------------------------------------------------------
+
+Death Force:
+
+Effect - Target becomes immune to death
+Pros - Protects against sudden death.  Will not remove a countdown, but if 
+still active when the timer hits zero, will protect from the dying.
+Cons - Only hits on target, very limited use.  Easily removed by many friendly
+spells.
+Mp Cost - 3mp
+Can learn from - Adamantaimai [Wutai Area]
+
+-------------------------------------------------------------------------------
+
+Flame Thrower:
+
+Effect - Projects a stream of flame at one target
+Pros - A source of fire damage which hits one target.  
+Cons - very weak damage, possibly the most useless of all enemy skills.  It is
+also reflectable, this benefits you in no way though since it's a single target
+spell, thus, you can reflect it only once per casting.
+Mp Cost - 10mp
+Can learn from - Ark Dragon [Mithril Mines], Dragon [Mount Nibel]
+
+-------------------------------------------------------------------------------
+
+Laser:
+
+Effect - A gravity based attack which takes one half of a single 
+targets current hp away.
+Pros - Cheaper than demi2 and has the same effect.
+Cons - Only hits one target, most bosses are immune to gravity attacks.  Laser
+is also reflectable, this benefits you in no way though since it's a single 
+target spell, thus, you can reflect it only once per casting.
+Mp Cost - 16
+Can learn from - Death Claw [Desert Prison], Dark Dragon [Crater]
+
+-------------------------------------------------------------------------------
+
+Matra Magic:
+
+Effect - Light non-elemental damage to all enemies
+Pros - Possibly the best early game spell.  Very cheap, hits all enemies and 
+does decent damage.  Furthermore, this spell can be reflected.  When reflected 
+the spell only hits one target per reflect.  If your entire party has reflect 
+set up, you can hit a total of three targets once or one target three times.  
+Cons - Quickly becomes obsolete because of it's low damage.
+Mp Cost - 8mp
+Can learn from - Custom Sweeper [Midgar area], Bullmotor [Desert Prison], and
+Death Machine [Desert Prison]
+
+-------------------------------------------------------------------------------
+
+Bad Breath:
+
+Effect - Casts confusion, frog, mini, poison silence, and sleepel on all 
+enemies.
+Pros - A very large amount of status changes which render many enemies 
+defenseless.
+Cons - Does not work on most bosses, somewhat expensive
+Mp Cost - 58mp
+Can learn from - Malboro [Gaea's Cliff, Crater]
+
+-------------------------------------------------------------------------------
+
+Beta:
+
+Effect - Extreme fire damage to all opponents
+Pros - Massive fire damage spell which can be obtained very early. Hits all 
+targets.
+Cons - None, unless you cast it on fire absorbing opponents
+Mp Cost - 35mp
+Can learn from - Midgar Zolom [Chocobo farm area]
+
+-------------------------------------------------------------------------------
+
+Aqualung:
+
+Effect - Extreme water damage to all opponents
+Pros - Can be obtained very early.  Not many enemies are well defended against 
+water.  Excellent spell against bosses.  Furthermore, this spell can be 
+reflected.  When reflected the spell only hits one target per reflect.  If 
+your entire party has reflect set up, you can hit a total of three targets once
+or one target three times.  Very effective against bosses.
+Cons - None, unless you cast it on the very rare water absorbing opponents.
+Mp Cost - 34mp
+Can learn from - Harpy [Corel area*], Jenova Life [City of the Ancients], and 
+Serpent [Gelnika Airplane]
+
+Harpy's are found ON THE SAND outside of the gold sacuer ON THE WORLD MAP, you
+may only go on this area and encounter battles in the buggy.  They can also be
+encountered with Chocobos on the nearby tracks.  THESE ARE NOT FOUND INSIDE OF
+THE DESERT PRISON.
+
+-------------------------------------------------------------------------------
+
+Trine*:
+
+Effect - Strong lightning damage to all opponents
+Pros - Very cheap, hits all targets, good damage
+Cons - Not as strong as Beta or Aqualung, bad choice against lightning 
+absorbing opponents.
+Mp Cost - 20mp
+Can learn from - Materia Keeper [Mount Nibel], Godo [Wutai], and Stilva [Gaea's
+cliff]
+*Note: Trine is ONLY taught by these three enemies and they are all one time 
+only.  The Materia Keeper you MUST fight before getting the second and third 
+copies of Enemy skill materia.  Stilva's MUST be fought before getting the 
+fourth copy of Enemy skill materia.  This means Godo is your ONLY source of 
+Trine after you get the Highwind and the fourth enemy skill materia.  If you 
+kill him before this you do so AT YOUR OWN LOSS.
+
+-------------------------------------------------------------------------------
+
+Magic Breath:
+
+Effect - Extreme fire/lightning/ice damage to all opponents
+Pros - Possibly the most powerful all enemy hitting elemental attack in the 
+entire game.
+Cons - If an enemy is able to absorb any one of the elements, that enemy will 
+absorb all of the damage.  If any one element is nullified the damage to the 
+enemy will be zero.
+Mp Cost - 75mp
+Can learn from - Stilva [Gaea's Cliff], Parasite [Crater]
+
+-------------------------------------------------------------------------------
+
+????:
+
+Effect - Does non elemental damage.  Casters [max hp - current hp] = damage  
+Pros - Good damage if you frequently have 1/9999 hp
+Cons - not enough damage if you don't have high max hp and
+Mp Cost - 3mp
+Can learn from - Jersey [Shinra Mansion], Behemoth [Midgar]
+
+-------------------------------------------------------------------------------
+
+Goblin Punch:
+
+Effect - Physical damage to one target based on magical attack.  The damage is
+greater as your level is nearer to an enemy level.
+Pros - If you don't want to waste a limit break, this is a good way to do 
+decent damage for no cost.
+Cons - Is weak against enemies, especially in the late game as few monsters are
+above level fifty.
+Mp Cost - 0mp
+Can learn from - Goblin [Goblin Island]
+
+-------------------------------------------------------------------------------
+
+Chocobuckle:
+
+Effect - Non-elemental damage to a single target.  Damage is equal too the 
+number of battles you have run from.
+Pros - In theory you can do 9,999 damage with this skill.  However, better
+uses are getting it to 1,111 or 2,222 damage to inflict easy Lucky 7's on your
+party.
+Cons - Takes a VERY long time to power up, somewhat of a pain to learn too.
+Mp Cost - 3mp
+Can learn from - Chocobos [Chocobo Tracks]
+
+-------------------------------------------------------------------------------
+
+L5 Death:
+
+Effect - Casts instant death on any target with a level divisible by 5.  
+Pros - Targets all enemies, quickly kills them if able
+Cons - Does not effect most enemies, does not effect enemies immune to death.
+Mp Cost - 22mp
+Can learn from - Parasite [Crater]
+
+-------------------------------------------------------------------------------
+
+Death Sentence:
+
+Effect - Creates a sixty second timer above one targets head.  When the timer
+reaches zero Instant death will be cast.
+Pros - None
+Cons - 60 seconds if forever in this game.  Even if it reaches zero, some 
+enemies will still be immune to the death effect.
+Mp Cost - 10mp
+Can learn from - Gi Spector [Cave of Gi] , Sneaky Step [Cave of Gi], and 
+Boundfat [Bone village area]
+
+-------------------------------------------------------------------------------
+
+Roulette:
+
+Effect - Selects a random target from ALL targets on the battle screen and
+casts death on that target
+Pros - It is somewhat amusing to watch, though it's pretty useless.  
+Cons - You can kill yourself!
+Mp Cost - 6mp
+Can learn from - Death Dealer [Crater]
+
+-------------------------------------------------------------------------------
+
+Shadow Flare:
+
+Effect - Extreme non-elemental damage to a single target
+Pros - The damage is huge, more powerful than flare.
+Cons - Hits only one target, quite expensive to cast.  Shadow flare is also 
+reflectable, this benefits you in no way though since it's a single target 
+spell, thus, you can reflect it only once per casting.
+Mp Cost - 100mp
+Can learn from - Dragon Zombie [Crater], Ultimate Weapon [Cosmo Canyon]
+
+-------------------------------------------------------------------------------
+
+Pandora's Box*:
+
+Effect - Heavy magical damage to all enemies.  This attack is piercing, 
+meaning it ignores defense.
+Pros - Hits all targets, does large damage.  Furthermore, this spell can be 
+reflected.  When reflected the spell only hits one target per reflect.  If 
+your entire party has reflect set up, you can hit a total of three targets once
+or one target three times.  Very effective against bosses.
+Cons - Very expensive.
+Mp Cost - 120mp
+Can learn from - Dragon Zombie [Crater]
+*=This is a one time learn skill, make sure you have ALL of your enemy skill
+materias on.  When the first Dragon Zombie you kill dies, it will cast this.
+Once cast, it will set the variable to be disabled so the attack can never be
+repeated.
+
+-Note: Some people have seen it happen twice in a game, even in a battle, the
+only explanations I can offer are: 1) The changing of the variable somehow 
+failed due to faulty memory blocks.  2) There is another global variable which
+is presently unknown which is able to reset it.  I lean to explanation one.
+Plan on only seeing this attack ONCE.
+
+
+*******************************************************************************
+                              v) Monsters
+*******************************************************************************
+
+This section will illustrate which enemies can give what skills, where they are
+located and if they need to be manipulated to get the enemy skill.  It is also
+a solid reference for anything else you may wish to know about these monsters.
+
+-------------------------------------------------------------------------------
+
+Name: Adamantaimai
+Level: 30
+HP: 1600
+MP: 240
+EXP: 720
+AP: 100
+Gil: 2000
+Steal: Adaman Bangle
+Morph: Nothing
+Win: 
+Weak: 
+Half: 
+Nullify: Gravity
+Absorbs: 
+Manipulate: Yes, necessary
+Location: Wutai Beaches
+Learnable Skill - Death Force
+Notes: Don't worry about this battle, the pretty turtle will cast barrier and 
+MBarrier on himself before thinking about attacking you.
+
+-------------------------------------------------------------------------------
+
+Name: Ark Dragon
+Level: 18
+HP: 280
+MP: 124
+EXP: 84
+AP: 10
+Gil: 180
+Steal: Nothing
+Morph: Phoenix Down
+Win: 
+Weak: Wind
+Half: 
+Nullify: 
+Absorbs: 
+Manipulate: Yes, not necessary
+Location: Mythril Mines, right room
+Learnable Skill - Flamethrower
+Notes: Appears in the upper right room of the Mithril mines.
+
+-------------------------------------------------------------------------------
+
+Name: Beach Plug
+Level: 16
+HP: 200
+MP: 100
+EXP: 95
+AP: 10
+Gil: 155
+Steal: Nothing
+Morph: Turbo Ether
+Win: 
+Weak: 
+Half: 
+Nullify: 
+Absorbs: 
+Manipulate: Yes, necessary
+Location: Gongaga Beaches,Costa Del Sol Beaches, Corel Area Beaches
+Learnable Skill - Big Guard
+Notes: This skill is very helpful, even if it does cost a ton of mp.
+
+-------------------------------------------------------------------------------
+
+Name: Behemoth
+Level: 45
+HP: 7000
+MP: 400
+EXP: 1500
+AP: 100
+Gil: 2200
+Steal: Phoenix Down, War Gong
+Morph: Nothing
+Win: Nothing
+Weak: 
+Half: 
+Nullify: 
+Absorbs: 
+Manipulate: no
+Location: Sector 8 Underground [Midgar Raid, Disc 2 only]
+Learnable Skill - ????
+Notes:  Behemoth casts ???? far more often than Jersey seems to, so take
+advantage of an encounter with them.  They can't be manipulated though, and 
+they counter most magic attacks with flare, which will likely kill a party 
+member.
+
+-------------------------------------------------------------------------------
+
+Name: Boundfat
+Level: 27
+HP: 500
+MP: 80
+EXP: 420
+AP: 40
+Gil: 350
+Steal: Dazers
+Morph: Dazers
+Win: Dazers
+Weak: 
+Half: 
+Nullify: 
+Absorbs: Cold
+Manipulate: Yes, not necessary
+Location: Corral Valley
+Learnable Skill - Death Sentence
+
+-------------------------------------------------------------------------------
+
+Name: Bull Motor
+Level: 19
+HP: 420
+MP: 96
+EXP: 92
+AP: 9
+Gil: 140
+Steal: X-Potion
+Morph: 
+Win: 
+Weak: 
+Half: 
+Nullify: 
+Absorbs: 
+Manipulate: Yes, not necessary
+Location: Desert Prison
+Learnable Skill - Matra Magic
+
+-------------------------------------------------------------------------------
+
+Name: Christopher
+Level: 34
+HP: 6000
+MP: 200
+EXP: 1300
+AP: 80
+Gil: 800
+Steal: Earth Drum
+Morph: Nothing
+Win: Phoenix Down
+Weak: 
+Half: 
+Nullify: 
+Absorbs: 
+Manipulate: No
+Location: Crater - left - up
+Learnable Skill - Frog Song
+Notes: Appears with Gighee, they tend to work as a pair
+
+-------------------------------------------------------------------------------
+
+Name: Chocobo
+Level: Varies
+HP: Varies, can not be reduced
+MP: Varies
+Manipulate: no*
+Location: anywhere you see chocobo tracks
+Learnable Skill: Chocobuckle*
+
+* Feed the chocobo a mimett greens [or skylis] and hit it more than 31/32's of 
+its max hp but don't kill it.  Since this is not likely going to happen with 
+most forms of damage there is a much easier way.  Be sure the chocobo has a 
+level divisible by four.  All chocobos around Mideel are divisible by four and 
+so are some by the chocobo farm.  Then, after giving it the green, hit it with 
+L4 suicide.
+
+-------------------------------------------------------------------------------
+
+Name: Custom Sweeper
+Level: 15
+HP: 300
+MP: 100
+EXP: 63
+AP: 7
+Gil: 120
+Steal: Atomic Scissors
+Morph: X-Potion
+Win: 
+Weak: Lightning
+Half: 
+Nullify: 
+Absorbs: 
+Manipulate: Yes, not necessary
+Location: Midgar Area - dirt areas
+Learnable Skill - Matra Magic
+Notes: Matra Magic is a wonderful spell which will carry you clear across the 
+entire continent.
+
+-------------------------------------------------------------------------------
+
+Name: Dark Dragon
+Level: 57
+HP: 14000
+MP: 600
+EXP: 5000
+AP: 350
+Gil: 2500
+Steal: 
+Morph: Vaccine
+Win: Elixir
+Weak: 
+Half: 
+Nullify: Lightning
+Absorbs: 
+Manipulate: Yes, necessary for Dragon Force
+Location: Crater - top
+Learnable Skill - Laser, Dragon Force
+Notes: Manipulate him and cast them on yourself.  Be very careful about killing
+him though, he occasionally casts Ultima.
+
+-------------------------------------------------------------------------------
+
+Name: Death Claw
+Level: 19
+HP: 400
+MP: 120
+EXP: 96
+AP: 10
+Gil: 168
+Steal: Platinum Bangle
+Morph: 
+Win: 
+Weak: 
+Half: 
+Nullify: 
+Absorbs: 
+Manipulate: Yes, not necessary
+Location: Desert Prison
+Learnable Skill - Laser
+Notes: Just make sure to get laser, it's a long wait if you don't.
+
+-------------------------------------------------------------------------------
+
+Name: Death Dealer
+Level: 48
+HP: 7000
+MP: 400
+EXP: 1800
+AP: 200
+Gil: 2000
+Steal: Turbo Ether
+Morph: Nothing
+Win: Stardust
+Weak: 
+Half: 
+Nullify: 
+Absorbs: 
+Manipulate: Yes, not necessary but highly recommended.
+Location: Crater - right
+Learnable Skill - Roulette
+Notes: Roulette will kill anything not protected against death, this includes 
+the death dealers themselves.  Make sure to protect them with death force in 
+case they get hit by the roulette instead of you.  
+
+-------------------------------------------------------------------------------
+
+Name: Death Machine
+Level: 35
+HP: 2500
+MP: 150
+EXP: 900
+AP: 80
+Gil: 1200
+Steal: W-Machine Gun
+Morph: Nothing
+Win: 
+Weak: 
+Half: 
+Nullify: 
+Absorbs: 
+Manipulate: Yes, not necessary
+Location: Junon alarm, Junon path
+Learnable Skill - Matra Magic
+
+-------------------------------------------------------------------------------
+
+Name: Dragon
+Level: 32
+HP: 3500
+MP: 250
+EXP: 900
+AP: 110
+Gil: 1400
+Steal: Gold Armlet
+Morph: Nothing
+Win: Fire Fang
+Weak: 
+Half: 
+Nullify: 
+Absorbs: 
+Manipulate: Yes, not necessary
+Location: Mount Nibel [Indoor areas]
+Learnable Skill - Flamethrower
+Notes: Lots of HP and does a good deal of damage for this part of the game.  Be
+careful getting this skill.
+
+-------------------------------------------------------------------------------
+
+Name: Dragon Zombie
+Level: 54
+HP: 13000
+MP: 400
+EXP: 4000
+AP: 300
+Gil: 2800
+Steal: Cauldron
+Morph: Vaccine
+Win: 
+Weak: Holy, Curative
+Half: 
+Nullify: 
+Absorbs: Death [this is not an element but is treated as an elixir]
+Manipulate: No
+Location: Crater - right
+Learnable Skill - Shadowflare, Pandora's Box* [usually a final attack]
+Notes: Dragon Zombies are very rare to encounter, they are in the right path
+of the crater.  Pandora's Box will be used as a finishing move if you kill it 
+normally.  Dragon Zombies are vulnerable to healing spells though highly
+resistant to normal magic.  Using white wind will often petrify them making it
+impossible for them to cast Pandora's Box
+
+*=This is a one time learn skill, make sure you have ALL of your enemy skill
+materias on.  When the first Dragon Zombie you kill dies, it will cast this.
+Once cast, it will set the variable to be disabled so the attack can never be
+repeated.
+
+-Note: Some people have seen it happen twice in a game, even in a battle, the
+only explanations I can offer are: 1) The changing of the variable somehow 
+failed due to faulty memory blocks.  2) There is another global variable which
+is presently unknown which is able to reset it.  I lean to explanation one.
+Plan on only seeing this attack ONCE.
+
+-------------------------------------------------------------------------------
+
+Name: Gi Spector
+Level: 23
+HP: 450
+MP: 88
+EXP: 260
+AP: 20
+Gil: 150
+Steal: Nothing
+Morph: 
+Win: 
+Weak: Fire, Holy, Curative
+Half: 
+Nullify: 
+Absorbs: 
+Manipulate: Yes, not necessary
+Location: Cave of Gi
+Learnable Skill - Death Sentence
+Notes: There are some mandatory encounters with these so you should not have 
+any problem getting this skill.
+
+-------------------------------------------------------------------------------
+
+Name: Goblin
+Level: 40
+HP: 2000
+MP: 80
+EXP: 20
+AP: 20
+Gil: 20
+Steal: Zeio Nut
+Morph: Nothing
+Win: Zeio Nut
+Weak: 
+Half: 
+Nullify: 
+Absorbs: 
+Manipulate: Yes, not necessary
+Location: Goblin Island, North east part of the map, island is covered about
+half by forest and half by grasslands, very small.  They are the only enemies
+which appear in the forested area.
+Learnable Skill - Goblin Punch
+Notes: Goblins also house the elusive zeio nuts, might as well steal one while
+you wait for goblin punch.
+
+-------------------------------------------------------------------------------
+
+Name: Godo(optional boss)
+Level: 41
+HP: 10000
+MP: 1000
+EXP: 5000
+AP: 60
+GIL: 40000
+Win: All Creation
+Weakness: none
+Manipulate - no
+Location - Wutai Pagoda, fifth floor
+Learnable Skill - Trine
+Notes: IF YOU KILL GODO ON DISC ONE YOU WILL BE UNABLE TO GET TRINE ON THE 4TH
+COPY OF THE ENEMY SKILL MATERIA.  KILL HIM AT YOUR OWN RISK.  
+
+-------------------------------------------------------------------------------
+
+Name: Harpy
+Level: 18
+HP: 800
+MP: 200
+EXP: 148
+AP: 14
+Gil: 210
+Steal: Striking Staff
+Morph: Elixir
+Win: 
+Weak: 
+Half: 
+Nullify: 
+Absorbs: 
+Manipulate: Yes,  not necessary
+Location: Gold Saucer Area.  They appear IN THE SAND around the GOLD SAUCER on
+the WORLD MAP.  NOT, I repeat, NOT inside of the Desert Prison.  You may only
+walk on this area and get in battles with the buggy.  They also appear with
+Chocobos on the nearby tracks.
+Learnable Skill - Aqualung
+Notes: You may want to have big guard or an Mbarrier on since Aqualung will do
+a lot of damage this early.  
+
+-------------------------------------------------------------------------------
+
+Name: Jenova Life(boss)
+Level: 50
+HP: 10000
+MP: 300
+EXP: 4000
+AP: 350
+GIL: 1500
+Win: Wizard Bracelet
+Weakness: Earth
+Manipulate - no
+Location - City of the Ancients
+Learnable Skill - Aqualung
+Notes: Along with two other water attacks, Aqualung and reflect make up the 
+rest of her arsenal.  If you have a water ring on you can't lose the fight so
+just wait until she casts it.
+
+-------------------------------------------------------------------------------
+
+Name: Jersey
+Level: 25
+HP: 500
+MP: 100
+EXP: 320
+AP: 30
+Gil: 384
+Steal: Turbo Ether
+Morph: Nothing
+Win: Turbo Ether
+Weak: 
+Half: 
+Nullify: 
+Absorbs: 
+Manipulate: No
+Location: Shinra Mansion
+Learnable Skill - ????
+Notes: I really don't remember what causes these guys to cast ????, I know they
+do, but they're a real pain when they don't.
+
+-------------------------------------------------------------------------------
+
+Name: Malboro
+Level: 44
+HP: 4400
+MP: 900
+EXP: 1000
+AP: 100
+Gil: 100
+Steal: M-Tentacles
+Morph: Nothing
+Win: M-Tentacles
+Weak: Water
+Half: 
+Nullify: Gravity
+Absorbs: Poison
+Manipulate: No
+Location: Gaea's Cliff, Crater - right
+Learnable Skill - Bad Breath
+Notes: They use bad breath very rarely, unlike future Final Fantasy games which
+is the only attack they seem to use.  Anyway, frozen beam is their main attack.
+As the name suggests, it's an ice attack which does considerable damage.  Be 
+careful if you're getting this skill on Gaea's Cliff.
+
+-------------------------------------------------------------------------------
+
+Name: Materia Keeper(boss)
+Level: 38
+HP: 8400
+MP: 300
+EXP: 3000
+AP: 200
+GIL: 2400
+Win: Jem Ring
+Weakness: none
+Absorbs: Fire
+Manipulate - No
+Location - Nibel Mountains
+Learnable Skill - Trine
+Notes: He absorbs fire, just so you know.  I doubt he'll forget to cast trine 
+on you so there's really nothing to fear.
+
+-------------------------------------------------------------------------------
+
+Name: Midgar Zolom
+Level: 26
+HP: 4000
+MP: 348
+EXP: 250
+AP: 25
+Gil: 400
+Steal: Nothing
+Morph: Nothing
+Win: Nothing
+Weak: 
+Half: 
+Nullify: 
+Absorbs: 
+Manipulate: No
+Location: Grasslands - Swamps, Marsh between Chocobo Farm and Mithril Mines
+Learnable Skill - Beta
+Notes: In theory this can be the fourth enemy skill you'll get.  However, the 
+Zolom packs quite a punch and you're going to find it difficult.  Elemental and
+fire paired together in the armor will cut Betas damage in half.  To about 650
+at very low levels.  However, since it's almost always followed up by a bite
+attack you're going to want to have around 900 hp just to be safe.  If you are
+unable to get it right away, just do it when you come back later.
+
+-------------------------------------------------------------------------------
+
+Name: Mu
+Level: 12
+HP: 210
+MP: 52
+EXP: 54
+AP: 6
+Gil: 130
+Steal: Nothing
+Morph: Nothing
+Win: 
+Weak: 
+Half: 
+Nullify: 
+Absorbs: 
+Manipulate: No
+Location: Grasslands
+Learnable Skill - L4 Suicide
+Notes: They will use this skill, sometimes you have to sit around forever
+though.
+
+-------------------------------------------------------------------------------
+
+Name: Parasite
+Level: 51
+HP: 6000
+MP: 300
+EXP: 1100
+AP: 100
+Gil: 1000
+Steal: Remedy
+Morph: Remedy
+Win: 
+Weak: Holy, Wind
+Half: 
+Nullify: Earth
+Absorbs: 
+Manipulate: Yes, not necessary
+Location: Crater - top and right path
+Learnable Skill - L5 Death, Magic Breath
+Notes: A rather annoying enemy, it will counter attack magic with a silencing 
+spell.  In order to save time just manipulate them.
+
+-------------------------------------------------------------------------------
+
+Name: Pollensalta
+Level: 41
+HP: 4000
+MP: 220
+EXP: 1000
+AP: 100
+Gil: 1000
+Steal: Hyper
+Morph: Nothing
+Win: 
+Weak: 
+Half: 
+Nullify: 
+Absorbs: Fire
+Manipulate: Yes, necessary
+Location: Crater - right
+Learnable Skill - Angel Whisper
+Notes: She's hot, no really, fire heals her.  Angel Whisper is the ultimate in
+healing spells.  Pollensalta appears ONLY in the right path of the crater.
+
+-------------------------------------------------------------------------------
+
+Name: Razor Weed
+Level: 27
+HP: 1000
+MP: 145
+EXP: 375
+AP: 30
+Gil: 350
+Steal: Nothing
+Morph: Nothing
+Win: Tranquilizer
+Weak: 
+Half: 
+Nullify: 
+Absorbs: 
+Manipulate: Yes, not necessary
+Location: Wutai Area
+Learnable Skill - Magic Hammer
+Notes: They have a silence attack which can be annoying, otherwise not a 
+threat.
+
+-------------------------------------------------------------------------------
+
+Name: Serpent
+Level: 40
+HP: 14000
+MP: 240
+EXP: 1400
+AP: 70
+Gil: 2500
+Steal: Water Ring
+Morph: Mind Source
+Win: 
+Weak: Wind
+Half: 
+Nullify: Gravity, Earth
+Absorbs: Water
+Manipulate: No
+Location: Gelnika
+Learnable Skill - Aqualung
+Notes: Serpents are the rarest of the monsters in the Gelnika Airplane.  They 
+have the best appearing ratio right around where you found the Hades materia.
+They seldom cast Aqualung and you may need to give them a few ethers when they
+run out of skill power.
+
+-------------------------------------------------------------------------------
+
+Name: Sneaky Step
+Level: 21
+HP: 600
+MP: 65
+270EXP: 
+AP:24 
+Gil: 330
+Steal: Nothing
+Morph: 
+Win: 
+Weak: 
+Half: 
+Nullify: 
+Absorbs: 
+Manipulate: Yes, not necessary
+Location: Cave of Gi
+Learnable Skill - Death Sentence
+
+-------------------------------------------------------------------------------
+
+Name: Stilva
+Level: 40
+HP: 2000
+MP: 300
+EXP: 1000
+AP: 110
+Gil: 1100
+Steal: Nothing
+Morph: Holy Torch
+Win: Ether
+Weak: 
+Half: 
+Nullify: Gravity
+Absorbs: 
+Manipulate: Yes, not necessary
+Location: Gaea's Cliff
+Learnable Skill - Magic Breath, Trine
+Notes: Gaea's Cliff is a one time area only, if you have already defeated Godo
+this is your LAST chance to get Trine.  They are also difficult enemies so be 
+careful.
+
+-------------------------------------------------------------------------------
+
+Name: Touch Me
+Level: 18
+HP: 300
+MP: 74
+EXP: 170
+AP: 23
+Gil: 180
+Steal: Impaler
+Morph: Remedy
+Win: Maiden's Kiss
+Weak: 
+Half: 
+Nullify: 
+Absorbs: 
+Manipulate: Yes, not necessary
+Location: Gongaga Forests
+Learnable Skill - Frog Song
+Notes: Touch Me is a frog creature who's only other attack is frog jab, a punch
+which will turn you into a toad and back to yourself if hit again.
+
+-------------------------------------------------------------------------------
+
+Name: Toxic Frog
+Level: 26
+HP: 500
+MP: 100
+EXP: 420
+AP: 30
+Gil: 260
+Steal: Impaler
+Morph: Remedy
+Win: Impaler
+Weak: Cold
+Half: 
+Nullify: 
+Absorbs: 
+Manipulate: Yes, not necessary
+Location: Temple of the Ancients
+Learnable Skill - Frog Song
+Notes: Also has the annoying attack frog jab which will turn you into a toad 
+and back to yourself if struck again.
+
+-------------------------------------------------------------------------------
+
+Name: Trickplay
+Level: 24
+HP: 1500
+MP: 100
+EXP: 480
+AP: 35
+Gil: 1600
+Steal: Nothing
+Morph: Nothing
+Win: Hi-Potion
+Weak: 
+Half: 
+Nullify: 
+Absorbs: 
+Manipulate: No 
+Location: Icicle Area - Grasses, Corral Valley
+Learnable Skill - L4 Suicide
+Notes: If you didn't get L4 suicide, you can encounter these guys in the green
+grass around chocobo sages house.  In addition you can encounter Vlakorados and
+get carob nuts for mating chocobos.
+
+-------------------------------------------------------------------------------
+
+Name: Ultimate Weapon
+Level: 61
+HP: 100000
+MP: ???
+EXP: 0
+AP: 0
+GIL: 0
+Steal: varies with location [Cursed ring, reflect ring, circlet]
+Win: Ultima Weapon [last battle only]
+Weakness: None
+Manipulate - no
+Location - All over the world, skill gotten Near Cosmo Canyon
+Learnable Skill - Shadow Flare
+Notes: He will only use Shadowflare in the final encounter near Cosmo canyon.
+Shadowflare is his final attack, this it will only target the member who killed
+him.  To ensure you get it on every enemy skill materia, stack all of them on
+the same character and make sure that character is the only one attacking 
+Ultimate Weapon in this battle.  If you wish to get the AP for the battle as 
+well, equip a touph ring, as many hp pluses as you can and have an Mbarrier up.
+Hopefully, with all of this up his Shadowflare will only do around 4,100 damage
+to you and you'll be able to make good use of his 3,500ap as well as getting
+three copies of shadow flare.
+
+-------------------------------------------------------------------------------
+
+Name: Zemzelett
+Level: 17
+HP: 285
+MP: 36
+EXP: 70
+AP: 7
+Gil: 165
+Steal: Nothing
+Morph: Hi-Potion
+Win: 
+Weak: Wind
+Half: 
+Nullify: 
+Absorbs: 
+Manipulate: Yes, necessary
+Location: Junon Area, mostly in the grassy areas
+Learnable Skill - White wind
+Notes: if he casts thunderbolt before you manipulate him you'll need to give 
+him an ether because he won't have enough mp to cast white wind.
+
+-------------------------------------------------------------------------------
+
+*******************************************************************************
+                     vi) Comparison with other materia
+*******************************************************************************
+
+This section compares the effectiveness of several enemy skills to similar 
+spells which are usable from other materia.  Currently aside from mp cost
+
+-------------------------------------------------------------------------------
+
+Frog Song:
+
+Similar Spells - Toad, Sleepel
+Cost of other spells - 14, 8
+Final choice - Frog song is far cheaper and is available at about the same
+point in the game.
+
+-------------------------------------------------------------------------------
+
+White Wind:
+
+Similar Spells - Cure1, Cure2, Cure3, Full cure
+Cost of other spells - 5, 24, 64, 99
+Final choice - varies, if you have a lot of current hp with the caster, White
+wind is a far more effective spell than any of the cures.
+
+-------------------------------------------------------------------------------
+
+Big Guard:
+
+Similar Spells - Barrier, MBarrier, Wall, Haste 
+Cost of other spells - 16, 24, 58, 18
+Final choice - Big Guard, far cheaper and much easier to set up than casting 
+all of the other spells.  If the haste bothers you, put time-added affect in
+your armor and you will be unable to enter haste mode, as well as being slowed
+or stopped.
+
+-------------------------------------------------------------------------------
+
+Angel Whisper:
+
+Similar Spells - Life2, Full Cure 
+Cost of other spells - 100, 99
+Final choice - Angel Whisper is far more effective than full cure and just
+as good as life2 for half the price.
+
+-------------------------------------------------------------------------------
+
+Flame Thrower:
+
+Similar Spells - Fire, Fire2, Fire3
+Cost of other spells - 4, 22, 55
+Final choice - Flamethrower does do the most damage per mp point of any fire
+skill aside from fire[1].  However, since the damage is quite low you will need
+to take several turns to get to the damage of fire3 and such.
+
+-------------------------------------------------------------------------------
+
+Laser:
+
+Similar Spells - Demi2 
+Cost of other spells - 33
+Final choice - Much cheaper than demi2, however, demi2 can be paired with an
+'all' materia to hit many targets or 'Quadra magic' to be cast four times.
+
+-------------------------------------------------------------------------------
+
+Bad Breath:
+
+Similar Spells - Hades
+Cost of other spells - 150
+Final choice - Bad breath is much cheaper, but Hades deals damage as well as a
+few additional status effects.
+
+-------------------------------------------------------------------------------
+
+Beta:
+
+Similar Spells - Fire-all, Fire2-all, Fire3-all, Ifrit [Summon]
+Cost of other spells - 4, 22, 55, 34
+Final choice - Beta is the best off all of these spells.  Beta does over 125%
+the amount of damage of Fire3 for 67.3% of the cost.  Compared to Ifrit which
+has roughly the same casting cost, Beta does just over 200% the damage.
+
+-------------------------------------------------------------------------------
+
+Aqualung:
+
+Similar Spells - Leviathan [Summon]
+Cost of other spells - 78
+Final choice - Aqualung is a far better spell.  For only 43.5% the cost of 
+Leviathan, Aqualung does almost 68% as much damage.  Making it far more cost 
+effective.  Add into that the animation is shorter and it can be reflected and
+you have yourself an all purpose spell.
+
+-------------------------------------------------------------------------------
+
+Trine:
+
+Similar Spells - Lightning-all, Lightning2-all, Lightning3-all, Ramuh
+Cost of other spells - 5, 22, 55, 40
+Final choice - I would be lying if I said trine isn't one of the best spells in
+the entire game.  For only 38.5% the cost of Bolt3, Trine does 80% the amount 
+of damage.  Ramuh, the lightning summon, costs twice as much as trine and does
+only 88.5% of trines damage.  Trine has one of the best dmg/mp ratios of any
+spell in the game.  
+
+-------------------------------------------------------------------------------
+
+Magic Breath:
+
+Similar Spells - Kjata [Summon]
+Cost of other spells - 110, 160
+Final choice - Magic Breath costs about 68% of Kjata and does almost 78% as 
+much damage.
+
+-------------------------------------------------------------------------------
+
+Pandora's Box: 
+
+Similar Spells - Ultima, Bahamut [Summon], Neo Bahamut [Summon], Bahamut 
+Zero [Summon] Knights of the Round [Summon]
+Cost of other spells - 130, 100, 140, 180, 250
+Note: They are only similar in the effect that they all do huge damage to all
+targets.  All of these spells [except Ultima] ignore defense [in this case 
+magic defense [called piercing]] to ensure large damage.  
+Final choice -  Pandora's Box is 110% more expensive than Bahamut, 79% as 
+expensive as Neo Bahamut, 61% as expensive as Bahamut Zero, and 85% as costly
+as Ultima.  It does about 93% the damage of Bahamut, 50% the damage of 
+Bahamut Zero and only 65% as much damage as Ultima, making it a highly 
+expensive skill with no real advantage over any of the other spells.
+
+
+*******************************************************************************
+                      vii) Comparing to each other
+*******************************************************************************
+
+So, after seeing above how enemy skills are in general far more cost friendly, 
+why not take the time to answer the next question I'm begging.  Which enemy 
+skill should I run around casting in random battles?  
+
+Of course, the answer does vary depending on the immunities a monster has.  
+But, for the purpose of demonstration, I tested all enemy skills which do 
+variable damage against monsters.  While I could have just checked game code, 
+there are many bugs which could throw such a thing off.  For anyone who cares,
+the testing was done on the enemy 'Head Hunter' found near Mideel.  This enemy
+was selected for several reasons.  First, and most importantly, they appear 
+close to 75% of the battles in the forests around Mideel.  Secondly, they 
+appear in groups of three or four, giving me many targets to hit.  Another 
+important reason was the lack of immunity to any element I was testing.  They
+suffered no double damage either, making this a fast process.  Each spell was
+tested 100 times and averaged out.  I will include 20 random picks from the
+testing in this FAQ to demonstrate what occurred.  
+
+Note: All testing was done by Vincent, who had 255 magic attack at level 71.  
+I did NOT factor in the magic defense of the head hunter since I was also 
+comparing damages of many spells which pierce magic defense, which would be an
+unfair comparison.  Note, in order to get the 'real' damage of some spells I
+was forced to use a magic barrier on them, and then doubled the answer.  This
+could cause a VERY small inaccuracy as 5500 doubled could be 10999, 11000, or
+11001 damage.  However, a total of one hundred possible damage from one 
+hundred testings is a rather small number compared to the 1,300,000+ damage
+which was done.
+
+Key:  B=Beta   T=Trine  AL=Aqualung  MB= Magic Breath  MM=Matra Magic
+SF=Shadow Flare  FT=Flame Thrower  PB=Pandora's Box
+
+___________________________________________________________________________
+Data:    |   B   |   T   |   AL  |   MB  |   MM  |    SF  |   FT  |   PB  |
+mp       |   35  |   20  |   34  |   75  |   8   |   100  |   10  |  110  |
+Test1    |  5670 |  3656 |  5498 |  7424 |  1182 |  13178 |  1455 |  6971 |
+Test2    |  5487 |  3605 |  5468 |  8348 |  1141 |  13121 |  1460 |  7318 |
+Test3    |  5691 |  3571 |  5578 |  8132 |  1180 |  12958 |  1462 |  1232 |
+Test4    |  5648 |  3627 |  5550 |  8177 |  1167 |  13043 |  1436 |  7181 |
+Test5    |  5470 |  3659 |  5384 |  8103 |  1148 |  13008 |  1512 |  7122 |
+Test6    |  5524 |  3569 |  5579 |  7924 |  1126 |  13405 |  1484 |  7014 |
+Test7    |  5502 |  3437 |  5374 |  8348 |  1157 |  13596 |  1496 |  7039 |
+Test8    |  5459 |  3613 |  5628 |  8309 |  1167 |  12837 |  1507 |  7306 |
+Test9    |  5719 |  3440 |  5612 |  7954 |  1169 |  13312 |  1512 |  7354 |
+Test10   |  5561 |  3445 |  5345 |  8248 |  1184 |  13585 |  1482 |  7225 |
+Test11   |  5610 |  3497 |  5475 |  7925 |  1163 |  13281 |  1452 |  7046 |
+Test12   |  5536 |  3581 |  5404 |  8003 |  1130 |  12772 |  1486 |  7215 |
+Test13   |  5691 |  3485 |  5346 |  8031 |  1135 |  12872 |  1431 |  7183 |
+Test14   |  5509 |  3491 |  5546 |  7921 |  1169 |  13034 |  1443 |  7134 |
+Test15   |  5711 |  3515 |  5309 |  8218 |  1124 |  13653 |  1484 |  6927 |
+Test16   |  5703 |  3607 |  5592 |  8082 |  1170 |  13354 |  1477 |  7172 |
+Test17   |  5477 |  3427 |  5422 |  7964 |  1153 |  13065 |  1512 |  7355 |
+Test18   |  5639 |  3495 |  5390 |  8375 |  1147 |  13061 |  1510 |  7306 |
+Test19   |  5687 |  3611 |  5429 |  7884 |  1170 |  13162 |  1485 |  7289 |
+Test20   |  5585 |  3613 |  5349 |  8089 |  1129 |  13123 |  1492 |  7374 |
+Total    |111,879| 70,944|107,278|161,454|23,110 | 263,423| 29,578|143,762|
+Avg/tar  |5593.95|3574.20|5363.90|8097.70|1155.50|13171.15|1478.90|7188.10|
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Now, we see that Shadow flare obviously does the most damage per target.  But,
+since it only hits one target it's not such a bargain.  In the next set of 
+tables we will go about analyzing the spells more; in hopes of showing which
+ones are really worth it under what circumstances.
+
+This first table is a comparison of how expensive the enemy skills are in 
+relation to one another.  There is a line with each skill's cost being set as 
+100% the cost and showing  others costs around it.  
+
+____________________________________________________________________________
+Data:      |   B   |   T   |   AL  |   MB  |   MM  |   SF  |   FT  |   PB  |
+mp to cast |  35   |   20  |   34  |  75   |   8   | 100   |  10   |  110  |
+% mp of B  | 100   |  57.14| 97.14 | 214.29|  22.86| 285.71|  28.57| 315.29|
+% mp of T  | 175   | 100   |  170  | 375   |  40   | 500   |  50   |  550  |
+% mp of AL | 104.94|  58.82|  100  | 220.59|  23.53| 294.12|  29.41| 323.53|
+% mp of MB |  46.67|  26.67| 45.33 | 100   |  10.67| 133.33|  13.33| 146.67|
+% mp of MM | 437.50| 250   |  425  | 937.5 | 100   |1250   | 125   | 1375  |
+% mp of SF |  35   |  20   |   34  |  75   |   8   | 100   |  10   |  110  |
+% mp of FT | 350   | 200   |  340  | 750   |  80   |1000   | 100   | 1100  |
+% mp of PB |  31.81|  18.18| 30.91 |  68.18|   7.27|  90.91|   9.09|  100  |
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+This next table will compare the average damage done to a target of one spell
+to the average damage of the same target with a different spell.  After doing
+this, they will be compared by how much damage they do to a single target in 
+relation to how much damage they do to that target.  Since this obviously 
+benefits skills which hit only one target, they will then be compared by how
+much total damage they do to a full screen of targets, five, in one casting. 
+Since this will obviously dis-favor skills which only hit one target I decided
+to compare and ultimately rank them in both ways.
+
+______________________________________________________________________________
+Data:       |   B   |   T   |   AL  |   MB  |   MM  |   SF   |   FT  |   PB  |
+Avg/tar     |5593.95|3574.20|5363.90|8097.70|1155.50|13171.15|1478.90|7188.10|
+% dmg of B  | 100   |  63.41|  95.89| 144.76|  20.66|  235.45|  26.44| 128.50|
+% dmg of T  | 157.70| 100   | 151.22| 228.28|  32.57|  371.31|  41.69| 202.64|
+% dmg of AL | 104.29|  66.13| 100   | 150.97|  21.54|  245.55|  27.57| 134.00|
+% dmg of MB |  69.08|  43.81|  66.24| 100   |  14.27|  162.65|  18.26|  88.77|
+% dmg of MM | 484.22| 307.05| 464.31| 700.95| 100   | 1140.11| 128.02| 622.12|
+% dmg of SF |  42.45|  26.92|  40.71|  61.45|   8.77|  100   |  11.22|  54.55|
+% dmg of FT | 378.25| 239.85| 362.70| 547.55|  78.13|  890.60| 100   | 486.04|
+% dmg of PB |  77.82|  49.35|  74.62| 112.65|  16.07|  183.24|  20.57| 100   |
+mp to cast  |  35   |  20   |   34  |  75   |   8   |  100   |  10   | 110   |
+Dmg/Mp 1 tar| 159.83| 177.36| 157.76| 107.97| 144.44|  131.71| 147.89|  65.35|
+Rank 1 tar  |   2   |   1   |   3   |   7   |   5   |    6   |   4   |   8   |
+Dmg/Mp 5 tar| 799.15| 886.80| 788.80| 539.85| 722.20|  131.71| 147.89| 326.75|
+Rank 5 tar  |   2   |   1   |   3   |   5   |   4   |    8   |   7   |   6   |
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+*******************************************************************************
+                         viii) Other Notes
+*******************************************************************************
+
+About a third of all enemy skills are able to be reflected.  The following ones
+can be reflected;
+
+L4 Suicide - 1 target per reflect
+Magic Hammer
+Flame Thrower
+Laser
+Matra Magic - 1 target per reflect
+Aqualung - 1 target per reflect
+Shadow Flare
+Pandora's Box - 1 target per reflect
+
+Be weary of these and use them to your advantage whenever possible.
+
+-------------------------------------------------------------------------------
+
+White Wind has a hidden status attack when used as an offensive spell against
+the unholy/undead.  It will frequently petrify them.  Angel Whisper can also
+be used offensively.
+
+-------------------------------------------------------------------------------
+
+Frog Song can both inflict and cure Toad and sleep statuses
+
+-------------------------------------------------------------------------------
+
+Big Guard can be used to clear the statuses of Slow and Stop since it casts
+haste, however, if you defend slow and stop big guard will not be able to grant
+you haste at all.
+
+
+*******************************************************************************
+                      ix) Order of Obtaining
+*******************************************************************************
+
+Depending on how many enemy skills materias you wish to complete will depend
+on the order you get the skills.  Some skills, such as trine, are only 
+available in areas which can not be accessed over and over.
+
+-------------------------------------------------------------------------------
+
+If you're using only one enemy skill materia you will get them in this order.
+
+1. Matra Magic [Custom Sweeper]
+2. L4 Suicide [Mu]
+3. Chocobuckle [Chocobo]
+4. Beta [Midgar Zolom]*
+5. Flamethrower [Ark Dragon]
+6. Laser [Death Claw]
+7. Big Guard [Beach Plug]
+8. Aqualung [Harpy]
+9. White Wind [Zemzelett]
+10. Frog Song [Touch Me]
+11. Death Sentence [Gi Spector]
+12. ???? [Jersey]
+13. Trine [Materia Keeper]
+14. Death Force [Adamantaimai]
+15. Magic Hammer [Razor Weed]
+16. Magic Breath [Stilva]
+17. Bad Breath [Malboro]
+18. Goblin Punch [Goblin]
+19. Shadowflare [Ultimate Weapon]
+20. Dragon Force [Dark Dragon]
+21. L5 Death [Parasite]
+22. Roulette [Death Dealer]
+23. Angel Whisper [Pollensalta]
+24. Pandora's Box [Dragon Zombie]
+*the Midgar Zolom will likely be too powerful at this point in the game, come
+back for beta when you backtrack to pick up White wind from Zemzelett.
+
+-------------------------------------------------------------------------------
+
+If you're using the first two enemy skill materias, the most efficient ways
+to get the skills you will have missed are;
+
+1. Matra Magic [Bullmotor]
+2. L4 Suicide [Mu* or Trickplay]
+3. Chocobuckle [Chocobo]
+4. Flamethrower [Dragon or Arc Dragon*]
+5. Beta [Midgar Zolom]*
+*Since you will likely be backtracking to get Beta on the first enemy skill as
+well, it's just as easy to pick up all of these skills from the weaker enemies.
+
+-------------------------------------------------------------------------------
+
+If you're using the first three enemy skill materias, the first skill you will
+get on the third on is Aqualung, from Jenova Life.  You will pick up starting 
+at Magic Breath.  The best way to learn the first 15 skills are:
+
+1. Matra Magic [Custom Sweeper]
+2. L4 Suicide [Trickplay]
+3. Chocobuckle [Chocobo]*
+4. Beta [Midgar Zolom]
+5. Flamethrower [Ark Dragon]
+6. Laser [Dark Dragon]
+7. Big Guard [Beach Plug]
+8. Aqualung [Serpent]
+9. White Wind [Zemzelett]
+10. Frog Song [Touch Me]
+11. Death Sentence [Boundfat]
+12. ???? [Behemoth]
+13. Trine [Stilva]**
+14. Death Force [Adamantaimai]
+15. Magic Hammer [Razor Weed]
+*Wait until you get the highwind and just do this at Mideel.
+**This involves no backtracking at all and you can get it along with Magic
+Breath.
+
+-------------------------------------------------------------------------------
+
+If you plan to max out all four enemy skill materias, be CERTAIN you do NOT
+kill Godo before getting the fourth one.  If you do, your only remaining 
+source of the skill, Trine, will be lost.  When you get this materia, the
+first copy will [can] have all skills 1-17.  For those skills you will be
+able to pick up some of them in the crater, but most of them you'll be forced
+to backtrack for.  Remember, and I can not emphasize this enough, Godo is the
+ONLY source for Trine for this enemy skill.
+
+
+*******************************************************************************
+                           x) Credits
+*******************************************************************************
+
+CJayC = the founder of GameFAQs for hosting this guide.
+
+Terence - Half dozen minor damage formulae corrections
+
+Arctic - Suggestions
+
+Shadow666 - Suggestions about layout, not to mention hosting this too ^_x
+
+Melissa - Fixing some wrong words and misspellings.
+
+ScorpioSunLily - <3
+
+___________________________________
+Copyright 2003, Apathetic Aardvark|
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
